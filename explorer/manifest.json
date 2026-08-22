@@ -1,13 +1,13 @@
 {
   "csv": {
-    "English": 8,
-    "General_Knowledge": 2,
-    "Math": 1,
-    "Reading_Passage": 6,
-    "reading_passages": 6,
-    "Science": 4,
-    "Test" : 9,
-    "Daily_Practice": 4
+    "English": 9,
+    "General_Knowledge": 3,
+    "Math": 2,
+    "Reading_Passage": 7,
+    "reading_passages": 7,
+    "Science": 5,
+    "Test" : 10,
+    "Daily_Practice": 5
   },
   "images": {
     "assets/images/reading_passage/amazon_rainforest.png": 1,
