@@ -1,5 +1,5 @@
 ﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
-MAYA_P2_HS_001,1,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,roots,Hotspot,maya_plant_page_2.png|roots|0.35|0.62|0.30|0.20,,Free
+MAYA_P2_HS_001,1,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,roots,Hotspot,maya_plant_page_2.png|roots|0.28|0.68|0.46|0.28,,Free
 E_TEST_L001_Q001,1,Compound Words,Which two words make sunflower?,Sun + flower,Sun + light,Sky + flower,Sun + shine,Sun + flower,MCQ,,,
 E_TEST_L001_Q002,2,Compound Words,Which word is made by joining rain + bow?,Rainbow,Raincoat,Rainfall,Raindrop,Rainbow,MCQ,,,
 F_ENG_L015_Q145,2,Compound Words,🐙 Did you know?\nAn octopus has three hearts!,,,,,,Break,sunflower.png,,
