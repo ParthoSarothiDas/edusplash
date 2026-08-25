@@ -1,0 +1,19 @@
+﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
+1,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
+2,1,Maya's Magical Little Plant,Which word is made by joining rain + bow?,Rainbow,Raincoat,Rainfall,Raindrop,Rainbow,MCQ,,,
+3,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png\|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
+4,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png\|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
+5,3,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,roots,Hotspot,maya_plant_page_2.png\|roots:rectangle:0.35:0.62:0.30:0.20,,Free
+6,3,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
+7,4,Tense,🐙 Whats happens every day?\nI eat rise.\nThe sun rises in the east.\nHe runs in the morning.,,,,,,Break,,,
+8,4,Tense,Which two words make sunflower?,Sun + flower,Sun + light,Sky + flower,Sun + shine,Sun + flower,MCQ,,,
+9,5,Compound Words,Which word is made by joining rain + bow?,Rainbow,Raincoat,Rainfall,Raindrop,Rainbow,MCQ,,,
+10,5,Compound Words,🐙 Did you know?\nAn octopus has three hearts!,,,,,,Break,sunflower.png,,
+11,5,Compound Words,Which two words make toothbrush?,Tooth + bag,Tooth + brush,Tooth + paste,Tooth + box,Tooth + brush,MCQ,,,
+12,5,Compound Words,Which word is made by joining foot + ball?,Football,Footprint,Footstep,Footpath,Football,MCQ,,,
+13,6,Compound Words,Which two words make snowman?,Snow + ball,Snow + man,Snow + fall,Snow + day,Snow + man,MCQ,,,
+14,6,Compound Words,Which word is made by joining bed + room?,Bedroom,Bedtime,Bedside,Bedcover,Bedroom,MCQ,,,
+15,6,Compound Words,Match the words to make compound words.,,,,,,Match,"[{""left"":""Sun"",""right"":""flower ""},{""left"":""Rain"",""right"":""bow""},{""left"":""Tooth"",""right"":""brush""},{""left"":""Foot"",""right"":""ball""}]",,
+16,6,Compound Words,Match the words to make compound words.,,,,,,Match,"[{""left"":""Snow"",""right"":""man""},{""left"":""Bed"",""right"":""room""},{""left"":""Butter"",""right"":""fly""},{""left"":""Sun"",""right"":""shine""}]",,
+17,6,Compound Words,Which compound word does this picture show?,Sunflower,Snowman,Rainbow,Football,Sunflower,MCQ,sunflower.png,,
+18,6,Compound Words,Which compound word does this picture show?,Toothbrush,Bedroom,Football,Rainbow,Toothbrush,MCQ,toothbrush.png,,
