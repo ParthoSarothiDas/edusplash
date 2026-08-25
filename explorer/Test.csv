@@ -1,9 +1,9 @@
 ﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
 1,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
 2,1,Maya's Magical Little Plant,Which word is made by joining rain + bow?,Rainbow,Raincoat,Rainfall,Raindrop,Rainbow,MCQ,,,
-3,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png\|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
-4,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png\|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
-5,3,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,roots,Hotspot,maya_plant_page_2.png\|roots:rectangle:0.35:0.62:0.30:0.20,,Free
+3,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
+4,2,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
+5,3,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,roots,Hotspot,maya_plant_page_2.png|roots:rectangle:0.35:0.62:0.30:0.20,,Free
 6,3,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
 7,4,Tense,🐙 Whats happens every day?\nI eat rise.\nThe sun rises in the east.\nHe runs in the morning.,,,,,,Break,,,
 8,4,Tense,Which two words make sunflower?,Sun + flower,Sun + light,Sky + flower,Sun + shine,Sun + flower,MCQ,,,
