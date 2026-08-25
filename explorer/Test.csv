@@ -1,6 +1,0 @@
-﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
-MAYA_P2_HS_001,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
-MAYA_P2_HS_002,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
-MAYA_P2_HS_003,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27,,Free
-MAYA_P2_HS_004,1,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28,,Free
-MAYA_P2_HS_005,2,Maya's Magical Little Plant,Tap the fruits,,,,,complete,Hotspot,maya_plant_page_3.png|roots:rectangle:0.46:0.47:0.17:0.06,,Free
