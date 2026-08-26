@@ -13,4 +13,4 @@ F_MAT_L002_Q011,5,Numbers,Select the greatest number.,45,67,34,50,67,Balloon,,,
 F_MAT_L002_Q012,5,Numbers,Select the greatest number.,35,18,42,27,42,Balloon,,,
 F_MAT_L002_Q013,5,Numbers,Select the greatest number.,61,44,56,39,61,Balloon,,,
 F_MAT_L002_Q014,5,Numbers,Select the greatest number.,85,91,68,73,91,Balloon,,,
-MAYA_P2_HS_010,6,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27,,Free
+MAYA_P2_HS_010,6,Maya's Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27,,Free
