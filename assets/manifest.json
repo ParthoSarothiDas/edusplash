@@ -1,1 +1,8 @@
-
+{
+  "images": {
+    "images_mcq/bookshelf.png": 1,
+    "images_mcq/bowl_of_rice.png": 1,
+    "images_mcq/boys_running.png": 1,
+    "images_mcq/butterfly.png": 1
+  }
+}
