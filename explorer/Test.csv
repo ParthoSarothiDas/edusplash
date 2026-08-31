@@ -1,0 +1,35 @@
+﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
+abhik1,1,Maya's Magical Little Plant,Find Head,,,,,complete,Hotspot,abhik.png|head:circle:0.3414:0.0319:0.3475:0.3475,,Free
+9,1,Maya's Magical Little Plant,Choose the synonym of happy.,Glad,Tired,Angry,Sad,Glad,MCQ,app_icon_1.png,,Free
+7,1,Maya's Magical Little Plant,Find the skull.,,,,,complete,Hotspot,skeleton.png|skull:ellipse:0.3173:0.0880:0.4197:0.0373,,Free
+8,1,Maya's Magical Little Plant,Find the foots.,,,,,complete,Hotspot,skeleton.png|foot1:rectangle:0.2724:0.7656:0.2823:0.0865;foot2:rectangle:0.5852:0.7639:0.2493:0.0983,,Free
+MAYA_P2_HS_001,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:rectangle:0.28:0.68:0.46:0.28;stem:rectangle:0.46:0.42:0.10:0.27;leaves:rectangle:0.38:0.25:0.25:0.20,,Free
+MAYA_P2_HS_002,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27;leaves:circle:0.38:0.25:0.25:0.20,,Free
+MAYA_P2_HS_003,1,Maya's Magical Little Plant,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27,,Free
+MAYA_P2_HS_004,1,Maya's Magical Little Plant,Tap the part of the plant that is under the soil.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28,,Free
+MAYA_P2_HS_005,2,Maya's Magical Little Plant,Tap the fruits,,,,,complete,Hotspot,maya_plant_page_3.png|roots:rectangle:0.46:0.47:0.17:0.06,,Free
+F_MAT_L102_Q1012,3,Division by 8 and 9,27 ÷ 9 = _____,,,,,3,FillBlank,,,
+F_ENG_L101_Q1014,3,Vocabulary 2,The soup is hot but the ice cream is ______.,,,,,cold,FillBlank,,,
+F_ENG_L112_Q1128,3,Fill in the Blank : Describing Words,The little puppy licked Niti's hand. (Find all Describing words),,,,,little,FillBlank,,,
+F_MAT_L089_Q881,4,Addition with Carrying,27|15|+,,,,,42,ColumnMath,,,
+F_MAT_L089_Q882,4,Addition with Carrying,38|27|+,,,,,65,ColumnMath,,,
+F_MAT_L002_Q011,5,Numbers,Select the greatest number.,45,67,34,50,67,Balloon,,,
+F_MAT_L002_Q012,5,Numbers,Select the greatest number.,35,18,42,27,42,Balloon,,,
+F_MAT_L002_Q013,5,Numbers,Select the greatest number.,61,44,56,39,61,Balloon,,,
+F_MAT_L002_Q014,5,Numbers,Select the greatest number.,85,91,68,73,91,Balloon,,,
+MAYA_P2_HS_010,6,New,Tap all the plant parts you have learned about.,,,,,complete,Hotspot,maya_plant_page_2.png|roots:ellipse:0.28:0.68:0.46:0.28;stem:circle:0.46:0.42:0.10:0.27,,Free
+F_ENG_L001_Q001,7,Vocabulary : Beginner,Choose the synonym of happy.,Glad,Tired,Angry,Sad,Glad,Balloon,,,
+F_ENG_L001_Q002,7,Vocabulary : Beginner,Choose the synonym of big.,Short,Tiny,Large,Little,Large,Balloon,,,
+F_ENG_L001_Q003,7,Vocabulary : Beginner,Choose the synonym of quick.,Late,Fast,Heavy,Slow,Fast,Balloon,,,
+F_ENG_L001_Q004,7,Vocabulary : Beginner,Choose the synonym of begin.,Start,Close,Stop,End,Start,Balloon,,,
+F_ENG_L001_Q005,7,Vocabulary : Beginner,Choose the synonym of smart.,Lazy,Weak,Clever,Dull,Clever,Balloon,,,
+F_ENG_L001_Q006,7,Vocabulary : Beginner,Choose the antonym of hot.,Warm,Cold,Soft,Bright,Cold,Balloon,,,
+F_ENG_L001_Q007,7,Vocabulary : Beginner,Choose the antonym of tall.,High,Long,Wide,Short,Short,Balloon,,,
+F_ENG_L001_Q008,7,Vocabulary : Beginner,Choose the antonym of clean.,Clear,Dirty,White,Fresh,Dirty,Balloon,,,
+F_ENG_L001_Q009,7,Vocabulary : Beginner,Choose the antonym of open.,Wide,Loose,Close,Start,Close,Balloon,,,
+1,8,,Select the cat in the box.,,,,,complete,Hotspot,preposition_position.png|in:rectangle:0.0464:0.0331:0.2526:0.2696,,Free
+2,8,,Find the cat under the box.,,,,,complete,Hotspot,preposition_position.png|under:rectangle:0.3075:0.0483:0.3035:0.2459,,Free
+3,8,,Find the cats on the box.,,,,,complete,Hotspot,preposition_position.png|on:rectangle:0.6636:0.0195:0.2730:0.2713;on2:rectangle:0.0481:0.3891:0.2526:0.2052,,Free
+4,8,,Find the cat in front of the box.,,,,,complete,Hotspot,preposition_position.png|infront:rectangle:0.3364:0.3468:0.2730:0.2713,,Free
+5,8,,Find the cats between the boxes.,,,,,complete,Hotspot,preposition_position.png|between:rectangle:0.6416:0.3518:0.3205:0.2357;between2:rectangle:0.4924:0.6893:0.4358:0.2238,,Free
+6,8,,Find the cat beside the box.,,,,,complete,Hotspot,preposition_position.png|beside:rectangle:0.0464:0.6621:0.4222:0.2713,,Free
