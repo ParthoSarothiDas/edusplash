@@ -6,5 +6,18 @@
     "Math": 4,
     "Science": 13
   },
+  "lessons": {
+    "Science/animals.md": 1,
+    "Science/earth_space.md": 1,
+    "Science/environment.md": 1,
+    "Science/force_motion.md": 1,
+    "Science/human_body.md": 1,
+    "Science/light.md": 1,
+    "Science/objects_around_us.md": 1,
+    "Science/plant.md": 1,
+    "Science/safety_health.md": 1,
+    "Science/sound.md": 1,
+    "Science/weather_season.md": 1
+  },
   "images": {}
 }
