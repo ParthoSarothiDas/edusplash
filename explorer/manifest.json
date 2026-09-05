@@ -6,7 +6,7 @@
     "Reading_Passage": 9,
     "reading_passages": 9,
     "Science": 5,
-    "Test" : 47,
+    "Test" : 48,
     "Daily_Practice": 5
   },
   "images": {
@@ -42,6 +42,6 @@
     "assets/images/reading_passage/talking_tree.png": 1,
     "assets/images/reading_passage/picnic_in_the_park.png": 1,
     "assets/images/reading_passage/lost_kitten.png": 1,
-    "assets/images/reading_passage/friendly_dolphin.png": 1
+    "assets/images/reading_passage/friendly_dolphin.png": 1,
   }
 }
