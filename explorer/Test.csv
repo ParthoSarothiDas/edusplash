@@ -1,5 +1,5 @@
 ﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
-F_MAT_L102_Q1117,1,Maya's Magical Little Plant,27524|15785|+ = _____,,,,,43309,ColumnMath,,,
+F_MAT_L102_Q1117,1,Maya's Magical Little Plant,27524|15785|+,,,,,43309,ColumnMath,,,
 F_MAT_L102_Q1112,1,Maya's Magical Little Plant,27 ÷ 9 = _____,,,,,3,FillBlank,app_icon_1.png,,
 F_MAT_L102_Q102,1,Maya's Magical Little Plant,27 ÷ 3 = _____,,,,,9,FillBlank,,,
 abhik1,1,Maya's Magical Little Plant,Find Head,,,,,complete,Hotspot,abhik.png|head:circle:0.3414:0.0319:0.3475:0.3475,,Free
