@@ -3,8 +3,8 @@
     "English": 10,
     "General_Knowledge": 3,
     "Math": 3,
-    "Reading_Passage": 8,
-    "reading_passages": 8,
+    "Reading_Passage": 9,
+    "reading_passages": 9,
     "Science": 5,
     "Test" : 43,
     "Daily_Practice": 5
@@ -37,6 +37,10 @@
     "assets/images/reading_passage/brave_little_turtle.png": 1,
     "assets/images/reading_passage/ant_and_grasshopper.png": 1,
     "assets/images/reading_passage/rainbow_after_rain.png": 1,
-    "assets/images/reading_passage/little_cloud.png": 1
+    "assets/images/reading_passage/helpful_little_ant.png": 1,
+    "assets/images/reading_passage/little_cloud.png": 1,
+    "assets/images/reading_passage/talking_tree.png": 1,
+    "assets/images/reading_passage/picnic_in_the_park.png": 1,
+    "assets/images/reading_passage/lost_kitten.png": 1
   }
 }
