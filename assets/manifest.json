@@ -54,6 +54,20 @@
     "images_mcq/oval.png": 2,
     "images_mcq/rectangle.png": 2,
     "images_mcq/circle.png": 2,
-    "images_mcq/triangle.png": 2
+    "images_mcq/triangle.png": 2,
+    "images_mcq/decagon.png": 1,
+    "images_mcq/heptagon.png": 1,
+    "images_mcq/hexagon.png": 1,
+    "images_mcq/octagon.png": 1,
+    "images_mcq/parallelogram.png": 1,
+    "images_mcq/pentagon.png": 1,
+    "images_mcq/rhombus.png": 1,
+    "images_mcq/sphere.png": 1,
+    "images_mcq/cone.png": 1,
+    "images_mcq/cylinder.png": 1,
+    "images_mcq/cube.png": 1,
+    "images_mcq/pyramid.png": 1,
+    "images_mcq/rectangular_prism.png": 1
+    
   }
 }
