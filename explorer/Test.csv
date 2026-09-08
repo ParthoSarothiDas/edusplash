@@ -1,0 +1,331 @@
+﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
+1,1,Sentence,Arrange the words to make a sentence.,,,,,I|have|a|cat|.,rearrange,cat|a|I|have|.,,
+2,1,Sentence,Arrange the words to make a sentence.,,,,,This|is|my|book|.,rearrange,book|my|is|This|.,,
+3,1,Sentence,Arrange the words to make a sentence.,,,,,I|like|red|apples|.,rearrange,red|apples|I|like|.,,
+4,1,Sentence,Arrange the words to make a sentence.,,,,,The|sun|is|bright|.,rearrange,bright|is|The|sun|.,,
+5,1,Sentence,Arrange the words to make a sentence.,,,,,She|has|a|blue|bag|.,rearrange,blue|bag|a|She|has|.,,
+6,1,Sentence,Arrange the words to make a sentence.,,,,,We|play|in|the|park|.,rearrange,park|We|the|in|play|.,,
+7,1,Sentence,Arrange the words to make a sentence.,,,,,My|brother|likes|to|read|.,rearrange,to|read|My|likes|brother|.,,
+8,1,Sentence,Arrange the words to make a sentence.,,,,,The|bird|is|in|the|tree|.,rearrange,in|the|tree|The|bird|is|.,,
+9,1,Sentence,Arrange the words to make a sentence.,,,,,I|go|to|school|every|day|.,rearrange,every|day|I|school|to|go|.,,
+10,1,Sentence,Arrange the words to make a sentence.,,,,,My|mother|cooks|a|delicious|meal|.,rearrange,delicious|meal|My|a|cooks|mother|.,,
+11,2,Picture Graphs,There are _____ types of fruit.,,,,,4,FillBlank,picture_graph_1.png,,
+12,2,Picture Graphs,There are _____ mangoes.,,,,,13,FillBlank,picture_graph_1.png,,
+13,2,Picture Graphs,There are _____ pears.,,,,,6,FillBlank,picture_graph_1.png,,
+14,2,Picture Graphs,There are _____ apples.,,,,,9,FillBlank,picture_graph_1.png,,
+15,2,Picture Graphs,There are _____ oranges.,,,,,4,FillBlank,picture_graph_1.png,,
+16,2,Picture Graphs,There are _____ fruits altogether.,,,,,32,FillBlank,picture_graph_1.png,,
+17,2,Picture Graphs,Which type of fruit is the greatest in number?,Mango,Pear,Apple,Orange,Mango,MCQ,picture_graph_1.png,,
+18,2,Picture Graphs,Which type of fruit is the smallest in number?,Mango,Pear,Apple,Orange,Orange,MCQ,picture_graph_1.png,,
+19,2,Picture Graphs,How many more apples than pears are there?,,,,,3,FillBlank,picture_graph_1.png,,
+20,2,Picture Graphs,How many fewer oranges than apples are there?,,,,,5,FillBlank,picture_graph_1.png,,
+21,3,Picture Graphs,There are _____ types of flowers.,,,,,4,FillBlank,picture_graph_2.png,,
+22,3,Picture Graphs,There are _____ roses.,,,,,10,FillBlank,picture_graph_2.png,,
+23,3,Picture Graphs,There are _____ sunflowers.,,,,,7,FillBlank,picture_graph_2.png,,
+24,3,Picture Graphs,There are _____ lilies.,,,,,5,FillBlank,picture_graph_2.png,,
+25,3,Picture Graphs,There are _____ tulips.,,,,,3,FillBlank,picture_graph_2.png,,
+26,3,Picture Graphs,There are _____ flowers altogether.,,,,,25,FillBlank,picture_graph_2.png,,
+27,3,Picture Graphs,Which type of flower is the greatest in number?,Rose,Sunflower,Lily,Tulip,Rose,MCQ,picture_graph_2.png,,
+28,3,Picture Graphs,Which type of flower is the smallest in number?,Rose,Sunflower,Lily,Tulip,Tulip,MCQ,picture_graph_2.png,,
+29,3,Picture Graphs,How many more roses than lilies are there?,,,,,5,FillBlank,picture_graph_2.png,,
+30,3,Picture Graphs,How many fewer tulips than sunflowers are there?,,,,,4,FillBlank,picture_graph_2.png,,
+31,4,Picture Graphs,There are _____ types of flowers.,,,,,4,FillBlank,picture_graph_3.png,,
+32,4,Picture Graphs,There are _____ roses.,,,,,10,FillBlank,picture_graph_3.png,,
+33,4,Picture Graphs,There are _____ lilies.,,,,,16,FillBlank,picture_graph_3.png,,
+34,4,Picture Graphs,There are _____ irises.,,,,,14,FillBlank,picture_graph_3.png,,
+35,4,Picture Graphs,There are _____ daisies,,,,,12,FillBlank,picture_graph_3.png,,
+36,4,Picture Graphs,There are _____ flowers altogether.,,,,,52,FillBlank,picture_graph_3.png,,
+37,4,Picture Graphs,Which type of flower is the greatest in number?,Rose,Lily,Iris,Daisy,Lily,MCQ,picture_graph_3.png,,
+38,4,Picture Graphs,Which type of flower is the smallest in number?,Rose,Lily,Iris,Daisy,Rose,MCQ,picture_graph_3.png,,
+39,4,Picture Graphs,How many more irises than daisies are there?,,,,,2,FillBlank,picture_graph_3.png,,
+40,4,Picture Graphs,How many fewer roses than lilies are there?,,,,,6,FillBlank,picture_graph_3.png,,
+41,5,Picture Graphs,There are _____ kids.,,,,,4,FillBlank,picture_graph_4.png,,
+42,5,Picture Graphs,Abhik has _____ stamps,,,,,15,FillBlank,picture_graph_4.png,,
+43,5,Picture Graphs,Oliver has _____ stamps,,,,,24,FillBlank,picture_graph_4.png,,
+44,5,Picture Graphs,James has _____ stamps,,,,,18,FillBlank,picture_graph_4.png,,
+45,5,Picture Graphs,Daisy has _____ stamps,,,,,21,FillBlank,picture_graph_4.png,,
+46,5,Picture Graphs,There are _____ stamps altogether.,,,,,78,FillBlank,picture_graph_4.png,,
+47,5,Picture Graphs,Who has the largest number of stamps?,Abhik,Oliver,James,Daisy,Oliver,MCQ,picture_graph_4.png,,
+48,5,Picture Graphs,Who has the smallest number of stamps?,Abhik,Oliver,James,Daisy,Abhik,MCQ,picture_graph_4.png,,
+49,5,Picture Graphs,Oliver has _____ more stamps than Abhik.,,,,,9,FillBlank,picture_graph_4.png,,
+50,5,Picture Graphs,James has _____ fewer stamps than Daisy.,,,,,3,FillBlank,picture_graph_4.png,,
+51,6,Shapes,Which shape is it?,Square,Rectangle,Circle,Oval,Square,MCQ,square.png,,
+52,6,Shapes,Which shape is it?,Square,Rectangle,Circle,Oval,Oval,MCQ,oval.png,,
+53,6,Shapes,Which shape is it?,Square,Rectangle,Circle,Oval,Rectangle,MCQ,rectangle.png,,
+54,6,Shapes,Which shape is it?,Square,Rectangle,Circle,Oval,Circle,MCQ,circle.png,,
+55,6,Shapes,Which shape is it?,Square,Rectangle,Triangle,Oval,Triangle,MCQ,triangle.png,,
+56,6,Shapes,Which shape is it?,Decagon,Hexagon,Pentagon,Octagon,Decagon,MCQ,decagon.png,,
+57,6,Shapes,Which shape is it?,Heptagon,Hexagon,Octagon,Pentagon,Heptagon,MCQ,heptagon.png,,
+58,6,Shapes,Which shape is it?,Pentagon,Hexagon,Decagon,Octagon,Hexagon,MCQ,hexagon.png,,
+59,6,Shapes,Which shape is it?,Octagon,Heptagon,Decagon,Hexagon,Octagon,MCQ,octagon.png,,
+60,6,Shapes,Which shape is it?,Rectangle,Parallelogram,Rhombus,Square,Parallelogram,MCQ,parallelogram.png,,
+61,7,Shapes,Which shape is it?,Pentagon,Hexagon,Octagon,Decagon,Pentagon,MCQ,pentagon.png,,Free
+62,7,Shapes,Which shape is it?,Square,Rectangle,Rhombus,Parallelogram,Rhombus,MCQ,rhombus.png,,Free
+63,7,Shapes,Which 3D shape is it?,Sphere,Cone,Cylinder,Cube,Sphere,MCQ,sphere.png,,Free
+64,7,Shapes,Which 3D shape is it?,Cube,Cone,Sphere,Pyramid,Cone,MCQ,cone.png,,Free
+65,7,Shapes,Which 3D shape is it?,Cylinder,Cube,Cone,Sphere,Cylinder,MCQ,cylinder.png,,Free
+66,7,Shapes,Which 3D shape is it?,Cube,Pyramid,Cone,Cylinder,Cube,MCQ,cube.png,,Free
+67,7,Shapes,Which 3D shape is it?,Pyramid,Cube,Cone,Sphere,Pyramid,MCQ,pyramid.png,,Free
+68,7,Shapes,Which 3D shape is it?,Rectangular Prism,Cube,Cylinder,Pyramid,Rectangular Prism,MCQ,rectangular_prism.png,,Free
+69,7,Shapes,Which shape is it?,Pentagon,Hexagon,Decagon,Octagon,Hexagon,MCQ,hexagon.png,,Free
+70,7,Shapes,Which shape is it?,Square,Rectangle,Rhombus,Parallelogram,Rhombus,MCQ,rhombus.png,,Free
+71,8,Shapes,Find the Circle.,,,,,complete,Hotspot,shape_1.png|circle:rectangle:0.6039:0.3187:0.2726:0.2801,,Free
+72,8,Shapes,Find the Triangle.,,,,,complete,Hotspot,shape_1.png|triangle:rectangle:0.0467:0.6431:0.4007:0.3130,,Free
+73,8,Shapes,Find the Rectangle.,,,,,complete,Hotspot,shape_1.png|rectangle:rectangle:0.0658:0.0321:0.3919:0.2191,,Free
+74,8,Shapes,Find the Cylinder..,,,,,complete,Hotspot,shape_1.png|cylinder:rectangle:0.6062:0.6475:0.3135:0.3188,,Free
+75,8,Shapes,Find the Square.,,,,,complete,Hotspot,shape_1.png|square:rectangle:0.1194:0.3221:0.2661:0.2524,,Free
+76,8,Shapes,Find the Oval.,,,,,complete,Hotspot,shape_1.png|oval:ellipse:0.5941:0.0328:0.3321:0.2346,,Free
+77,8,Shapes,Which shape has 3 sides?,,,,,complete,Hotspot,shape_1.png|triangle:rectangle:0.0493:0.6443:0.4075:0.3064,,Free
+78,8,Shapes,Which shapes have 4 sides?,,,,,complete,Hotspot,shape_1.png|rectangle:rectangle:0.0658:0.0299:0.3919:0.2236;square:rectangle:0.1174:0.3177:0.2682:0.2590,,Free
+79,8,Shapes,Which shape has 3 vertices (corners)?,,,,,complete,Hotspot,shape_1.png|triangle:rectangle:0.0555:0.6431:0.3940:0.3121,,Free
+80,8,Shapes,Which shapes have zero vertices (corners)?,,,,,complete,Hotspot,shape_1.png|oval:ellipse:0.5863:0.0321:0.3404:0.2391;circle:circle:0.6045:0.3201:0.2752:0.2752;cylinder:rectangle:0.6057:0.6443:0.3126:0.3217,,Free
+81,9,Shapes,Find the Sphere.,,,,,complete,Hotspot,shape_2.png|Sphere:circle:0.0237:0.4390:0.1917:0.1917,,
+82,9,Shapes,Find the Pentagon.,,,,,complete,Hotspot,shape_2.png|Pentagon:rectangle:0.2747:0.3122:0.2206:0.1964,,
+83,9,Shapes,Find the Pyramid.,,,,,complete,Hotspot,shape_2.png|Pyramid:rectangle:0.4242:0.5215:0.2819:0.2149,,
+84,9,Shapes,Find the Hexagon.,,,,,complete,Hotspot,shape_2.png|Hexagon:rectangle:0.5287:0.3354:0.2106:0.1732,,
+85,9,Shapes,Find the Cone.,,,,,complete,Hotspot,shape_2.png|Cone:rectangle:0.0292:0.6679:0.2014:0.2446,,
+86,9,Shapes,Find the Octagon.,,,,,complete,Hotspot,shape_2.png|Octagon:rectangle:0.7810:0.3346:0.1975:0.1853,,
+87,9,Shapes,Find the Cube.,,,,,complete,Hotspot,shape_2.png|Cube:rectangle:0.7522:0.5401:0.2110:0.1908,,
+88,9,Shapes,Find the Cylinder.,,,,,complete,Hotspot,shape_2.png|Cylinder:rectangle:0.2224:0.5170:0.1616:0.2305,,
+89,9,Shapes,Find the Triangle.,,,,,complete,Hotspot,shape_2.png|Triangle:rectangle:0.0135:0.2463:0.2123:0.1866,,
+90,9,Shapes,Find the Rectangular Prism.,,,,,complete,Hotspot,shape_2.png|Rectangular Prism:rectangle:0.3897:0.7894:0.5167:0.1805,,
+91,10,Shapes,Which shape has 3 sides?,Square,Triangle,Circle,Rectangle,Triangle,MCQ,,,
+92,10,Shapes,Which shape has 4 equal sides?,Rectangle,Triangle,Square,Oval,Square,MCQ,,,
+93,10,Shapes,Which shape has no straight sides?,Circle,Square,Triangle,Rectangle,Circle,MCQ,,,
+94,10,Shapes,How many sides does a rectangle have?,3,4,5,6,4,MCQ,,,
+95,10,Shapes,How many vertices does a triangle have?,2,3,4,5,3,MCQ,,,
+96,10,Shapes,Which shape has 5 sides?,Pentagon,Hexagon,Triangle,Octagon,Pentagon,MCQ,,,
+97,10,Shapes,Which shape has 6 sides?,Pentagon,Hexagon,Heptagon,Octagon,Hexagon,MCQ,,,
+98,10,Shapes,Which shape has 8 sides?,Hexagon,Pentagon,Octagon,Square,Octagon,MCQ,,,
+99,10,Shapes,Which shape looks like a stretched circle?,Oval,Triangle,Square,Pentagon,Oval,MCQ,,,
+100,10,Shapes,Which shape has 4 sides with opposite sides equal?,Square,Rectangle,Triangle,Circle,Rectangle,MCQ,,,
+101,11,Shapes,How many sides does a hexagon have?,5,6,7,8,6,MCQ,,,
+102,11,Shapes,How many sides does a pentagon have?,4,5,6,7,5,MCQ,,,
+103,11,Shapes,How many vertices does a square have?,2,3,4,5,4,MCQ,,,
+104,11,Shapes,Which shape has 4 equal sides and 4 vertices?,Triangle,Rectangle,Square,Circle,Square,MCQ,,,
+105,11,Shapes,Which shape has 7 sides?,Hexagon,Heptagon,Octagon,Pentagon,Heptagon,MCQ,,,
+106,11,Shapes,Which 3D shape looks like a ball?,Cube,Sphere,Cone,Cylinder,Sphere,MCQ,,,
+107,11,Shapes,Which 3D shape looks like a box?,Sphere,Cone,Cube,Cylinder,Cube,MCQ,,,
+108,11,Shapes,Which 3D shape has a circular base and a pointed top?,Cube,Cone,Sphere,Cylinder,Cone,MCQ,,,
+109,11,Shapes,Which 3D shape looks like a can?,Cylinder,Cube,Cone,Sphere,Cylinder,MCQ,,,
+110,11,Shapes,Which 3D shape has no vertices?,Cube,Cone,Sphere,Pyramid,Sphere,MCQ,,,
+r001,12,Shapes,How many faces does a cube have?,4,5,6,8,6,MCQ,,,Free
+r002,12,Shapes,How many edges does a cube have?,8,10,12,14,12,MCQ,,,Free
+r003,12,Shapes,How many vertices does a cube have?,6,8,10,12,8,MCQ,,,Free
+r004,12,Shapes,Which 2D shape can roll smoothly?,Square,Triangle,Circle,Rectangle,Circle,MCQ,,,Free
+r005,12,Shapes,Which 2D shape has one continuous curved edge and no vertices?,Circle,Triangle,Square,Pentagon,Circle,MCQ,,,Free
+r006,12,Shapes,Which shape has 4 right angles and 4 equal sides?,Rectangle,Square,Triangle,Oval,Square,MCQ,,,Free
+r007,12,Shapes,Which shape has more sides?,Pentagon,Hexagon,Both have the same number,Triangle,Hexagon,MCQ,,,Free
+r008,12,Shapes,A stop sign is usually shaped like an ______.,Pentagon,Hexagon,Octagon,Triangle,Octagon,MCQ,,,Free
+r009,12,Shapes,A slice of pizza is often shaped like a ______.,Circle,Triangle,Square,Rectangle,Triangle,MCQ,,,Free
+r010,12,Shapes,"Which shape has 4 sides, 4 vertices, and 4 right angles?",Triangle,Circle,Rectangle,Oval,Rectangle,MCQ,,,Free
+F_ENG_L125_Q1242,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|happy|.,rearrange,happy|I|am|.,,Free
+F_ENG_L125_Q1243,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|sad|.,rearrange,sad|I|am|.,,Free
+F_ENG_L125_Q1244,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|tall|.,rearrange,tall|I|am|.,,Free
+F_ENG_L125_Q1245,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|six|.,rearrange,six|I|am|.,,Free
+F_ENG_L125_Q1246,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|can|run|.,rearrange,run|I|can|.,,Free
+F_ENG_L125_Q1247,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|can|jump|.,rearrange,jump|I|can|.,,Free
+F_ENG_L125_Q1248,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|can|swim|.,rearrange,swim|I|can|.,,Free
+F_ENG_L125_Q1249,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|can|read|.,rearrange,read|I|can|.,,Free
+F_ENG_L125_Q1250,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|milk|.,rearrange,milk|I|like|.,,Free
+F_ENG_L126_Q1251,124,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|rice|.,rearrange,rice|I|like|.,,Free
+F_ENG_L126_Q1252,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|apples|.,rearrange,apples|I|like|.,,Free
+F_ENG_L126_Q1253,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|cats|.,rearrange,cats|I|like|.,,Free
+F_ENG_L126_Q1254,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|pen|.,rearrange,pen|a|I|have|.,,Free
+F_ENG_L126_Q1255,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|bag|.,rearrange,bag|a|I|have|.,,Free
+F_ENG_L126_Q1256,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|book|.,rearrange,book|a|I|have|.,,Free
+F_ENG_L126_Q1257,125,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|ball|.,rearrange,ball|a|I|have|.,,Free
+F_ENG_L126_Q1258,125,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|a|cat|.,rearrange,cat|a|This|is|.,,Free
+F_ENG_L126_Q1259,125,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|a|dog|.,rearrange,dog|a|This|is|.,,Free
+F_ENG_L126_Q1260,125,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|a|hat|.,rearrange,hat|a|This|is|.,,Free
+F_ENG_L127_Q1261,125,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|a|car|.,rearrange,car|a|This|is|.,,Free
+F_ENG_L127_Q1262,126,Build the Sentence,Arrange the words to make a sentence.,,,,,It|is|a|sun|.,rearrange,sun|a|It|is|.,,Free
+F_ENG_L127_Q1263,126,Build the Sentence,Arrange the words to make a sentence.,,,,,It|is|big|.,rearrange,big|It|is|.,,Free
+F_ENG_L127_Q1264,126,Build the Sentence,Arrange the words to make a sentence.,,,,,It|is|red|.,rearrange,red|It|is|.,,Free
+F_ENG_L127_Q1265,126,Build the Sentence,Arrange the words to make a sentence.,,,,,It|is|hot|.,rearrange,hot|It|is|.,,Free
+F_ENG_L127_Q1266,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sun|is|hot|.,rearrange,hot|The|is|sun|.,,Free
+F_ENG_L127_Q1267,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sky|is|blue|.,rearrange,blue|The|is|sky|.,,Free
+F_ENG_L127_Q1268,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|is|small|.,rearrange,small|The|is|cat|.,,Free
+F_ENG_L127_Q1269,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|dog|is|big|.,rearrange,big|The|is|dog|.,,Free
+F_ENG_L127_Q1270,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|ball|is|round|.,rearrange,round|The|is|ball|.,,Free
+F_ENG_L128_Q1271,126,Build the Sentence,Arrange the words to make a sentence.,,,,,The|flower|is|pretty|.,rearrange,pretty|The|is|flower|.,,Free
+F_ENG_L128_Q1272,127,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|a|bird|.,rearrange,bird|a|I|see|.,,Free
+F_ENG_L128_Q1273,127,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|a|fish|.,rearrange,fish|a|I|see|.,,Free
+F_ENG_L128_Q1274,127,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|a|tree|.,rearrange,tree|a|I|see|.,,Free
+F_ENG_L128_Q1275,127,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|a|car|.,rearrange,car|a|I|see|.,,Free
+F_ENG_L128_Q1276,127,Build the Sentence,Arrange the words to make a sentence.,,,,,He|is|my|friend|.,rearrange,friend|my|He|is|.,,Free
+F_ENG_L128_Q1277,127,Build the Sentence,Arrange the words to make a sentence.,,,,,She|is|my|friend|.,rearrange,friend|my|She|is|.,,Free
+F_ENG_L128_Q1278,127,Build the Sentence,Arrange the words to make a sentence.,,,,,He|has|a|dog|.,rearrange,dog|a|He|has|.,,Free
+F_ENG_L128_Q1279,127,Build the Sentence,Arrange the words to make a sentence.,,,,,She|has|a|cat|.,rearrange,cat|a|She|has|.,,Free
+F_ENG_L128_Q1280,127,Build the Sentence,Arrange the words to make a sentence.,,,,,We|are|friends|.,rearrange,friends|We|are|.,,Free
+F_ENG_L129_Q1281,127,Build the Sentence,Arrange the words to make a sentence.,,,,,We|are|happy|.,rearrange,happy|We|are|.,,Free
+F_ENG_L129_Q1282,128,Build the Sentence,Arrange the words to make a sentence.,,,,,They|are|happy|.,rearrange,happy|They|are|.,,Free
+F_ENG_L129_Q1283,128,Build the Sentence,Arrange the words to make a sentence.,,,,,They|are|friends|.,rearrange,friends|They|are|.,,Free
+F_ENG_L129_Q1284,128,Build the Sentence,Arrange the words to make a sentence.,,,,,My|name|is|Rita|.,rearrange,Rita|is|My|name|.,,Free
+F_ENG_L129_Q1285,128,Build the Sentence,Arrange the words to make a sentence.,,,,,My|name|is|Tom|.,rearrange,Tom|is|My|name|.,,Free
+F_ENG_L129_Q1286,128,Build the Sentence,Arrange the words to make a sentence.,,,,,My|bag|is|blue|.,rearrange,blue|is|My|bag|.,,Free
+F_ENG_L129_Q1287,128,Build the Sentence,Arrange the words to make a sentence.,,,,,My|book|is|new|.,rearrange,new|is|My|book|.,,Free
+F_ENG_L129_Q1288,128,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boy|can|run|.,rearrange,run|can|The|boy|.,,Free
+F_ENG_L129_Q1289,128,Build the Sentence,Arrange the words to make a sentence.,,,,,The|girl|can|jump|.,rearrange,jump|can|The|girl|.,,Free
+F_ENG_L129_Q1290,128,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bird|can|fly|.,rearrange,fly|can|The|bird|.,,Free
+F_ENG_L130_Q1291,128,Build the Sentence,Arrange the words to make a sentence.,,,,,The|fish|can|swim|.,rearrange,swim|can|The|fish|.,,Free
+F_ENG_L130_Q1292,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|baby|is|sleeping|.,rearrange,sleeping|The|is|baby|.,,Free
+F_ENG_L130_Q1293,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|baby|is|small|.,rearrange,small|The|is|baby|.,,Free
+F_ENG_L130_Q1294,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boy|is|happy|.,rearrange,happy|The|boy|is|.,,Free
+F_ENG_L130_Q1295,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|girl|is|kind|.,rearrange,kind|The|girl|is|.,,Free
+F_ENG_L130_Q1296,129,Build the Sentence,Arrange the words to make a sentence.,,,,,We|play|with|a|ball|.,rearrange,ball|with|We|a|play|.,,Free
+F_ENG_L130_Q1297,129,Build the Sentence,Arrange the words to make a sentence.,,,,,I|play|with|my|dog|.,rearrange,my|dog|I|with|play|.,,Free
+F_ENG_L130_Q1298,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|likes|milk|.,rearrange,milk|The|likes|cat|.,,Free
+F_ENG_L130_Q1299,129,Build the Sentence,Arrange the words to make a sentence.,,,,,The|dog|likes|meat|.,rearrange,meat|The|likes|dog|.,,Free
+F_ENG_L130_Q1300,129,Build the Sentence,Arrange the words to make a sentence.,,,,,Birds|can|fly|high|.,rearrange,high|fly|Birds|can|.,,Free
+F_ENG_L131_Q1301,129,Build the Sentence,Arrange the words to make a sentence.,,,,,Fish|can|swim|fast|.,rearrange,fast|swim|Fish|can|.,,Free
+F_ENG_L131_Q1302,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|eat|an|apple|.,rearrange,apple|an|I|eat|.,,Free
+F_ENG_L131_Q1303,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|drink|some|water|.,rearrange,some|water|I|drink|.,,Free
+F_ENG_L131_Q1304,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|the|moon|.,rearrange,the|moon|I|see|.,,Free
+F_ENG_L131_Q1305,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|love|my|family|.,rearrange,my|family|I|love|.,,Free
+F_ENG_L131_Q1306,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|help|my|mother|.,rearrange,my|mother|I|help|.,,Free
+F_ENG_L131_Q1307,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|wash|my|hands|.,rearrange,my|hands|I|wash|.,,Free
+F_ENG_L131_Q1308,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|brush|my|teeth|.,rearrange,my|teeth|I|brush|.,,Free
+F_ENG_L131_Q1309,130,Build the Sentence,Arrange the words to make a sentence.,,,,,I|wear|my|shoes|.,rearrange,my|shoes|I|wear|.,,Free
+F_ENG_L131_Q1310,130,Build the Sentence,Arrange the words to make a sentence.,,,,,We|go|to|school|.,rearrange,to|school|We|go|.,,Free
+F_ENG_L132_Q1311,130,Build the Sentence,Arrange the words to make a sentence.,,,,,We|play|at|school|.,rearrange,at|school|We|play|.,,Free
+F_ENG_L132_Q1312,131,Build the Sentence,Arrange the words to make a sentence.,,,,,We|read|a|book|.,rearrange,a|book|We|read|.,,Free
+F_ENG_L132_Q1313,131,Build the Sentence,Arrange the words to make a sentence.,,,,,We|eat|our|lunch|.,rearrange,our|lunch|We|eat|.,,Free
+F_ENG_L132_Q1314,131,Build the Sentence,Arrange the words to make a sentence.,,,,,We|love|our|teacher|.,rearrange,our|teacher|We|love|.,,Free
+F_ENG_L132_Q1315,131,Build the Sentence,Arrange the words to make a sentence.,,,,,He|likes|to|run|.,rearrange,to|run|He|likes|.,,Free
+F_ENG_L132_Q1316,131,Build the Sentence,Arrange the words to make a sentence.,,,,,He|likes|to|play|.,rearrange,to|play|He|likes|.,,Free
+F_ENG_L132_Q1317,131,Build the Sentence,Arrange the words to make a sentence.,,,,,He|has|a|red|ball|.,rearrange,red|ball|a|He|has|.,,Free
+F_ENG_L132_Q1318,131,Build the Sentence,Arrange the words to make a sentence.,,,,,He|has|a|blue|cap|.,rearrange,blue|cap|a|He|has|.,,Free
+F_ENG_L132_Q1319,131,Build the Sentence,Arrange the words to make a sentence.,,,,,She|likes|to|sing|.,rearrange,to|sing|She|likes|.,,Free
+F_ENG_L132_Q1320,131,Build the Sentence,Arrange the words to make a sentence.,,,,,She|likes|to|dance|.,rearrange,to|dance|She|likes|.,,Free
+F_ENG_L133_Q1321,131,Build the Sentence,Arrange the words to make a sentence.,,,,,She|has|a|pink|dress|.,rearrange,pink|dress|a|She|has|.,,Free
+F_ENG_L133_Q1322,132,Build the Sentence,Arrange the words to make a sentence.,,,,,She|has|a|small|bag|.,rearrange,small|bag|a|She|has|.,,Free
+F_ENG_L133_Q1323,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|dog|runs|fast|.,rearrange,fast|runs|The|dog|.,,Free
+F_ENG_L133_Q1324,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|drinks|milk|.,rearrange,milk|drinks|The|cat|.,,Free
+F_ENG_L133_Q1325,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bird|eats|seeds|.,rearrange,seeds|eats|The|bird|.,,Free
+F_ENG_L133_Q1326,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cow|eats|grass|.,rearrange,grass|eats|The|cow|.,,Free
+F_ENG_L133_Q1327,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|rabbit|eats|a|carrot|.,rearrange,a|carrot|The|eats|rabbit|.,,Free
+F_ENG_L133_Q1328,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|monkey|likes|bananas|.,rearrange,bananas|likes|The|monkey|.,,Free
+F_ENG_L133_Q1329,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|lion|is|strong|.,rearrange,strong|is|The|lion|.,,Free
+F_ENG_L133_Q1330,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|elephant|is|big|.,rearrange,big|is|The|elephant|.,,Free
+F_ENG_L134_Q1331,132,Build the Sentence,Arrange the words to make a sentence.,,,,,The|turtle|is|slow|.,rearrange,slow|is|The|turtle|.,,Free
+F_ENG_L134_Q1332,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|frog|can|jump|.,rearrange,jump|can|The|frog|.,,Free
+F_ENG_L134_Q1333,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|horse|can|run|.,rearrange,run|can|The|horse|.,,Free
+F_ENG_L134_Q1334,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|duck|can|swim|.,rearrange,swim|can|The|duck|.,,Free
+F_ENG_L134_Q1335,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bird|sits|on|a|tree|.,rearrange,on|a|tree|The|sits|bird|.,,Free
+F_ENG_L134_Q1336,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|sits|on|the|mat|.,rearrange,on|the|mat|The|sits|cat|.,,Free
+F_ENG_L134_Q1337,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|ball|is|under|the|chair|.,rearrange,under|the|chair|The|is|ball|.,,Free
+F_ENG_L134_Q1338,133,Build the Sentence,Arrange the words to make a sentence.,,,,,The|book|is|on|the|desk|.,rearrange,on|the|desk|The|is|book|.,,Free
+F_ENG_L134_Q1339,133,Build the Sentence,Arrange the words to make a sentence.,,,,,My|mother|cooks|good|food|.,rearrange,good|food|My|cooks|mother|.,,Free
+F_ENG_L134_Q1340,133,Build the Sentence,Arrange the words to make a sentence.,,,,,My|father|reads|a|book|.,rearrange,a|book|My|reads|father|.,,Free
+F_ENG_L135_Q1341,133,Build the Sentence,Arrange the words to make a sentence.,,,,,My|sister|plays|with|me|.,rearrange,with|me|My|plays|sister|.,,Free
+F_ENG_L135_Q1342,134,Build the Sentence,Arrange the words to make a sentence.,,,,,My|brother|likes|to|play|football|.,rearrange,football|to|My|play|likes|brother|.,,Free
+F_ENG_L135_Q1343,134,Build the Sentence,Arrange the words to make a sentence.,,,,,My|sister|likes|to|draw|pictures|.,rearrange,pictures|to|draw|My|likes|sister|.,,Free
+F_ENG_L135_Q1344,134,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|to|play|with|friends|.,rearrange,with|I|friends|to|play|like|.,,Free
+F_ENG_L135_Q1345,134,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|to|read|my|books|.,rearrange,my|books|to|I|read|like|.,,Free
+F_ENG_L135_Q1346,134,Build the Sentence,Arrange the words to make a sentence.,,,,,We|like|to|play|in|the|park|.,rearrange,the|park|We|to|play|in|like|.,,Free
+F_ENG_L135_Q1347,134,Build the Sentence,Arrange the words to make a sentence.,,,,,We|like|to|walk|in|the|park|.,rearrange,the|park|to|We|walk|like|in|.,,Free
+F_ENG_L135_Q1348,134,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boys|play|with|a|ball|.,rearrange,a|ball|The|with|play|boys|.,,Free
+F_ENG_L135_Q1349,134,Build the Sentence,Arrange the words to make a sentence.,,,,,The|girls|play|with|a|doll|.,rearrange,a|doll|with|The|girls|play|.,,Free
+F_ENG_L135_Q1350,134,Build the Sentence,Arrange the words to make a sentence.,,,,,The|baby|plays|with|a|toy|.,rearrange,a|toy|The|with|plays|baby|.,,Free
+F_ENG_L136_Q1351,134,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boy|has|a|green|kite|.,rearrange,green|kite|The|a|boy|has|.,,Free
+F_ENG_L136_Q1352,135,Build the Sentence,Arrange the words to make a sentence.,,,,,The|girl|has|a|yellow|hat|.,rearrange,yellow|hat|The|a|girl|has|.,,Free
+F_ENG_L136_Q1353,135,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|small|red|bag|.,rearrange,red|bag|I|a|small|have|.,,Free
+F_ENG_L136_Q1354,135,Build the Sentence,Arrange the words to make a sentence.,,,,,She|has|a|beautiful|pink|dress|.,rearrange,pink|dress|She|a|beautiful|has|.,,Free
+F_ENG_L136_Q1355,135,Build the Sentence,Arrange the words to make a sentence.,,,,,He|has|a|big|blue|ball|.,rearrange,blue|ball|He|a|big|has|.,,Free
+F_ENG_L136_Q1356,135,Build the Sentence,Arrange the words to make a sentence.,,,,,The|little|boy|is|very|happy|.,rearrange,very|happy|The|boy|is|little|.,,Free
+F_ENG_L136_Q1357,135,Build the Sentence,Arrange the words to make a sentence.,,,,,The|little|girl|is|very|kind|.,rearrange,very|kind|The|girl|is|little|.,,Free
+F_ENG_L136_Q1358,135,Build the Sentence,Arrange the words to make a sentence.,,,,,My|new|shoes|are|very|nice|.,rearrange,very|nice|My|are|new|shoes|.,,Free
+F_ENG_L136_Q1359,135,Build the Sentence,Arrange the words to make a sentence.,,,,,My|new|bag|is|very|pretty|.,rearrange,very|pretty|My|is|new|bag|.,,Free
+F_ENG_L136_Q1360,135,Build the Sentence,Arrange the words to make a sentence.,,,,,The|red|apple|is|very|sweet|.,rearrange,very|sweet|The|is|red|apple|.,,Free
+F_ENG_L137_Q1361,135,Build the Sentence,Arrange the words to make a sentence.,,,,,The|yellow|banana|is|very|ripe|.,rearrange,very|ripe|The|is|yellow|banana|.,,Free
+F_ENG_L137_Q1362,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|eat|breakfast|in|the|morning|.,rearrange,the|morning|I|in|eat|breakfast|.,,Free
+F_ENG_L137_Q1363,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|drink|milk|every|morning|at|home|.,rearrange,at|home|I|milk|every|morning|drink|.,,Free
+F_ENG_L137_Q1364,136,Build the Sentence,Arrange the words to make a sentence.,,,,,We|eat|lunch|at|school|every|day|.,rearrange,every|school|We|day|at|eat|lunch|.,,Free
+F_ENG_L137_Q1365,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|wash|my|hands|before|I|eat|.,rearrange,before|I|my|eat|hands|I|wash|.,,Free
+F_ENG_L137_Q1366,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|brush|my|teeth|every|morning|.,rearrange,every|my|morning|I|brush|teeth|.,,Free
+F_ENG_L137_Q1367,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|brush|my|teeth|before|bed|.,rearrange,before|my|bed|I|teeth|brush|.,,Free
+F_ENG_L137_Q1368,136,Build the Sentence,Arrange the words to make a sentence.,,,,,We|go|to|school|in|the|morning|.,rearrange,in|the|morning|We|school|go|to|.,,Free
+F_ENG_L137_Q1369,136,Build the Sentence,Arrange the words to make a sentence.,,,,,We|come|home|in|the|afternoon|.,rearrange,the|afternoon|We|come|home|in|.,,Free
+F_ENG_L137_Q1370,136,Build the Sentence,Arrange the words to make a sentence.,,,,,I|sleep|at|night|in|my|bed|.,rearrange,in|my|bed|I|at|night|sleep|.,,Free
+F_ENG_L138_Q1371,136,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sun|shines|in|the|sky|.,rearrange,in|the|sky|The|shines|sun|.,,Free
+F_ENG_L138_Q1372,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|moon|shines|at|night|.,rearrange,at|night|The|shines|moon|.,,Free
+F_ENG_L138_Q1373,137,Build the Sentence,Arrange the words to make a sentence.,,,,,Stars|shine|in|the|night|sky|.,rearrange,the|sky|Stars|night|in|shine|.,,Free
+F_ENG_L138_Q1374,137,Build the Sentence,Arrange the words to make a sentence.,,,,,Clouds|are|in|the|blue|sky|.,rearrange,the|blue|Clouds|sky|are|in|.,,Free
+F_ENG_L138_Q1375,137,Build the Sentence,Arrange the words to make a sentence.,,,,,Rain|falls|from|the|dark|clouds|.,rearrange,the|clouds|Rain|dark|from|falls|.,,Free
+F_ENG_L138_Q1376,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|wind|is|very|strong|today|.,rearrange,very|today|The|strong|wind|is|.,,Free
+F_ENG_L138_Q1377,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|weather|is|nice|today|.,rearrange,today|nice|The|weather|is|.,,Free
+F_ENG_L138_Q1378,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sky|looks|very|beautiful|today|.,rearrange,beautiful|today|The|very|looks|sky|.,,Free
+F_ENG_L138_Q1379,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bird|is|sitting|on|the|tree|.,rearrange,on|the|tree|The|is|bird|sitting|.,,Free
+F_ENG_L138_Q1380,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|is|sleeping|on|the|mat|.,rearrange,on|the|mat|The|is|cat|sleeping|.,,Free
+F_ENG_L139_Q1381,137,Build the Sentence,Arrange the words to make a sentence.,,,,,The|dog|is|sleeping|under|the|table|.,rearrange,under|the|table|The|is|dog|sleeping|.,,Free
+F_ENG_L139_Q1382,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|ball|is|under|the|chair|.,rearrange,under|the|chair|The|is|ball|.,,Free
+F_ENG_L139_Q1383,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|book|is|on|the|desk|.,rearrange,on|the|desk|The|is|book|.,,Free
+F_ENG_L139_Q1384,138,Build the Sentence,Arrange the words to make a sentence.,,,,,My|pencil|is|in|my|bag|.,rearrange,in|my|bag|My|is|pencil|.,,Free
+F_ENG_L139_Q1385,138,Build the Sentence,Arrange the words to make a sentence.,,,,,My|shoes|are|under|the|bed|.,rearrange,under|the|bed|My|are|shoes|.,,Free
+F_ENG_L139_Q1386,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|fish|is|in|the|water|.,rearrange,in|the|water|The|is|fish|.,,Free
+F_ENG_L139_Q1387,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|frog|is|near|the|pond|.,rearrange,near|the|pond|The|is|frog|.,,Free
+F_ENG_L139_Q1388,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|rabbit|is|behind|the|tree|.,rearrange,behind|the|tree|The|is|rabbit|.,,Free
+F_ENG_L139_Q1389,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boy|is|running|in|the|park|.,rearrange,in|the|park|The|is|boy|running|.,,Free
+F_ENG_L139_Q1390,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|girl|is|reading|a|book|.,rearrange,a|book|The|is|girl|reading|.,,Free
+F_ENG_L140_Q1391,138,Build the Sentence,Arrange the words to make a sentence.,,,,,The|children|are|playing|in|the|park|.,rearrange,in|the|park|The|are|children|playing|.,,Free
+F_ENG_L140_Q1392,139,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|happy|.,rearrange,happy|I|am|.,,Free
+F_ENG_L140_Q1393,139,Build the Sentence,Arrange the words to make a sentence.,,,,,I|am|a|boy|.,rearrange,boy|a|I|am|.,,Free
+F_ENG_L140_Q1394,139,Build the Sentence,Arrange the words to make a sentence.,,,,,I|have|a|cat|.,rearrange,cat|a|I|have|.,,Free
+F_ENG_L140_Q1395,139,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|a|ball|.,rearrange,ball|a|This|is|.,,Free
+F_ENG_L140_Q1396,139,Build the Sentence,Arrange the words to make a sentence.,,,,,It|is|red|.,rearrange,red|is|It|.,,Free
+F_ENG_L140_Q1397,139,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sun|is|hot|.,rearrange,hot|The|is|sun|.,,Free
+F_ENG_L140_Q1398,139,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|milk|.,rearrange,milk|I|like|.,,Free
+F_ENG_L140_Q1399,139,Build the Sentence,Arrange the words to make a sentence.,,,,,We|are|friends|.,rearrange,friends|We|are|.,,Free
+F_ENG_L140_Q1400,139,Build the Sentence,Arrange the words to make a sentence.,,,,,He|is|tall|.,rearrange,tall|He|is|.,,Free
+F_ENG_L141_Q1401,139,Build the Sentence,Arrange the words to make a sentence.,,,,,She|is|kind|.,rearrange,kind|She|is|.,,Free
+F_ENG_L141_Q1402,140,Build the Sentence,Arrange the words to make a sentence.,,,,,I|see|a|dog|.,rearrange,dog|a|see|I|.,,Free
+F_ENG_L141_Q1403,140,Build the Sentence,Arrange the words to make a sentence.,,,,,My|name|is|Rafi|.,rearrange,Rafi|is|My|name|.,,Free
+F_ENG_L141_Q1404,140,Build the Sentence,Arrange the words to make a sentence.,,,,,This|is|my|book|.,rearrange,book|my|This|is|.,,Free
+F_ENG_L141_Q1405,140,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bird|can|fly|.,rearrange,fly|can|The|bird|.,,Free
+F_ENG_L141_Q1406,140,Build the Sentence,Arrange the words to make a sentence.,,,,,I|can|run|fast|.,rearrange,fast|I|run|can|.,,Free
+F_ENG_L141_Q1407,140,Build the Sentence,Arrange the words to make a sentence.,,,,,I|like|red|apples|.,rearrange,red|apples|I|like|.,,Free
+F_ENG_L141_Q1408,140,Build the Sentence,Arrange the words to make a sentence.,,,,,The|sky|is|blue|.,rearrange,blue|is|The|sky|.,,Free
+F_ENG_L141_Q1409,140,Build the Sentence,Arrange the words to make a sentence.,,,,,She|has|a|blue|bag|.,rearrange,blue|bag|a|She|has|.,,Free
+F_ENG_L141_Q1410,140,Build the Sentence,Arrange the words to make a sentence.,,,,,He|has|a|new|bike|.,rearrange,new|bike|a|He|has|.,,Free
+F_ENG_L142_Q1411,140,Build the Sentence,Arrange the words to make a sentence.,,,,,The|baby|is|sleeping|.,rearrange,sleeping|The|is|baby|.,,Free
+F_ENG_L142_Q1412,141,Build the Sentence,Arrange the words to make a sentence.,,,,,We|play|in|the|park|.,rearrange,park|We|the|in|play|.,,Free
+F_ENG_L142_Q1413,141,Build the Sentence,Arrange the words to make a sentence.,,,,,The|cat|is|under|the|table|.,rearrange,under|the|cat|table|is|The|.,,Free
+F_ENG_L142_Q1414,141,Build the Sentence,Arrange the words to make a sentence.,,,,,My|mother|is|a|teacher|.,rearrange,teacher|is|My|a|mother|.,,Free
+F_ENG_L142_Q1415,141,Build the Sentence,Arrange the words to make a sentence.,,,,,My|father|drives|a|car|.,rearrange,car|a|drives|My|father|.,,Free
+F_ENG_L142_Q1416,141,Build the Sentence,Arrange the words to make a sentence.,,,,,The|dog|likes|to|run|.,rearrange,to|run|The|likes|dog|.,,Free
+F_ENG_L142_Q1417,141,Build the Sentence,Arrange the words to make a sentence.,,,,,I|go|to|school|every|day|.,rearrange,every|day|I|school|to|go|.,,Free
+F_ENG_L142_Q1418,141,Build the Sentence,Arrange the words to make a sentence.,,,,,She|likes|to|read|books|.,rearrange,books|to|She|read|likes|.,,Free
+F_ENG_L142_Q1419,141,Build the Sentence,Arrange the words to make a sentence.,,,,,We|eat|rice|for|lunch|.,rearrange,for|lunch|We|rice|eat|.,,Free
+F_ENG_L142_Q1420,141,Build the Sentence,Arrange the words to make a sentence.,,,,,Tom|has|two|little|dogs|.,rearrange,little|dogs|Tom|two|has|.,,Free
+F_ENG_L143_Q1421,141,Build the Sentence,Arrange the words to make a sentence.,,,,,The|flowers|are|very|beautiful|.,rearrange,very|beautiful|The|are|flowers|.,,Free
+F_ENG_L143_Q1422,142,Build the Sentence,Arrange the words to make a sentence.,,,,,My|brother|likes|to|read|.,rearrange,to|read|My|likes|brother|.,,Free
+F_ENG_L143_Q1423,142,Build the Sentence,Arrange the words to make a sentence.,,,,,The|children|are|playing|outside|.,rearrange,playing|The|outside|children|are|.,,Free
+F_ENG_L143_Q1424,142,Build the Sentence,Arrange the words to make a sentence.,,,,,The|little|girl|is|singing|.,rearrange,singing|girl|The|is|little|.,,Free
+F_ENG_L143_Q1425,142,Build the Sentence,Arrange the words to make a sentence.,,,,,My|best|friend|lives|nearby|.,rearrange,nearby|friend|My|lives|best|.,,Free
+F_ENG_L143_Q1426,142,Build the Sentence,Arrange the words to make a sentence.,,,,,We|went|to|the|zoo|yesterday|.,rearrange,yesterday|the|We|zoo|to|went|.,,Free
+F_ENG_L143_Q1427,142,Build the Sentence,Arrange the words to make a sentence.,,,,,I|saw|a|big|elephant|.,rearrange,big|elephant|I|a|saw|.,,Free
+F_ENG_L143_Q1428,142,Build the Sentence,Arrange the words to make a sentence.,,,,,The|boy|is|riding|a|bicycle|.,rearrange,a|bicycle|The|is|boy|riding|.,,Free
+F_ENG_L143_Q1429,142,Build the Sentence,Arrange the words to make a sentence.,,,,,My|sister|has|a|beautiful|dress|.,rearrange,beautiful|dress|My|has|a|sister|.,,Free
+F_ENG_L143_Q1430,142,Build the Sentence,Arrange the words to make a sentence.,,,,,The|birds|are|flying|in|the|sky|.,rearrange,in|the|birds|sky|The|are|flying|.,,Free
+F_ENG_L144_Q1431,142,Build the Sentence,Arrange the words to make a sentence.,,,,,The|children|played|football|after|school|.,rearrange,after|school|football|The|played|children|.,,Free
+F_ENG_L144_Q1432,143,Build the Sentence,Arrange the words to make a sentence.,,,,,I|brush|my|teeth|every|morning|.,rearrange,every|morning|my|I|teeth|brush|.,,Free
+F_ENG_L144_Q1433,143,Build the Sentence,Arrange the words to make a sentence.,,,,,We|visited|our|grandparents|last|week|.,rearrange,last|week|our|We|grandparents|visited|.,,Free
+F_ENG_L144_Q1434,143,Build the Sentence,Arrange the words to make a sentence.,,,,,The|rain|made|the|road|wet|.,rearrange,the|wet|road|The|made|rain|.,,Free
+F_ENG_L144_Q1435,143,Build the Sentence,Arrange the words to make a sentence.,,,,,Sara|helped|her|mother|in|the|kitchen|.,rearrange,in|the|mother|Sara|kitchen|helped|her|.,,Free
+F_ENG_L144_Q1436,143,Build the Sentence,Arrange the words to make a sentence.,,,,,The|young|boy|opened|the|door|slowly|.,rearrange,slowly|the|boy|opened|young|The|door|.,,Free
+F_ENG_L144_Q1437,143,Build the Sentence,Arrange the words to make a sentence.,,,,,Every|morning|I|drink|a|glass|of|milk|.,rearrange,a|milk|Every|of|morning|I|glass|drink|.,,Free
+F_ENG_L144_Q1438,143,Build the Sentence,Arrange the words to make a sentence.,,,,,My|father|reads|the|newspaper|every|morning|.,rearrange,every|reads|morning|the|My|newspaper|father|.,,Free
+F_ENG_L144_Q1439,143,Build the Sentence,Arrange the words to make a sentence.,,,,,The|teacher|gave|us|some|interesting|homework|.,rearrange,interesting|us|homework|The|some|teacher|gave|.,,Free
+F_ENG_L144_Q1440,143,Build the Sentence,Arrange the words to make a sentence.,,,,,We|should|always|help|people|in|need|.,rearrange,people|always|in|need|We|help|should|.,,Free
+F_ENG_L145_Q1441,143,Build the Sentence,Arrange the words to make a sentence.,,,,,The|small|rabbit|quickly|ran|into|the|garden|.,rearrange,into|quickly|garden|The|ran|small|rabbit|the|.,,Free
+F_ENG_L145_Q1442,144,Build the Sentence,Arrange the words to make a sentence.,,,,,I|was|very|happy|to|see|my|friend|.,rearrange,to|my|friend|I|very|was|see|happy|.,,Free
+F_ENG_L145_Q1443,144,Build the Sentence,Arrange the words to make a sentence.,,,,,The|little|girl|carefully|carried|the|glass|.,rearrange,the|glass|carefully|The|carried|little|girl|.,,Free
+F_ENG_L145_Q1444,144,Build the Sentence,Arrange the words to make a sentence.,,,,,After|lunch|we|went|outside|to|play|.,rearrange,to|play|After|outside|we|lunch|went|.,,Free
+F_ENG_L145_Q1445,144,Build the Sentence,Arrange the words to make a sentence.,,,,,My|friend|and|I|made|a|sandcastle|at|the|beach|.,rearrange,at|made|the|My|sandcastle|beach|and|I|a|friend|.,,Free
+F_ENG_L145_Q1446,144,Build the Sentence,Arrange the words to make a sentence.,,,,,The|kind|girl|shared|her|lunch|with|her|friend|.,rearrange,with|her|lunch|The|friend|shared|kind|her|girl|.,,Free
+F_ENG_L145_Q1447,144,Build the Sentence,Arrange the words to make a sentence.,,,,,We|cleaned|our|classroom|before|the|teacher|arrived|.,rearrange,before|arrived|our|the|We|teacher|classroom|cleaned|.,,Free
+F_ENG_L145_Q1448,144,Build the Sentence,Arrange the words to make a sentence.,,,,,The|bright|moon|shone|over|the|quiet|village|.,rearrange,over|quiet|The|village|shone|bright|the|moon|.,,Free
+F_ENG_L145_Q1449,144,Build the Sentence,Arrange the words to make a sentence.,,,,,When|it|rained|we|stayed|inside|the|house|.,rearrange,inside|When|the|rained|house|we|it|stayed|.,,Free
+F_ENG_L145_Q1450,144,Build the Sentence,Arrange the words to make a sentence.,,,,,Although|the|bag|was|heavy|the|boy|carried|it|.,rearrange,carried|Although|it|the|boy|heavy|was|bag|the|.,,Free
+F_ENG_L146_Q1451,144,Build the Sentence,Arrange the words to make a sentence.,,,,,Before|going|to|bed|I|always|read|a|story|.,rearrange,a|always|Before|story|I|going|read|to|bed|.,,Free
