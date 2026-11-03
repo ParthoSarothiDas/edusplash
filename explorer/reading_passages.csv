@@ -1,0 +1,411 @@
+﻿PassageId,Level,Title,Topic,ReadingTime,Difficulty,Image,Passage
+P001,1,The Clever Fox,Animals,2 min,Grade 1,assets/images/reading_passage/fox_crow.png,"One sunny morning, a clever fox was walking through the forest. He looked up and saw a crow sitting on a tree branch with a piece of cheese in its beak. \n\nThe fox wanted the cheese, so he thought of a clever plan. He smiled and said, 'Dear Crow, you have such beautiful feathers. I wonder if your singing is as lovely as your appearance. \n\nThe crow felt proud and opened its beak to sing. As soon as it did, the cheese fell to the ground. The fox quickly picked it up and ran away. The crow realized it had been tricked and learned not to trust flattery."
+P002,2,The Lost Puppy,Animals,2 min,Grade 1,assets/images/reading_passage/puppy.png,"A little puppy named Max wandered away from his home while chasing a butterfly. Soon he realized he was lost. Max felt scared and hungry, but he kept walking. \n\nA kind girl noticed the puppy and gave him some water. She looked at the tag on his collar and called the phone number. \n\nMax's owner arrived a short time later and thanked the girl for helping his puppy. Max was happy to be back home with his family."
+P003,3,The Solar System,Science,3 min,Grade 1,assets/images/reading_passage/solar_system.png,"Our solar system consists of the Sun and eight planets that move around it. Mercury is the closest planet to the Sun, while Neptune is the farthest. \n\nEarth is the third planet and the only known planet that supports life. Each planet travels around the Sun in its own orbit. \n\nScientists use telescopes and spacecraft to learn more about our solar system and the universe beyond."
+P004,4,Wright Brothers,History,3 min,Grade 1,assets/images/reading_passage/wright_brothers.png,"In 1903, Orville and Wilbur Wright made the first successful powered airplane flight in North Carolina, USA. Their airplane stayed in the air for only a short time, but it proved that powered flight was possible. \n\nTheir invention changed transportation forever. Today, millions of people travel by airplane every day because of the Wright brothers' hard work and determination."
+P005,5,Saving Water,Environment,4 min,Grade 1,assets/images/reading_passage/save_water.png,"Water is one of Earth's most valuable resources. We use it for drinking, cooking, farming, and cleaning. \n\nHowever, fresh water is limited, so everyone should use it wisely. Simple actions such as turning off the tap while brushing your teeth, fixing leaking pipes, and collecting rainwater can help save water. \n\nWhen people work together, they can protect this important resource for future generations."
+P006,6,A Rainy Day,Weather,2 min,Grade 1,assets/images/reading_passage/rainy_day.png,"One morning, dark clouds filled the sky. Soon, soft rain began to fall. Mia put on her raincoat and boots before going outside. \n\nShe jumped into small puddles and laughed with her friends. They watched colorful umbrellas move along the road. \n\nAfter the rain stopped, a bright rainbow appeared in the sky. Mia smiled because rainy days can be fun too."
+P007,7,My School Garden,Nature,2 min,Grade 1,assets/images/reading_passage/school_garden.png,"Ben's class planted flowers and vegetables in the school garden. Every morning, the children gave the plants water. \n\nAfter a few weeks, green leaves and bright flowers began to grow. Butterflies and bees visited the garden every day. \n\nBen was proud because he helped the plants grow strong and healthy."
+P008,8,The Friendly Firefighter,Community Helpers,2 min,Grade 1,assets/images/reading_passage/firefighter.png,A firefighter visited Emma's school. He wore a special helmet and a heavy jacket to stay safe. \n\nHe showed the children the fire truck and its long hose. He told them to stay calm and call for help if there was a fire. \n\nThe children thanked the firefighter. They learned that firefighters help keep everyone safe.
+P009,9,The Little Seed,Plants,2 min,Grade 1,assets/images/reading_passage/little_seed.png,"Lily planted a tiny seed in a small pot. She gave it water and placed it near a sunny window. \n\nEvery day, Lily checked the pot. Soon, a little green sprout came out of the soil. It grew taller each week. \n\nLily was happy to see her little seed become a healthy plant."
+P010,10,A Trip to the Zoo,Animals,2 min,Grade 1,assets/images/reading_passage/zoo_trip.png,"Tom and his family went to the zoo on Saturday. They saw tall giraffes, playful monkeys, and sleepy lions. \n\nTom's favorite animal was the elephant. It used its long trunk to pick up food and spray water. \n\nBefore going home, Tom thanked the zoo workers for taking care of the animals. He could not wait to visit again."
+P011,11,A Day at the Beach,Places,2 min,Grade 1,assets/images/reading_passage/beach_day.png,"On a warm Saturday morning, Ava and her family went to the beach. They spread a big blanket on the soft sand and listened to the sound of the waves. Ava wore a sun hat and carried a small bucket and shovel. \n\nShe built a tall sandcastle with her brother. They found pretty seashells and watched little crabs walk across the sand. Later, they splashed in the cool water and laughed together. \n\nBefore going home, they cleaned up their trash and put it in a bin. Ava learned that everyone should help keep the beach clean and beautiful for people and animals."
+P012,12,The Busy Honeybee,Insects,2 min,Grade 1,assets/images/reading_passage/honeybee.png,"One bright morning, a little honeybee flew from flower to flower. It looked for sweet nectar to take back to its hive. The bee worked hard and never stopped for very long. \n\nAs the bee visited many flowers, tiny bits of pollen stuck to its body. The pollen moved from one flower to another, helping new plants grow. Many fruits and vegetables need bees to do this important job. \n\nAt the end of the day, the honeybee returned home with food for the hive. The little bee showed that even a small animal can do a very big job."
+P013,13,My New Library,School,2 min,Grade 1,assets/images/reading_passage/library.png,"Sam visited the school library for the first time. The room was quiet and filled with books on many shelves. There were stories about animals, space, dinosaurs, and fairy tales. Sam was excited to choose a book. \n\nThe librarian smiled and helped Sam find an easy story to read. Sam sat in a cozy chair and carefully turned each page. He learned new words and enjoyed the colorful pictures. \n\nBefore leaving, Sam returned the book to the desk and thanked the librarian. He could not wait to come back and read another wonderful story."
+P014,14,The Snowman,Winter,2 min,Grade 1,assets/images/reading_passage/snowman.png,"One cold winter morning, snow covered the ground. Mia and her friends put on warm coats, scarves, gloves, and boots before going outside. They were excited to play in the fresh snow. \n\nThe children rolled three big snowballs to make a snowman. They used small stones for the eyes, a carrot for the nose, and a hat on its head. Everyone laughed as they finished their snowy friend. \n\nAfter playing, the children went inside to drink warm hot chocolate. They felt happy because they had fun together and stayed warm after playing outside."
+P015,15,The Helpful Robot,Technology,2 min,Grade 1,assets/images/reading_passage/helpful_robot.png,"Lily's class had a small robot named Robo. The robot could move, flash colorful lights, and follow easy commands from the teacher. The children were excited to learn with their new classroom helper. \n\nRobo helped the class count numbers, spell simple words, and sing fun songs. The students took turns giving the robot easy directions. They learned that computers and robots follow instructions very carefully. \n\nAt the end of the lesson, Lily thanked Robo for helping everyone learn. She discovered that technology can make learning fun when people use it wisely."
+P016,16,The Moon and the Stars,Space,3 min,Grade 1,assets/images/reading_passage/moon_stars.png,"At night, Mia looked out of her bedroom window. The sky was dark, but it was full of bright stars. A big, round moon smiled down from above. Mia wondered why the stars twinkled and why the moon changed its shape. Her father told her that the moon does not make its own light. It shines because sunlight reflects from its surface. The stars are very far away, but they look tiny because they are so far from Earth.\n\nMia and her father used a small telescope to look at the moon. They saw dark spots and round craters on its surface. Mia thought it looked like a giant ball with many little holes. They also tried to find different groups of stars called constellations. It was fun to imagine that the stars made pictures in the sky.\n\nBefore going to bed, Mia smiled at the beautiful night sky. She learned that space is full of amazing things to discover. She hoped that one day she would visit a space museum and learn even more about the moon, the stars, and the planets. Every clear night, she remembered to look up and enjoy the wonders above her."
+P017,17,The Healthy Breakfast,Health,3 min,Grade 1,assets/images/reading_passage/healthy_breakfast.png,"Every morning, Rafi wakes up early and gets ready for school. Before leaving, he always eats a healthy breakfast with his family. One day, his mother served a bowl of oatmeal, a boiled egg, a banana, and a glass of milk. Rafi wanted cookies instead, but his mother explained that healthy food gives the body energy to learn, play, and grow. Rafi decided to try the breakfast, and he liked the sweet banana the most.\n\nAt school, Rafi felt strong and active. He listened carefully to his teacher, answered questions, and enjoyed playing with his friends during recess. Some of his classmates skipped breakfast and soon felt hungry and tired. Rafi shared what he had learned about eating healthy food. His teacher smiled and said that breakfast is an important meal because it helps children stay focused and full of energy.\n\nWhen Rafi returned home, he thanked his mother for preparing a healthy breakfast every day. He promised to choose fruits, milk, eggs, and other healthy foods instead of too many sweets. Rafi learned that eating a good breakfast is a simple way to take care of his body. He knew that healthy habits today would help him become stronger and happier as he grew up."
+P018,18,The Little Red Kite,Weather,3 min,Grade 1,assets/images/reading_passage/red_kite.png,"On a bright and windy morning, Amina and her brother Sami went to the park with a new red kite. The sky was clear, and soft white clouds floated above them. Sami held the kite while Amina ran across the green grass. Soon, the wind lifted the kite high into the air. It danced and twirled happily above the trees. The children laughed with joy as they watched the long tail wave behind it. They learned that wind can help a kite fly when it is strong enough.\n\nAfter a while, the wind became weaker, and the kite slowly came down. The children waited patiently until the breeze returned. Their father explained that the weather changes during the day. Sometimes the wind is strong, and sometimes it is gentle. He also reminded them to fly kites only in open places, away from roads and power lines, so everyone could stay safe.\n\nAs the sun began to set, Amina carefully rolled up the kite string, and Sami folded the kite. They were happy because they had spent a fun day outside together. On the way home, they talked about the clouds, the wind, and the beautiful blue sky. They hoped for another windy day soon so they could fly their red kite even higher."
+P019,19,The Kind Bus Driver,Community Helpers,3 min,Grade 1,assets/images/reading_passage/bus_driver.png,"On Monday morning, Nila waited at the bus stop with her school bag. Soon, the bright yellow school bus arrived. Mr. Karim, the bus driver, smiled and greeted every child with a cheerful ""Good morning!"" He made sure everyone climbed onto the bus safely and sat in their seats. Before driving, he reminded the children to keep their seat belts fastened and to stay seated until the bus stopped.\n\nAs the bus traveled through the town, Mr. Karim carefully watched the road. He stopped at every crossing to let people walk safely across the street. He followed all the traffic lights and speed limits. When one little boy dropped his lunch box, Mr. Karim waited until the bus stopped before helping him pick it up. The children thanked him for always keeping them safe.\n\nAfter school, Mr. Karim drove everyone home. The children waved goodbye and wished him a nice evening. Nila told her parents that a bus driver does much more than drive a bus. A good bus driver is kind, patient, and careful. She learned that community helpers work hard every day to keep people safe and make life better for everyone."
+P020,20,The Magic Paintbrush,Imagination,3 min,Grade 1,assets/images/reading_passage/magic_paintbrush.png,"Lina loved drawing pictures of flowers, birds, and trees. One afternoon, her grandmother gave her a special paintbrush. ""This is a magic paintbrush,"" she said with a smile. Lina laughed and painted a colorful butterfly. Suddenly, the butterfly flapped its wings and flew around the room! Next, she painted a bright red apple. The apple became real, and her little brother happily ate it. Lina was surprised and excited. She realized that the magic paintbrush could bring her drawings to life.\n\nLina wanted to use the paintbrush wisely. She painted an umbrella for a girl walking in the rain. She painted a bowl of fruit for a hungry family. She also painted beautiful flowers for the park so everyone could enjoy them. Each time she used the paintbrush to help others, it glowed with a warm golden light. Lina learned that kindness made the magic even stronger.\n\nAt the end of the day, Lina carefully put the paintbrush back in its box. She thanked her grandmother for the wonderful gift. Lina understood that imagination is a special kind of magic that everyone has. When people use their talents to help others, they can make the world a happier and brighter place."
+P021,21,The Magic Porridge Pot,Fairy Tale,2 min,Grade 1,assets/images/reading_passage/magic_porridge_pot.png,"Once upon a time, a little girl named Mia lived with her mother in a small house. They did not have much food. One day, Mia met an old woman in the forest. The woman gave Mia a magic pot. \n\nThe old woman said, “Say, ‘Cook, little pot, cook!’ and the pot will make porridge. Say, ‘Stop, little pot, stop!’ and it will stop.” Mia thanked the woman and took the pot home. \n\nMia was hungry, so she said, “Cook, little pot, cook!” The pot began to make warm, yummy porridge. Mia and her mother ate the porridge and were very happy. \n\nOne day, Mia went outside. Her mother wanted some porridge, so she used the magic pot. But she forgot the words to make it stop! The pot kept making more and more porridge. Soon, porridge filled the house. \n\nWhen Mia came home, she quickly said, “Stop, little pot, stop!” The magic pot stopped at once. Mia and her mother cleaned the house. They learned that magic is wonderful, but we must use it carefully."
+P022,22,The Ugly Duckling,Animals,2 min,Grade 1,assets/images/reading_passage/ugly_duckling.png,"Once upon a time, a mother duck had some little eggs. One day, the eggs opened, and cute ducklings came out. But one duckling looked different. He was big and gray. The other ducklings laughed at him and called him the ugly duckling. \n\nThe little duckling felt sad and lonely. He left the farm and walked through the forest. He looked for a safe place to live. He saw many birds, but he was afraid that they would laugh at him too. \n\nWinter came, and the little duckling was cold. He found a warm place and stayed there until spring. When spring came, he went to a beautiful lake. There, he saw some lovely white birds swimming on the water. \n\nThe duckling looked into the water and saw his reflection. He was surprised! He was not an ugly duckling anymore. He had grown into a beautiful white swan. The other swans welcomed him happily. \n\nThe little swan was very happy. He learned that being different can be special and beautiful."
+P023,23,The Brave Little Turtle,Animals,2 min,Grade 1,assets/images/reading_passage/brave_little_turtle.png,"Once upon a time, a little turtle lived near a quiet pond. His name was Tim. Tim was small, but he was very brave. He loved to explore the pond and the green grass around it. \n\nOne sunny morning, Tim heard a tiny bird crying. The little bird had fallen from its nest and could not get back. Tim wanted to help, so he slowly walked toward the tree. \n\nTim saw a small branch on the ground. He pushed the branch close to the tree. The little bird stepped onto the branch and climbed back to its nest. \n\nThe bird was very happy and thanked Tim. All the animals cheered for the little turtle. Tim smiled because he had helped a friend. \n\nTim learned that you do not have to be big to be brave. Even a small animal can do a big, kind thing."
+P024,24,The Ant and the Grasshopper,Animals,2 min,Grade 1,assets/images/reading_passage/ant_and_grasshopper.png,"One warm summer day, a little ant was busy collecting food. She carried tiny grains to her home. A happy grasshopper was singing and jumping nearby. \n\nThe grasshopper said, “Why are you working so hard? Come and play with me!” The ant smiled and said, “I like to play too, but I must save some food for winter.” The grasshopper laughed and continued to sing and dance. \n\nSoon, winter came. The days became cold, and there was very little food. The grasshopper was hungry and worried. He remembered the little ant and went to her home. \n\nThe kind ant welcomed him and shared some of her food. She said, “You can stay warm here. We can work together when spring comes.” The grasshopper thanked the ant and promised to help next time. \n\nWhen spring arrived, the grasshopper kept his promise. He helped the ant collect food, and they also found time to sing and play together. They became good friends and learned that working hard, sharing, and helping each other can make life happier."
+P025,25,The Rainbow After Rain,Nature,2 min,Grade 1,assets/images/reading_passage/rainbow_after_rain.png,"One afternoon, dark clouds covered the sky. Soon, rain began to fall. A little girl named Lily looked out of her window. She wanted to play outside, but the rain was too heavy. \n\nLily felt a little sad. She sat by the window and watched the raindrops fall. Her mother smiled and said, “Be patient, Lily. The rain will stop soon.” \n\nAfter some time, the rain became lighter and then stopped. Lily opened the door and stepped outside. The air was fresh, and tiny drops of water sparkled on the leaves. \n\nSuddenly, Lily looked up at the sky. She saw a beautiful rainbow with many bright colors. She smiled with joy. The rainbow looked like a giant colorful bridge across the sky. \n\nLily called her mother to come and see it. They stood together and admired the beautiful rainbow. Lily learned that even after a rainy and gloomy time, something bright and beautiful can appear."
+P026,26,The Little Cloud,Nature,2 min,Grade 1,assets/images/reading_passage/little_cloud.png,"One bright morning, a little cloud named Puffy floated high in the blue sky. Puffy was small and white. He loved looking down at the green trees, colorful flowers, and tiny houses. \n\nOne day, Puffy saw that the ground was very dry. The flowers looked sad, and the grass was turning brown. Puffy wanted to help, so he floated across the sky and gathered tiny drops of water. \n\nSoon, Puffy became a big, gray cloud. He gently let the drops of water fall to the ground. The rain gave the flowers and grass a fresh drink. The trees looked green again, and the flowers stood up happily. \n\nThe sun came out after the rain. A beautiful rainbow appeared in the sky. Puffy felt proud because he had helped the plants and animals. \n\nFrom that day on, Puffy learned that even a little cloud can do something big when it helps others."
+P027,27,The Helpful Little Ant,Animals,2 min,Grade 1,assets/images/reading_passage/helpful_little_ant.png,"One sunny morning, a little ant named Andy was walking near a garden. He was small, but he always liked to help others. \n\nAs Andy walked, he saw a butterfly lying on the ground. One of its wings was wet, and it could not fly. Andy found a dry leaf and helped the butterfly move onto it. Soon, the butterfly's wing became dry, and it flew away happily. \n\nLater that day, Andy saw a small beetle stuck in a hole. The beetle tried to climb out, but the hole was too deep. Andy called some of his ant friends. Together, they pushed a small twig into the hole. The beetle climbed up the twig and got out safely. \n\nThe beetle thanked Andy and his friends. Andy smiled and went home. He was happy because he had helped two little friends. \n\nAndy learned that you do not need to be big or strong to help someone. Even a little ant can make a big difference with kindness and teamwork."
+P028,28,The Talking Tree,Nature,2 min,Grade 1,assets/images/reading_passage/talking_tree.png,"Once upon a time, a little boy named Sam lived near a big green forest. Sam loved playing among the trees. One day, he found a very old tree with a wide trunk and many branches. \n\nSam sat under the tree and said, “I wish I had a friend to talk to.” Suddenly, he heard a gentle voice. “Hello, Sam!” said the tree. Sam was very surprised. The tree could talk! \n\nThe talking tree told Sam that it had watched the forest for many years. It had seen birds build nests, squirrels find food, and children play nearby. \n\nOne hot afternoon, Sam saw some children throwing rubbish on the ground. The tree said, “Please help keep our forest clean. Trees give us shade, fresh air, and homes for many animals.” Sam agreed. He picked up the rubbish and asked the children to help him. Soon, the forest was clean again. \n\nThe birds sang happily, and the animals returned to the trees. Sam thanked his new friend. From that day on, he helped care for the forest and taught others to love and protect nature."
+P029,29,The Picnic in the Park,Family & Fun,2 min,Grade 1,assets/images/reading_passage/picnic_in_the_park.png,"One bright Saturday morning, Mia went to the park with her family. They carried a picnic basket filled with sandwiches, apples, juice, and cookies. Mia was very excited to spend the day outside. \n\nThey found a shady spot under a big tree and spread a soft blanket on the grass. Mia played with her little brother while her parents prepared the food. They ate their lunch together and talked and laughed. \n\nAfter lunch, Mia saw a small bird near the blanket. The bird looked hungry. Mia gently put some crumbs on the ground. The bird hopped closer and ate them. Mia was happy to help the little bird. \n\nThen the family played with a ball and flew a colorful kite. Before going home, they picked up all their rubbish and put it in a bin. \n\nMia had a wonderful day at the park. She learned that a picnic is even more fun when we share, help others, and keep the park clean."
+P030,30,The Lost Kitten,Animals,2 min,Grade 1,assets/images/reading_passage/lost_kitten.png,"One sunny afternoon, a little girl named Lily was walking home from school. Near a small garden, she heard a soft “Meow!” She looked around and saw a tiny kitten hiding under a bush. \n\nThe kitten looked scared and lonely. Lily gently picked it up and gave it some water. She wanted to help the little kitten find its home. \n\nLily asked some people nearby if they knew the kitten. She also looked around the streets and gardens. After a while, she saw a woman calling, “Mimi! Mimi!” The kitten suddenly became happy and ran toward her. \n\nThe woman was the kitten’s owner. She had been looking for Mimi all afternoon. She thanked Lily for taking care of her little pet. \n\nLily smiled and said, “I am happy that Mimi is safe.” She waved goodbye as the kitten went home with its owner. Lily learned that helping a lost animal can make both the animal and its owner very happy."
+P031,31,The Friendly Dolphin,Animals,3 min,Grade 2,assets/images/reading_passage/friendly_dolphin.png,"One sunny morning, a boy named Rafi went to the beach with his father. The sea was calm, and the blue water sparkled in the sunlight. Rafi loved watching the waves and looking for shells along the shore. \n\nAs Rafi walked near the water, he heard a strange clicking sound. He looked into the sea and saw a dolphin swimming close to the shore. The dolphin had smooth gray skin and a bright, curious face. Rafi smiled and waved. To his surprise, the dolphin jumped out of the water and splashed happily. \n\nRafi visited the beach again the next day. The dolphin was there! Rafi called him Finn. Every morning, Finn swam near the shore whenever Rafi came to the beach. Sometimes, Finn followed the small fishing boats, and sometimes he jumped over the gentle waves. Rafi enjoyed watching his new friend. \n\nOne afternoon, Rafi noticed that Finn was not swimming normally. The dolphin was moving slowly and kept turning in circles. Rafi looked carefully and saw a piece of fishing net wrapped around Finn’s tail. Rafi knew that Finn needed help. \n\nRafi quickly called his father. His father contacted some local fishermen who knew how to safely help dolphins. They came with the right tools and carefully removed the net. After a few minutes, Finn was free. He swam around the boat and jumped high into the air as if he were saying thank you. \n\nRafi felt very happy. He also noticed plastic bottles and pieces of rope floating near the beach. From that day on, he began picking up rubbish with his father and encouraged other people to keep the beach clean. Rafi learned that being a good friend means caring for others and protecting the places where they live."
+P032,32,The Visit to the Science Museum,Science,3 min,Grade 2,assets/images/reading_passage/science_museum.png,"One Saturday morning, a boy named Arif went to the science museum with his parents. He was very excited because he loved learning about how things worked. The museum was a large building with many interesting rooms.\n\nFirst, Arif visited the room of simple machines. He saw wheels, pulleys, levers, and gears. A guide showed him how a pulley could lift a heavy box with less effort. Arif tried pulling a rope and watched the box move up.\n\nNext, he entered a room filled with interesting experiments. There was a large glass ball that made small sparks when people touched it. Arif also saw a model of the human heart. It showed how blood moves through different parts of the body.\n\nIn another room, Arif found a small science experiment. There were two plants in separate glass containers. One plant received sunlight, while the other stayed in a dark place. The guide explained that plants need sunlight, water, and air to grow properly.\n\nBefore leaving, Arif watched a short science show. A teacher mixed two special liquids, and the mixture changed colour. Everyone clapped with excitement.\n\nArif returned home with a small science book as a gift. He told his parents that he wanted to become a scientist one day. His parents smiled and encouraged him to keep asking questions and exploring new things.\n\nThat evening, Arif wrote about his visit in his notebook. He learned that science is not only found in books but also in the world around us."
+P033,33,The Mystery of the Old Clock,General Knowledge,3 min,Grade 2,assets/images/reading_passage/old_clock.png,"One afternoon, a boy named Sami was helping his grandfather clean the storeroom. The room was full of old books, wooden boxes, and interesting objects. While moving a large box, Sami noticed something shining behind it. He found an old wooden clock covered with dust.
+
+Sami carefully picked up the clock and showed it to his grandfather. The clock had a round face, two metal hands, and a small door at the back. However, it was not working. His grandfather smiled and said that the clock had belonged to his great-grandfather many years ago.
+
+Sami became curious. He wanted to know how the clock worked. His grandfather opened the small door and showed him several tiny metal wheels inside. He explained that these wheels moved together to make the clock hands turn. A small metal pendulum helped the clock keep time.
+
+With his grandfather's help, Sami cleaned the clock and gently wound it up. Suddenly, he heard a familiar sound. Tick-tock! Tick-tock! The old clock had started working again.
+
+Sami was delighted. He placed the clock on a small table in the living room. Every hour, it made a pleasant ringing sound. His grandfather told him that old objects could teach us many interesting things about the past.
+
+That evening, Sami wrote about his discovery in his notebook. He realized that curiosity and careful observation could turn an ordinary afternoon into an exciting adventure."
+P034,34,The Young Inventor,Science,3 min,Grade 2,assets/images/reading_passage/young_inventor.png,"Mina was a curious girl who loved making things with her hands. She often collected empty boxes, plastic bottles, paper rolls, and old buttons. Instead of throwing them away, she kept them in a large box in her room.
+
+One Sunday morning, Mina decided to build something special. She wanted to make a small toy car. First, she took an empty cardboard box and cut it into a rectangular shape. Then she attached four bottle caps to the sides using small sticks. The bottle caps became the wheels of her car.
+
+However, when Mina pushed the car, it did not move properly. She noticed that the wheels were not straight. She carefully adjusted them and tried again. This time, the car rolled smoothly across the floor.
+
+Mina was very happy with her invention. But she wanted to make it even better. She attached a small paper flag to the top and painted the car with bright colours. Her younger brother watched her work and asked if he could make one too.
+
+Mina showed him how to build another car using the same materials. They made two cars and arranged a little race in the living room. Their mother watched them and smiled.
+
+Before going to bed, Mina placed her toy car on the study table. She understood that making mistakes was a natural part of learning. Every time something went wrong, she discovered a new way to solve the problem.
+
+Mina decided to become an inventor when she grew up. She knew that great inventions often began with simple ideas and curious minds."
+P035,35,A Journey Inside the Human Body,Science,3 min,Grade 2,assets/images/reading_passage/human_body_journey.png,"Rohan was reading a science book when he found a colourful picture of the human body. He was amazed to see so many different organs inside the body. He asked his mother how all these parts worked together.
+
+His mother explained that the human body was like a wonderful machine. Every organ had a special job. The brain was the control centre of the body. It helped us think, remember, learn, and control our movements.
+
+Next, she showed him a picture of the heart. The heart was a strong muscle that pumped blood to different parts of the body. It worked day and night without taking a rest.
+
+Rohan then learned about the lungs. They helped us breathe by taking oxygen from the air. When we breathed in, our lungs filled with air. When we breathed out, they pushed air out of the body.
+
+His mother also explained the work of the stomach. It helped break down the food we ate so that our bodies could use it for energy and growth.
+
+Finally, Rohan learned about the skeleton. The bones gave shape to his body and protected important organs. Without bones, he would not be able to stand, walk, or run properly.
+
+Rohan was surprised to discover how many things happened inside his body every second. He decided to eat healthy food, exercise regularly, and get enough sleep to keep his body strong.
+
+That night, he looked at his science book again and smiled. He thought the human body was one of the most amazing things in the world."
+P036,36,The Secret Life of Bats,Animals,3 min,Grade 2,assets/images/reading_passage/secret_life_bats.png,"One evening, a boy named Nabil was sitting in his garden with his grandfather. As the sun went down, he noticed several small animals flying across the sky. They moved quickly between the trees and disappeared into the darkness.
+
+Nabil pointed at them and asked his grandfather what they were. His grandfather explained that they were bats. Nabil was surprised because he had never seen these animals flying so actively at night.
+
+His grandfather told him that bats were the only mammals capable of true flight. Like humans, bats had fur and gave birth to babies. Their babies drank milk from their mothers.
+
+Nabil wanted to know how bats could find their way in the dark. His grandfather explained that many bats used a special ability called echolocation. They made high-pitched sounds that bounced off nearby objects. By listening to the returning echoes, they could find insects, trees, and other objects around them.
+
+Some bats ate insects, while others drank nectar from flowers or ate fruits. Fruit-eating bats helped nature by spreading seeds from one place to another. Some bats also helped flowers by carrying pollen.
+
+Nabil was amazed to learn that these little flying mammals were so useful. His grandfather explained that bats needed safe places to live, such as caves and old trees.
+
+Before going inside, Nabil watched the bats flying across the evening sky. He decided that he would never disturb them or destroy their homes. He understood that even small animals played important roles in keeping nature healthy."
+P037,37,The Amazing World of Bridges,Engineering,3 min,Grade 2,assets/images/reading_passage/amazing_bridges.png,"One morning, a boy named Imran was travelling with his family to visit his grandparents. On the way, their car crossed a large bridge over a wide river. Imran looked out of the window and wondered how such a huge structure could stand above the water.
+
+He asked his father how bridges were built. His father explained that bridges were structures that helped people cross rivers, valleys, roads, and other obstacles. Without bridges, many journeys would take much longer.
+
+There were different kinds of bridges. Some bridges had large arches that supported their weight. Others used strong cables hanging from tall towers. Some simple bridges were made from wooden planks placed across small streams.
+
+Imran's father explained that engineers carefully planned every bridge before construction began. They studied the ground, measured distances, and selected suitable materials. Steel, concrete, and stone were commonly used because they were strong and durable.
+
+As their car moved across the bridge, Imran noticed several large pillars standing in the river. His father explained that these pillars supported the bridge and helped carry its weight safely.
+
+When they reached the other side, Imran looked back at the bridge with admiration. He realized that building a bridge required mathematics, science, creativity, and careful planning.
+
+That evening, Imran made a small bridge using ice-cream sticks and glue. He placed a few toy cars on it to test its strength. He felt proud when his little bridge held them without falling.
+
+Imran decided that he might become a civil engineer one day and design strong bridges for people to use."
+P038,38,The Wonderful World of Penguins,Animals,3 min,Grade 2,assets/images/reading_passage/wonderful_penguins.png,"During a school holiday, a girl named Tisha visited an aquarium with her parents. She was excited to see many sea animals, but one group of animals caught her attention. They were penguins swimming and playing in a large pool.
+
+Tisha noticed that the penguins had black backs, white bellies, and short wings. They looked like little birds wearing formal clothes. She laughed when she saw one penguin walking with short, funny steps.
+
+A guide explained that penguins were birds, but they could not fly through the air. Instead, their strong wings worked like flippers and helped them swim quickly underwater. Their smooth bodies allowed them to move easily through the water.
+
+Tisha learned that most penguins lived in the Southern Hemisphere. Many lived in cold places, such as Antarctica, where they had thick feathers and a layer of fat to keep them warm. However, some penguins lived in warmer regions too.
+
+The guide also explained that penguins ate fish, squid, and small sea creatures called krill. They were excellent swimmers and could dive underwater to catch their food.
+
+Tisha watched two penguins swimming side by side. Suddenly, one jumped out of the water and landed on the edge of the pool. Everyone nearby laughed and clapped.
+
+Before leaving, Tisha read an information board about penguins. She discovered that penguin parents often took turns caring for their eggs and feeding their chicks.
+
+On the way home, Tisha told her parents that penguins were much more interesting than she had imagined. She decided to read more about these amazing birds."
+P039,39,How a Newspaper Is Made,General Knowledge,3 min,Grade 2,assets/images/reading_passage/how_newspaper_is_made.png,"Every morning, millions of people around the world read newspapers to learn about what is happening around them. A newspaper contains news, stories, photographs, sports reports, and information about different events.
+
+A boy named Rifat was curious about how newspapers were made. One day, his uncle took him to visit a newspaper printing office. Rifat was excited to see the large machines and busy workers.
+
+First, his uncle introduced him to some reporters. They collected information by visiting different places, interviewing people, and asking questions. They wrote reports about important events and sent them to the newspaper office.
+
+Next, Rifat visited the editing room. He saw editors checking the reports carefully. They corrected spelling mistakes, improved sentences, and selected important stories for the newspaper.
+
+Then, his uncle showed him the printing section. Huge machines printed thousands of newspaper pages very quickly. Large rolls of paper moved through the machines, and the printed pages came out one after another.
+
+After printing, workers folded the pages and arranged them into complete newspapers. The newspapers were then packed and sent to different shops and homes.
+
+Rifat was surprised to see how many people worked together to produce a single newspaper. His uncle explained that reporters, editors, designers, printers, and delivery workers all played important roles.
+
+The next morning, Rifat opened a newspaper at breakfast. This time, he understood how much effort went into preparing the news he read every day."
+P040,40,The Incredible World of Insects,Science,3 min,Grade 2,assets/images/reading_passage/incredible_world_insects.png,"One afternoon, a boy named Adib was playing in his backyard when he noticed a tiny insect crawling on a leaf. He bent down to look at it more closely. Soon, he discovered several other insects moving around the garden.
+
+Adib called his mother and asked why there were so many different kinds of insects. His mother explained that insects were the largest group of animals on Earth. They lived in gardens, forests, deserts, and even inside some houses.
+
+She showed him a picture of an insect and explained that most insects had six legs, two antennae, and three main body parts: the head, thorax, and abdomen. Some insects had wings, while others did not.
+
+Adib learned about several interesting insects. Butterflies had colourful wings and drank nectar from flowers. Ladybugs often ate tiny insects called aphids that damaged plants. Grasshoppers used their strong back legs to jump long distances.
+
+His mother also explained that insects were important to nature. Bees and butterflies helped pollinate flowers. Some insects broke down dead plants and animals, returning useful nutrients to the soil. Ants also helped move soil and make tunnels underground.
+
+Suddenly, Adib noticed a small caterpillar eating a green leaf. His mother explained that many caterpillars changed into butterflies through a process called metamorphosis.
+
+Adib watched the little caterpillar carefully. He was amazed that such a small creature could play an important role in nature.
+
+From that day on, Adib became interested in observing insects. He started keeping a small nature notebook where he drew pictures of the insects he discovered in his garden."
+P041,41,The Journey of a Drop of Blood,Science,3 min,Grade 2,assets/images/reading_passage/journey_drop_blood.png,"A boy named Sami was curious about how his body worked. One day, while reading a science book, he found a picture showing blood moving through the human body. He wondered how blood travelled from one place to another.
+
+His father explained that blood was a special liquid that moved through a network of tiny tubes called blood vessels. The heart worked like a pump and pushed blood around the body.
+
+Sami learned that blood had several important parts. Red blood cells carried oxygen from the lungs to different parts of the body. White blood cells helped protect the body from harmful germs. Platelets helped stop bleeding when someone got a cut.
+
+His father then explained the journey of a drop of blood. First, blood entered the right side of the heart after travelling through the body. It was then pumped to the lungs, where it collected fresh oxygen. After that, it returned to the left side of the heart.
+
+The heart pumped this oxygen-rich blood through blood vessels to the brain, muscles, and other organs. Every part of the body needed blood to work properly.
+
+Sami was amazed to learn that his heart pumped blood every minute, even while he was sleeping. He placed his hand on his chest and felt his heartbeat.
+
+His father smiled and reminded him that regular exercise, healthy food, and enough sleep helped keep the heart strong.
+
+That night, Sami imagined a tiny drop of blood travelling through his body like a little explorer. He realized that many amazing activities were happening inside him every second."
+P042,42,The Secret of the Underground World,Science,3 min,Grade 2,assets/images/reading_passage/underground_world.png,"One afternoon, a girl named Rima was helping her father plant flowers in their garden. While digging a small hole, she noticed something moving beneath the soil. She looked carefully and saw a tiny earthworm twisting its long body.
+
+Rima asked her father why earthworms lived underground. Her father explained that soil was home to many small creatures. Earthworms, ants, beetles, and other animals spent much of their lives beneath the ground.
+
+Her father showed her a small ant tunnel near a tree. He explained that ants built complicated underground homes called colonies. These tunnels had different spaces where ants stored food, cared for their young, and rested.
+
+Next, Rima learned about earthworms. They moved through the soil by stretching and squeezing their bodies. As they travelled, they made tiny tunnels that allowed air and water to enter the ground. Their waste also added useful nutrients to the soil, helping plants grow.
+
+Her father then showed her a picture of a mole. Moles had strong front paws that helped them dig tunnels. They spent much of their time underground and searched for insects and earthworms to eat.
+
+Rima was surprised to discover that the ground beneath her feet was full of life. She had always thought soil was just dirt, but now she understood that it was a home for many living things.
+
+Before finishing their gardening work, Rima carefully returned the earthworm to the soil. She decided never to harm the tiny creatures living in her garden.
+
+That evening, she wrote in her notebook, The world beneath our feet is just as interesting as the world above it."""""
+P043,43,How Do Airplanes Fly,Science,3 min,Grade 2,assets/images/reading_passage/how_airplanes_fly.png,"One morning, a boy named Fahim was standing near an airport with his father. He watched a large airplane move along the runway. Suddenly, the airplane became faster and lifted into the sky. Fahim was amazed and wondered how such a heavy machine could fly.
+
+His father explained that airplanes could fly because of the way air moved around their wings. The wings were specially designed to help create an upward force called lift. When an airplane moved forward quickly, air flowed around its wings and helped push it upward.
+
+Fahim then asked what made the airplane move forward. His father explained that jet engines pushed hot gases backwards at high speed. This created a force that moved the airplane forward. Smaller airplanes often used propellers to push air backwards.
+
+His father also explained that airplanes had several important parts. The cockpit was where the pilots controlled the airplane. The tail helped keep it stable, while the landing gear supported it when it touched the ground.
+
+Fahim learned that pilots needed special training before they could fly an airplane. They studied weather, navigation, safety rules, and how to control the aircraft.
+
+As they watched, the airplane disappeared behind some white clouds. Fahim imagined the passengers looking down at the tiny houses, roads, and rivers below.
+
+On the way home, Fahim said that he wanted to learn more about flying machines. His father smiled and told him that science and engineering made modern air travel possible.
+
+Fahim realized that an airplane was not just a machine but a wonderful example of how people used science to solve difficult problems."
+P044,44,The Amazing Life of Octopuses,Animals,3 min,Grade 2,assets/images/reading_passage/amazing_octopuses.png,"During a family holiday, a boy named Zayan visited a marine science centre. He was walking through a large aquarium when he noticed a strange sea animal hiding inside a rocky cave. It had a round head, two large eyes, and eight long arms.
+
+Zayan called his mother and asked what the animal was. She explained that it was an octopus. It was one of the most intelligent animals living in the ocean.
+
+Zayan watched the octopus carefully. It used its eight arms to explore the rocks and search for food. Each arm had many small suckers that helped it hold objects and catch prey.
+
+His mother explained that octopuses had three hearts. Two hearts pumped blood to the gills, while the third pumped blood to the rest of the body. They also had blue blood because their blood contained a special copper-based substance.
+
+Suddenly, the octopus changed its colour. Its skin became almost the same colour as the rocks around it. Zayan was surprised. His mother explained that octopuses could change their skin colour and pattern to hide from predators or communicate with other animals.
+
+She also told him that an octopus could release a cloud of dark ink into the water when it felt threatened. The ink confused predators and gave the octopus time to escape.
+
+Before leaving, Zayan learned that octopuses were very good at solving problems. Some could open jars to reach food, while others used objects as tools or shelters.
+
+Zayan returned home feeling amazed. He had never imagined that an animal living underwater could be so clever and have so many unusual abilities."
+P045,45,The Mystery of the Deep Ocean,Science,3 min,Grade 2,assets/images/reading_passage/mystery_deep_ocean.png,"A girl named Nila loved reading books about the ocean. One evening, she found a picture of a strange fish with glowing spots on its body. She wondered how animals could live in the darkest parts of the ocean.
+
+Her father explained that the ocean was extremely deep in some places. Sunlight could reach only the upper layers of the water. Far below the surface, the ocean became completely dark, cold, and filled with great pressure.
+
+Nila learned that many deep-sea animals had special ways of surviving. Some fish produced their own light through a process called bioluminescence. This light helped them attract food, communicate, or confuse predators.
+
+Her father showed her a picture of an anglerfish. It had a small glowing part near its mouth that looked like a fishing rod. The light attracted smaller animals, which the anglerfish could catch and eat.
+
+Next, Nila learned about the giant squid. It had enormous eyes that helped it see in the dim light of deep water. Scientists had studied these mysterious animals using special underwater cameras and research equipment.
+
+Her father explained that exploring the deep ocean was very difficult. Special submarines and underwater robots helped scientists study places that humans could not easily visit.
+
+Nila was surprised that so much of the ocean remained unexplored. She decided that she wanted to learn more about marine science and the mysterious creatures living beneath the waves.
+
+Before going to bed, she opened her notebook and wrote a question: What other amazing animals are hiding in the deepest parts of the ocean?"
+P046,46,The Boy Who Loved Mathematics,Education,3 min,Grade 2,assets/images/reading_passage/boy_loved_mathematics.png,"A boy named Arman loved solving mathematical puzzles. Every morning, he spent a little time solving number problems before going to school. He enjoyed discovering patterns and finding different ways to solve the same problem.
+
+One day, his mathematics teacher brought a special challenge to the classroom. She placed a large box on the table and filled it with colourful number cards. Each card had a different number written on it.
+
+The teacher asked the students to arrange the cards in a special order. The numbers had to increase by five each time. Arman looked carefully at the cards and quickly noticed the pattern. He arranged them correctly and explained his thinking to the class.
+
+Next, the teacher gave everyone a problem about shapes. She showed a rectangle and asked how many corners and sides it had. Arman counted four sides and four corners. Then she asked the students to find objects in the classroom that had the same shape.
+
+Arman pointed to the blackboard, a book, and the classroom door. His teacher smiled and explained that mathematics could be found everywhere around us.
+
+During the lunch break, Arman created a number puzzle for his friends. He wrote a few numbers on the board and asked them to discover the missing number. His friends enjoyed solving the challenge together.
+
+At the end of the day, the teacher praised Arman for his curiosity and careful thinking. She reminded everyone that mathematics was not only about remembering rules but also about understanding patterns and solving problems.
+
+Arman went home happily, already thinking about a new puzzle for the next day."
+P047,47,The Amazing World of Volcanoes,Science,3 min,Grade 2,assets/images/reading_passage/amazing_volcanoes.png,"A boy named Rayan was watching a nature documentary with his father. Suddenly, he saw a mountain sending out hot lava, smoke, and ash. He was surprised and asked his father what was happening.
+
+His father explained that the mountain was called a volcano. A volcano was an opening in the Earth's surface through which hot melted rock, gases, and ash could escape. The melted rock beneath the Earth's surface was called magma. When it came out of a volcano, it was called lava.
+
+Rayan learned that the Earth had several layers. The outer layer was called the crust. Beneath it were much hotter layers. Deep inside the Earth, temperatures were extremely high, and some rocks melted into hot liquid.
+
+His father showed him pictures of different volcanoes. Some had tall, cone-shaped mountains, while others were wide and gently sloping. Not all volcanoes erupted frequently. Some had not erupted for thousands of years.
+
+Rayan was curious about what happened during an eruption. His father explained that pressure built up beneath the Earth's surface. When the pressure became strong enough, magma and gases could rise through cracks and openings.
+
+He also learned that volcanic eruptions could be dangerous. Hot lava, falling ash, and fast-moving clouds of hot gas could damage homes, forests, and roads.
+
+However, volcanoes could also help nature. Over time, volcanic ash and broken volcanic rocks could form soil that was rich in minerals and useful for growing plants.
+
+Rayan was amazed by the power hidden beneath the Earth's surface. He decided to read more about volcanoes and other natural wonders."
+P048,48,The Secret Language of Whales,Animals,3 min,Grade 2,assets/images/reading_passage/secret_language_whales.png,"A girl named Zara was watching a television programme about ocean animals. She heard a beautiful, long sound coming from the deep blue sea. The sound was so unusual that she asked her grandfather what animal was making it.
+
+Her grandfather explained that it was a whale. Whales were large marine mammals that lived in oceans around the world. Unlike fish, they breathed air through openings called blowholes on top of their heads.
+
+Zara learned that whales made different sounds to communicate with one another. Some whales produced clicks, whistles, and long songs. These sounds travelled through water and helped whales find each other over long distances.
+
+Her grandfather showed her a picture of a humpback whale. It was famous for its beautiful songs. Scientists believed that these songs helped whales communicate and might also play a role in attracting mates.
+
+Next, Zara learned about the blue whale. It was the largest animal known to have ever lived on Earth. Even though it was enormous, it mainly ate tiny sea animals called krill. It used special structures in its mouth called baleen plates to filter food from the water.
+
+Zara was surprised to learn that some whales travelled thousands of kilometres every year. They moved between feeding areas and warmer waters where they gave birth to their babies.
+
+Her grandfather explained that whales needed clean oceans and safe places to live. Noise from ships, plastic waste, and fishing activities could make life difficult for them.
+
+Zara decided that she would learn more about ocean animals and encourage others to protect marine life.
+
+That night, she imagined a giant whale singing a beautiful song beneath the waves."
+P049,49,How Does a Camera Work,Science,3 min,Grade 2,assets/images/reading_passage/how_camera_works.png,"A boy named Tanim loved taking photographs with his father's camera. He enjoyed capturing pictures of flowers, birds, buildings, and people. One day, he wondered how a small machine could capture an image and save it.
+
+His father explained that a camera worked by collecting light. Light travelled from objects and entered the camera through a small opening called a lens. The lens helped focus the light onto a special surface called an image sensor.
+
+Tanim learned that the image sensor was an important part of a digital camera. It detected the light and converted it into electrical signals. The camera then used these signals to create a digital photograph.
+
+His father showed him the different parts of the camera. The lens helped focus the image, the shutter controlled how long light entered, and the screen allowed people to view their photographs.
+
+Next, his father explained that photographers could change the amount of light entering a camera. They could also adjust the focus to make an object look sharp and clear.
+
+Tanim wanted to try an experiment. He placed a red flower near a window and took a photograph. Then he moved the flower into a darker corner and took another picture. He noticed that the second photograph looked much darker.
+
+His father explained that cameras needed enough light to capture clear pictures. This was why photographs taken in bright places often looked different from those taken in dark places.
+
+Tanim was fascinated by the science behind photography. He decided to learn more about cameras and become better at capturing beautiful moments."
+P050,50,The Incredible Journey of Food,Science,3 min,Grade 2,assets/images/reading_passage/journey_of_food.png,"A boy named Rafi loved eating different kinds of food. He enjoyed rice, vegetables, fish, fruits, and eggs. One day, while having lunch, he asked his mother what happened to food after he swallowed it.
+
+His mother explained that the body had a special system called the digestive system. It helped break food into smaller parts so that the body could absorb nutrients and use them for energy and growth.
+
+First, food entered the mouth. The teeth chewed it into small pieces, while saliva made it soft and wet. Then the tongue helped push the food down the throat.
+
+Next, the food travelled through a long tube called the oesophagus. It carried food from the mouth to the stomach. The stomach squeezed and mixed the food with special digestive juices to break it down further.
+
+After that, the partly digested food moved into the small intestine. This was where most nutrients entered the blood and travelled to different parts of the body. The body used these nutrients to grow, repair itself, and stay healthy.
+
+The remaining material moved into the large intestine. It absorbed much of the leftover water before the waste left the body.
+
+Rafi was amazed to learn that his body worked so hard after every meal. His mother explained that eating different healthy foods and drinking enough water helped the digestive system work properly.
+
+That evening, Rafi looked at his dinner plate with new interest. He understood that every meal began an amazing journey inside his body."
+P051,51,The Invisible World of Microorganisms,Science,4 min,Grade 3,assets/images/reading_passage/invisible_microorganisms.png,"One day, a girl named Naira was helping her mother prepare lunch. Her mother washed her hands carefully before touching the vegetables. Naira asked why washing hands was so important, even when they looked perfectly clean.
+
+Her mother explained that many tiny living organisms were present all around us. They were called microorganisms because most of them were too small to be seen without a microscope. They lived in water, soil, air, food, and even on our skin.
+
+Naira became curious and wanted to learn about these invisible creatures. Her mother showed her pictures of bacteria, fungi, and microscopic algae. She explained that microorganisms came in different shapes and sizes and performed many important functions in nature.
+
+Some microorganisms could cause diseases. Harmful bacteria and viruses could enter our bodies and make us sick. This was why people needed to wash their hands, drink clean water, and eat properly prepared food. Vaccines and medicines also helped protect people from certain diseases.
+
+However, Naira was surprised to learn that not all microorganisms were harmful. Some bacteria lived inside our intestines and helped digest food. Other microorganisms helped break down dead plants and animals, returning nutrients to the soil.
+
+Her mother also explained how microorganisms were used to prepare different foods. Certain bacteria helped turn milk into yoghurt, while yeast, a type of fungus, helped bread dough rise. Without these tiny organisms, many familiar foods would be very different.
+
+Naira asked how scientists studied something they could not see with their eyes. Her mother explained that microscopes made tiny objects appear much larger. Scientists used special laboratories and microscopes to observe microorganisms and understand how they worked.
+
+That evening, Naira looked at a glass of water and imagined the countless tiny organisms that might exist around her. She realised that the world contained many things that human eyes could not see. She decided that she wanted to learn more about these fascinating microscopic creatures."
+P052,52,How Does the Internet Work,Technology,4 min,Grade 3,assets/images/reading_passage/how_internet_works.png,"A boy named Adnan loved using a computer to watch educational videos, read interesting facts, and learn new things. One day, he wondered how information could travel from a computer in Dhaka to another computer thousands of kilometres away.
+
+His father explained that the internet was a huge worldwide network connecting billions of computers, mobile phones, and other electronic devices. It allowed people to share information and communicate with one another, even when they lived in different countries.
+
+Adnan wanted to understand how this connection worked. His father explained that information travelled through different communication systems. Some devices connected to the internet using Wi-Fi, while others used mobile networks. Large networks of cables, including fibre-optic cables under the oceans, carried information between countries and continents.
+
+His father then explained that information was divided into small pieces called data packets before being sent across networks. These packets travelled through different routes and were put back together when they reached their destination. This allowed computers to exchange information quickly and efficiently.
+
+Adnan asked how a computer found the correct website. His father introduced him to the Domain Name System, or DNS. He explained that DNS worked like an address book. It helped computers find the correct internet address when someone typed a website name into a browser.
+
+Next, Adnan learned about web browsers. A browser was a computer program that allowed people to visit websites. When someone opened a webpage, the browser requested information from a computer called a server. The server sent the required information back, and the browser displayed the webpage on the screen.
+
+His father also reminded him that the internet needed to be used carefully. People should never share passwords, home addresses, or other private information with strangers. They should also check whether information found online was reliable.
+
+Adnan was amazed to discover how many technologies worked together to make the internet possible. He realised that the internet was not a magical place but a remarkable human invention built through science, engineering, and cooperation.
+
+Before going to bed, Adnan decided to learn more about computer networks and how people developed the technologies that connected the world."
+P053,53,The Mystery of Human Sleep,Science,4 min,Grade 3,assets/images/reading_passage/mystery_human_sleep.png,"A boy named Sami was curious about why people needed to sleep every night. He noticed that his parents went to bed at a particular time and woke up early in the morning. He wondered why the human body could not remain active throughout the day and night.
+
+One evening, Sami asked his grandfather about sleep. His grandfather explained that sleep was a natural process that allowed the brain and body to rest, recover, and prepare for another day. Although people appeared inactive while sleeping, many important activities continued inside their bodies.
+
+Sami learned that the brain remained active during sleep. It organised information, strengthened memories, and helped people learn new things. This was one reason why children needed enough sleep to support their learning and development.
+
+His grandfather explained that sleep happened in different stages. During some stages, the body relaxed deeply and repaired tissues. During another stage, called Rapid Eye Movement or REM sleep, the eyes moved quickly beneath the closed eyelids, and people often experienced vivid dreams.
+
+Sami was surprised to learn that people sometimes dreamed about flying, exploring strange places, or meeting unusual characters. Scientists believed that dreaming was connected to brain activity during sleep, although they were still studying exactly why people dreamed.
+
+Next, his grandfather explained the importance of a biological clock. This natural system helped control when people felt sleepy and when they felt awake. A special hormone called melatonin helped prepare the body for sleep when it became dark.
+
+Sami also learned that using electronic devices late at night, drinking caffeinated drinks, and following irregular sleeping times could make it difficult to fall asleep. A quiet bedroom, a regular bedtime, and avoiding screens before bed could help improve sleep.
+
+Before going to bed, Sami decided to follow a regular sleeping schedule. He realised that sleep was not simply a break from daily activities. It was an essential part of staying healthy, remembering information, and keeping the brain working properly."
+P054,54,How Do Satellites Help Us,Science & Technology,4 min,Grade 3,assets/images/reading_passage/how_satellites_help_us.png,"One evening, a girl named Tania was watching the weather forecast on television. The presenter showed a picture of a large storm moving towards the coast. Tania wondered how scientists could see clouds and storms from such a great distance.
+
+Her father explained that satellites helped people observe the Earth from space. A satellite was an object that moved around a planet or another object in space. Some satellites were natural, such as the Moon, while others were built by humans and launched into space using rockets.
+
+Tania learned that artificial satellites travelled along paths called orbits. Some moved around the Earth at a low altitude, while others travelled much farther away. Scientists designed different satellites to perform different jobs.
+
+Weather satellites collected information about clouds, rainfall, storms, and temperature. Meteorologists used this information to study weather conditions and prepare forecasts. These satellites could help people receive warnings before dangerous storms arrived.
+
+Her father then explained how communication satellites worked. They helped transmit television programmes, telephone signals, and internet data across long distances. This made it easier for people in different countries to communicate with one another.
+
+Tania was also interested in navigation satellites. Her father explained that a system called GPS used signals from several satellites to help people determine their location on Earth. Drivers, pilots, ships, and travellers used GPS to find directions.
+
+Another important type was the Earth observation satellite. It took pictures of forests, oceans, mountains, and farmland. Scientists used these pictures to study environmental changes, monitor floods, and observe the effects of climate change.
+
+Tania asked whether satellites needed people to control them from inside. Her father laughed and explained that most artificial satellites were unmanned machines. They carried computers, cameras, sensors, and communication equipment. Scientists and engineers on Earth monitored their activities.
+
+Before going to bed, Tania looked at the night sky and tried to imagine the thousands of artificial satellites travelling above her. She realised that these machines played an important role in modern life, even though most people could never see them with their own eyes."
+P055,55,How Is Electricity Made,Science & Technology,4 min,Grade 3,assets/images/reading_passage/how_electricity_is_made.png,"A boy named Farhan was studying at his desk when the electricity suddenly went off. His room became dark, and the electric fan stopped spinning. He wondered where electricity came from and how it reached his house.
+
+The next morning, he asked his science teacher about it. The teacher explained that electricity was a form of energy that powered lights, fans, refrigerators, computers, and many other machines. Most of the electricity used in homes was produced at power stations.
+
+Farhan learned that power stations used different sources of energy to generate electricity. Some power stations burned natural gas or coal to produce heat. The heat was used to make steam, which turned large turbines. The turbines were connected to machines called generators that produced electricity.
+
+His teacher also introduced him to renewable energy. Solar panels used sunlight to generate electricity. Wind turbines used moving air, while hydroelectric power stations used flowing water. These sources could be naturally replaced and generally produced less pollution during operation than fossil fuel power stations.
+
+Next, Farhan wanted to know how electricity travelled from a power station to his home. His teacher explained that electricity moved through a network of power lines. Transformers changed the voltage to suitable levels for transmission and distribution. Smaller transformers helped make electricity safe for use in homes and buildings.
+
+Farhan was surprised to learn that electricity could travel over long distances through wires. He also discovered that batteries could store chemical energy and convert it into electrical energy when needed.
+
+Before leaving the classroom, the teacher reminded everyone to follow electrical safety rules. Children should never touch damaged wires, insert objects into electrical sockets, or play near electrical equipment.
+
+That evening, Farhan switched off the lights when he left his room. He understood that producing electricity required energy, machines, and careful planning. He decided to use electricity wisely and avoid wasting it."
+P056,56,The Amazing World of Dinosaurs,Science,4 min,Grade 3,assets/images/reading_passage/amazing_world_dinosaurs.png,"Millions of years ago, long before humans appeared on Earth, enormous and unusual animals lived across the planet. These animals were called dinosaurs. They lived during a period of Earth's history known as the Mesozoic Era, which lasted for more than 180 million years.
+
+A boy named Arif became interested in dinosaurs after visiting a natural history museum with his parents. He saw enormous skeletons, fossilised teeth, and footprints preserved in rock. He could hardly believe that such creatures had once walked on the same planet where people lived today.
+
+His father explained that dinosaurs came in many shapes and sizes. Some were enormous plant-eaters, while others were meat-eaters. The Brachiosaurus had a very long neck that helped it reach leaves high in trees. The Triceratops had three horns on its head and a large bony shield around its neck.
+
+Arif was especially interested in Tyrannosaurus rex, commonly known as T. rex. It had a massive head, powerful jaws, sharp teeth, and two surprisingly small arms. Scientists believed that it was a powerful predator that hunted other animals.
+
+Next, Arif learned about fossils. Fossils were the preserved remains or traces of ancient living things. Scientists called palaeontologists studied fossils to understand how prehistoric animals lived, what they ate, and how they moved. Dinosaur bones, teeth, eggs, and footprints could all provide useful information.
+
+His father also explained that dinosaurs did not all live at the same time. Different species appeared and disappeared throughout the Mesozoic Era. Around 66 million years ago, a huge asteroid struck Earth near the present-day Yucatan Peninsula in Mexico. The impact caused major environmental changes, and all non-bird dinosaurs eventually became extinct.
+
+However, Arif discovered something surprising. Modern birds were actually descendants of a group of small, feathered dinosaurs. This meant that dinosaurs had not completely disappeared from our world.
+
+On the way home, Arif decided that he wanted to become a palaeontologist. He understood that every fossil was like a message from the distant past, helping scientists discover the history of life on Earth."
+P057,57,The Science Behind a Rainbow,Science,4 min,Grade 3,assets/images/reading_passage/science_behind_rainbow.png,"One afternoon, a girl named Riya was looking through her bedroom window when she noticed a beautiful rainbow stretching across the sky. It had several bright colours, and she wondered how something so colourful could appear after rain.
+
+Her grandfather explained that a rainbow was a natural optical phenomenon. It appeared when sunlight interacted with tiny water droplets in the atmosphere. Although sunlight looked white, it was actually made up of many different colours.
+
+Riya wanted to understand how white sunlight could produce so many colours. Her grandfather brought out a glass prism. He placed it near a sunny window and allowed a narrow beam of sunlight to pass through it. To Riya's surprise, a colourful band appeared on the opposite wall.
+
+Her grandfather explained that this process was called dispersion. When sunlight entered the prism, it bent and separated into different colours because each colour travelled through the glass differently.
+
+He then explained how a rainbow formed in the sky. When sunlight entered a raindrop, it bent and separated into different colours. The light reflected from the inside of the droplet before bending again as it came out. Millions of tiny droplets worked together to create the colourful arc that people saw in the sky.
+
+Riya learned that a rainbow usually appeared when the Sun was behind the observer and rain was falling in front of them. This was why rainbows were often visible after a shower when sunlight returned.
+
+Her grandfather also explained that a traditional rainbow had seven commonly named colours: red, orange, yellow, green, blue, indigo, and violet. However, these colours blended smoothly into one another without clear boundaries.
+
+Riya was fascinated by the experiment. She realised that beautiful natural sights could be explained through science. She decided to keep a prism near her study table and explore how light behaved.
+
+Before going to sleep, she wrote in her notebook, Sometimes  the most beautiful things in nature are also wonderful science experiments."
+P058,58,How Do Computers Think?,Technology,4 min,Grade 3,assets/images/reading_passage/how_computers_think.png,"A boy named Nabil loved playing educational games on his computer. He was amazed that the machine could solve mathematical problems, remember information, and follow instructions. One day, he asked his computer teacher whether computers could really think like humans. His teacher explained that computers did not think or understand things in the same way people did. Instead, they followed instructions written by programmers. These instructions were called programs. Nabil learned that every computer had a special part called the Central Processing Unit, or CPU. It was often described as the brain of the computer because it carried out instructions and performed calculations. However, unlike a human brain, the CPU followed specific rules given to it. The teacher then explained that computers used a number system called binary. It had only two digits: zero and one. Every photograph, video, sound, and document stored on a computer was represented using combinations of these digits. Next, Nabil learned about computer memory. Random Access Memory, or RAM, temporarily stored information that the computer was currently using. Storage devices, such as solid-state drives and hard disks, kept files and programs even when the computer was switched off. The teacher demonstrated a simple computer program. When she entered two numbers and instructed the computer to add them, it quickly displayed the correct answer. Nabil realised that the machine was following instructions rather than making its own decisions. His teacher also introduced him to artificial intelligence, or AI. Some computer programs could recognise pictures, understand spoken words, and answer questions. These systems learned patterns from large amounts of information, but they could still make mistakes. Before the lesson ended, Nabil decided to create his own simple computer program. He understood that computers were powerful tools, but people needed to give them clear instructions and use them responsibly."
+P059,59,The Mystery of the Northern Lights,Science,4 min,Grade 3,assets/images/reading_passage/mystery_northern_lights.png,"One winter evening, a girl named Maya sat beside her grandfather and looked at photographs of the Arctic. One picture showed the night sky glowing with beautiful waves of green, purple, and pink light. Maya had never seen anything like it. Her grandfather explained that this natural light display was called the aurora borealis, or the Northern Lights. The Northern Lights could often be seen in countries close to the Arctic, such as Norway, Sweden, Finland, Canada, and Iceland. They appeared in different shapes and colours, sometimes looking like glowing curtains dancing across the sky. Maya wanted to know how these lights were formed. Her grandfather explained that the Sun constantly released tiny charged particles into space. This flow of particles was called the solar wind. When some of these particles travelled towards Earth, they were guided by our planet's magnetic field towards the regions near the North and South Poles. Earth also had a protective layer of gases surrounding it, called the atmosphere. High above the ground, the incoming particles collided with atoms and molecules of gases in the atmosphere. These collisions transferred energy to the gases, causing them to produce colourful light. Different gases created different colours. Oxygen often produced green or red light, while nitrogen could produce blue or purple shades. Maya was surprised to learn that the same kind of light display could also appear near the South Pole. It was called the aurora australis, or the Southern Lights. Her grandfather showed her another photograph of the Southern Lights shining over Antarctica. He also explained that scientists studied auroras to learn more about the Sun, Earth's magnetic field, and the space environment around our planet. Maya realised that the colourful lights were not magic. They were the result of amazing natural events happening high above Earth. Before going to bed, she decided that one day she would travel to the Arctic and watch the Northern Lights with her own eyes."
+P060,60,How Do Plants Make Their Own Food?,Science,4 min,Grade 3,assets/images/reading_passage/how_plants_make_food.png,"A boy named Rafi was helping his mother water the plants in their garden. He noticed that the plants grew well even though nobody gave them rice, bread, or other food. He wondered how plants got the energy they needed to grow. His mother explained that green plants could make their own food through a process called photosynthesis. Photosynthesis was one of the most important processes in nature because it helped plants grow and released oxygen into the air. Rafi wanted to understand how it worked. His mother showed him the green leaves of a small plant. She explained that leaves contained a green substance called chlorophyll. Chlorophyll helped plants capture energy from sunlight. Plants also absorbed water from the soil through their roots. The water travelled through tiny tubes inside the plant and reached the leaves. At the same time, leaves took in a gas called carbon dioxide from the air through very small openings. Using energy from sunlight, the plant combined water and carbon dioxide to make a type of sugar called glucose. This sugar provided energy and helped the plant grow. During this process, plants also released oxygen into the air. Rafi was surprised to learn that the oxygen he breathed was partly produced by green plants. His mother explained that plants were important not only because they provided food for people and animals but also because they helped maintain the balance of gases in the atmosphere. Rafi looked at the garden differently. He understood that every green leaf was like a tiny food-making factory. He decided to take better care of the plants and never damage them unnecessarily. From that day onward, whenever he saw a tree or a small plant, he remembered the amazing process happening inside its leaves."
