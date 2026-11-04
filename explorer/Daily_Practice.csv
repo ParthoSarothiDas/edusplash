@@ -1,0 +1,851 @@
+﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId,Subscription
+1,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|am|happy|.,rearrange,happy|am|.|I,,Free
+2,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|am|sad|.,rearrange,.|sad|I|am,,Free
+3,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|am|tall|.,rearrange,am|.|tall|I,,Free
+4,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|am|six|.,rearrange,am|six|I|.,,Free
+5,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|can|run|.,rearrange,can|run|.|I,,Free
+6,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|can|jump|.,rearrange,can|.|jump|I,,Free
+7,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|can|swim|.,rearrange,swim|can|I|.,,Free
+8,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|can|read|.,rearrange,can|.|I|read,,Free
+9,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|like|milk|.,rearrange,I|milk|like|.,,Free
+10,1,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|like|rice|.,rearrange,rice|.|I|like,,Free
+11,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|like|apples|.,rearrange,apples|like|.|I,,Free
+12,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|like|cats|.,rearrange,.|cats|like|I,,Free
+13,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|have|a|pen|.,rearrange,pen|have|I|a|.,,Free
+14,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|have|a|bag|.,rearrange,a|bag|have|I|.,,Free
+15,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|have|a|book|.,rearrange,I|have|book|a|.,,Free
+16,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|have|a|ball|.,rearrange,ball|I|a|have|.,,Free
+17,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,This|is|a|cat|.,rearrange,a|.|cat|is|This,,Free
+18,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,This|is|a|dog|.,rearrange,dog|a|.|This|is,,Free
+19,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,This|is|a|hat|.,rearrange,.|is|This|a|hat,,Free
+20,2,Build the Sentence,Arrange the words to make a   sentence.,,,,,This|is|a|car|.,rearrange,This|car|.|is|a,,Free
+21,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,It|is|a|sun|.,rearrange,sun|.|a|is|It,,Free
+22,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,It|is|big|.,rearrange,It|big|.|is,,Free
+23,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,It|is|red|.,rearrange,is|It|.|red,,Free
+24,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,It|is|hot|.,rearrange,is|.|It|hot,,Free
+25,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|sun|is|hot|.,rearrange,.|hot|sun|is|The,,Free
+26,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|sky|is|blue|.,rearrange,.|blue|is|sky|The,,Free
+27,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|cat|is|small|.,rearrange,The|is|.|small|cat,,Free
+28,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|dog|is|big|.,rearrange,.|big|The|is|dog,,Free
+29,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|ball|is|round|.,rearrange,The|ball|round|is|.,,Free
+30,3,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|flower|is|pretty|.,rearrange,is|The|flower|pretty|.,,Free
+31,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|see|a|bird|.,rearrange,.|a|I|bird|see,,Free
+32,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|see|a|fish|.,rearrange,fish|.|a|see|I,,Free
+33,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|see|a|tree|.,rearrange,.|a|see|I|tree,,Free
+34,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|see|a|car|.,rearrange,see|car|a|I|.,,Free
+35,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|is|my|friend|.,rearrange,He|is|friend|my|.,,Free
+36,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|is|my|friend|.,rearrange,friend|.|is|my|She,,Free
+37,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|has|a|dog|.,rearrange,.|has|a|He|dog,,Free
+38,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|has|a|cat|.,rearrange,cat|She|a|has|.,,Free
+39,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|are|friends|.,rearrange,are|We|.|friends,,Free
+40,4,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|are|happy|.,rearrange,happy|We|.|are,,Free
+41,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,They|are|happy|.,rearrange,.|are|happy|They,,Free
+42,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,They|are|friends|.,rearrange,are|friends|They|.,,Free
+43,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|name|is|Rita|.,rearrange,name|Rita|My|.|is,,Free
+44,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|name|is|Tom|.,rearrange,is|.|Tom|My|name,,Free
+45,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|bag|is|blue|.,rearrange,is|blue|.|bag|My,,Free
+46,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|book|is|new|.,rearrange,My|is|new|book|.,,Free
+47,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|boy|can|run|.,rearrange,The|run|can|.|boy,,Free
+48,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|girl|can|jump|.,rearrange,The|.|girl|can|jump,,Free
+49,5,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|bird|can|fly|.,rearrange,fly|can|.|bird|The,,Free
+50,5,Build the Sentence,Arrange the   words to make a sentence.,,,,,The|fish|can|swim|.,rearrange,can|.|swim|fish|The,,Free
+51,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|baby|is|sleeping|.,rearrange,.|The|baby|is|sleeping,,Free
+52,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|baby|is|small|.,rearrange,baby|The|small|.|is,,Free
+53,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|boy|is|happy|.,rearrange,.|boy|is|happy|The,,Free
+54,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|girl|is|kind|.,rearrange,girl|.|is|The|kind,,Free
+55,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|play|with|a|ball|.,rearrange,.|We|with|a|play|ball,,Free
+56,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|play|with|my|dog|.,rearrange,my|.|I|with|play|dog,,Free
+57,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|cat|likes|milk|.,rearrange,likes|milk|.|cat|The,,Free
+58,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|dog|likes|meat|.,rearrange,meat|likes|The|dog|.,,Free
+59,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,Birds|can|fly|high|.,rearrange,fly|Birds|high|can|.,,Free
+60,6,Build the Sentence,Arrange the words to make a   sentence.,,,,,Fish|can|swim|fast|.,rearrange,.|Fish|can|fast|swim,,Free
+61,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|eat|an|apple|.,rearrange,apple|.|I|an|eat,,Free
+62,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|drink|some|water|.,rearrange,some|drink|I|.|water,,Free
+63,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|see|the|moon|.,rearrange,the|I|see|moon|.,,Free
+64,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|love|my|family|.,rearrange,I|.|love|family|my,,Free
+65,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|help|my|mother|.,rearrange,mother|my|help|.|I,,Free
+66,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|wash|my|hands|.,rearrange,wash|.|my|hands|I,,Free
+67,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|brush|my|teeth|.,rearrange,.|brush|I|teeth|my,,Free
+68,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,I|wear|my|shoes|.,rearrange,shoes|I|wear|my|.,,Free
+69,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|go|to|school|.,rearrange,school|go|to|We|.,,Free
+70,7,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|play|at|school|.,rearrange,school|.|We|play|at,,Free
+71,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|read|a|book|.,rearrange,book|.|read|We|a,,Free
+72,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|eat|our|lunch|.,rearrange,We|our|.|eat|lunch,,Free
+73,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,We|love|our|teacher|.,rearrange,teacher|.|our|We|love,,Free
+74,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|likes|to|run|.,rearrange,likes|run|to|He|.,,Free
+75,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|likes|to|play|.,rearrange,play|He|likes|to|.,,Free
+76,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|has|a|red|ball|.,rearrange,He|red|a|ball|has|.,,Free
+77,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,He|has|a|blue|cap|.,rearrange,a|has|He|cap|blue|.,,Free
+78,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|likes|to|sing|.,rearrange,to|sing|likes|She|.,,Free
+79,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|likes|to|dance|.,rearrange,She|to|likes|dance|.,,Free
+80,8,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|has|a|pink|dress|.,rearrange,a|.|dress|She|has|pink,,Free
+81,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,She|has|a|small|bag|.,rearrange,bag|.|a|has|small|She,,Free
+82,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|dog|runs|fast|.,rearrange,runs|fast|.|dog|The,,Free
+83,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|cat|drinks|milk|.,rearrange,drinks|milk|cat|.|The,,Free
+84,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|bird|eats|seeds|.,rearrange,.|bird|eats|seeds|The,,Free
+85,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|cow|eats|grass|.,rearrange,grass|cow|.|The|eats,,Free
+86,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|rabbit|eats|a|carrot|.,rearrange,The|a|eats|carrot|.|rabbit,,Free
+87,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|monkey|likes|bananas|.,rearrange,.|The|monkey|likes|bananas,,Free
+88,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|lion|is|strong|.,rearrange,is|.|The|lion|strong,,Free
+89,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|elephant|is|big|.,rearrange,elephant|The|is|big|.,,Free
+90,9,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|turtle|is|slow|.,rearrange,.|The|slow|turtle|is,,Free
+91,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|frog|can|jump|.,rearrange,jump|.|The|can|frog,,Free
+92,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|horse|can|run|.,rearrange,The|.|run|can|horse,,Free
+93,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|duck|can|swim|.,rearrange,The|swim|duck|.|can,,Free
+94,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|bird|sits|on|a|tree|.,rearrange,tree|sits|bird|The|a|on|.,,Free
+95,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|cat|sits|on|the|mat|.,rearrange,on|the|mat|cat|.|The|sits,,Free
+96,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|ball|is|under|the|chair|.,rearrange,The|under|the|is|chair|ball|.,,Free
+97,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,The|book|is|on|the|desk|.,rearrange,desk|the|.|book|The|on|is,,Free
+98,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|mother|cooks|good|food|.,rearrange,My|.|mother|cooks|good|food,,Free
+99,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|father|reads|a|book|.,rearrange,a|.|father|My|reads|book,,Free
+100,10,Build the Sentence,Arrange the words to make a   sentence.,,,,,My|sister|plays|with|me|.,rearrange,sister|.|me|plays|My|with,,Free
+101,11,Prepositions of Time,I wake up _____ 7 o'clock.,in,on,at,by,at,MCQ,,,
+102,11,Prepositions of Time,My birthday is _____ January.,in,on,at,by,in,MCQ,,,
+103,11,Prepositions of Time,We go to school _____ Sunday.,in,on,at,by,on,MCQ,,,
+104,11,Prepositions of Time,I study _____ the evening.,in,on,at,by,in,MCQ,,,
+105,11,Prepositions of Time,My father was born _____ 1980.,in,on,at,by,in,MCQ,,,
+106,11,Prepositions of Time,I sleep _____ night.,in,on,at,by,at,MCQ,,,
+107,11,Prepositions of Time,Our examination starts _____ 15 December.,in,on,at,by,on,MCQ,,,
+108,11,Prepositions of Time,We have lunch _____ noon.,in,on,at,by,at,MCQ,,,
+109,11,Prepositions of Time,I play football _____ Friday.,in,on,at,by,on,MCQ,,,
+110,11,Prepositions of Time,It is very cold _____ winter.,in,on,at,by,in,MCQ,,,
+111,12,Prepositions of Time,The train arrives _____ 6:30 p.m.,in,on,at,by,at,MCQ,,,
+112,12,Prepositions of Time,I will visit my uncle _____ Monday morning.,in,on,at,by,on,MCQ,,,
+113,12,Prepositions of Time,Flowers bloom _____ spring.,in,on,at,by,in,MCQ,,,
+114,12,Prepositions of Time,Stars shine _____ night.,in,on,at,by,at,MCQ,,,
+115,12,Prepositions of Time,Bangladesh became independent _____ 1971.,in,on,at,by,in,MCQ,,,
+116,12,Prepositions of Time,We celebrate Victory Day _____ 16 December.,in,on,at,by,on,MCQ,,,
+117,12,Prepositions of Time,Birds sing _____ dawn.,in,on,at,by,at,MCQ,,,
+118,12,Prepositions of Time,I brush my teeth _____ every morning.,in,on,at,no preposition,no preposition,MCQ,,,
+119,12,Prepositions of Time,We will go to the zoo _____ next Sunday.,in,on,at,no preposition,no preposition,MCQ,,,
+120,12,Prepositions of Time,My grandmother visits us _____ Sunday evening.,in,on,at,by,on,MCQ,,,
+121,13,Prepositions of Time,The school bell rings _____ 10 o'clock.,in,on,at,by,at,MCQ,,,
+122,13,Prepositions of Time,My mother was born _____ June.,at,in,on,by,in,MCQ,,,
+123,13,Prepositions of Time,We celebrate Language Martyrs' Day _____ 21 February.,in,at,on,by,on,MCQ,,,
+124,13,Prepositions of Time,The children play _____ the afternoon.,at,on,in,by,in,MCQ,,,
+125,13,Prepositions of Time,The stars appear _____ night.,in,on,at,by,at,MCQ,,,
+126,13,Prepositions of Time,My birthday falls _____ Wednesday this year.,at,in,on,by,on,MCQ,,,
+127,13,Prepositions of Time,We usually go swimming _____ summer.,on,at,in,by,in,MCQ,,,
+128,13,Prepositions of Time,The train leaves _____ 5:45 p.m.,in,on,at,by,at,MCQ,,,
+129,13,Prepositions of Time,My father reads the newspaper _____ the morning.,on,at,in,by,in,MCQ,,,
+130,13,Prepositions of Time,Our school reopens _____ January.,at,on,in,by,in,MCQ,,,
+131,14,Prepositions of Time,We will meet _____ Friday evening.,in,at,on,by,on,MCQ,,,
+132,14,Prepositions of Time,The baby woke up _____ midnight.,in,on,at,by,at,MCQ,,,
+133,14,Prepositions of Time,The sun sets _____ the evening.,at,on,in,by,in,MCQ,,,
+134,14,Prepositions of Time,My grandfather was born _____ 1950.,on,at,in,by,in,MCQ,,,
+135,14,Prepositions of Time,We have our English class _____ Tuesday.,in,at,on,by,on,MCQ,,,
+136,14,Prepositions of Time,The birds start singing _____ sunrise.,in,on,at,by,at,MCQ,,,
+137,14,Prepositions of Time,The picnic will take place _____ 12 March.,at,in,on,by,on,MCQ,,,
+138,14,Prepositions of Time,I do my homework _____ the evening.,on,at,in,by,in,MCQ,,,
+139,14,Prepositions of Time,We visit our relatives _____ Eid day.,in,at,on,by,on,MCQ,,,
+140,14,Prepositions of Time,The children go to bed _____ 9:30 p.m.,in,on,at,by,at,MCQ,,,
+141,15,Prepositions of Time,The meeting has been scheduled ___ 15 November.,in,on,at,by,on,MCQ,,,
+142,15,Prepositions of Time,We usually visit our grandparents ___ the weekend.,in,on,at,by,at,MCQ,,,
+143,15,Prepositions of Time,The train is expected to arrive ___ noon.,in,on,at,by,at,MCQ,,,
+144,15,Prepositions of Time,My father has worked here ___ 2018.,since,for,from,by,since,MCQ,,,
+145,15,Prepositions of Time,She has been studying ___ three hours.,since,from,for,at,for,MCQ,,,
+146,15,Prepositions of Time,The shop remains closed ___ Fridays.,in,on,at,by,on,MCQ,,,
+147,15,Prepositions of Time,We reached the station just ___ time to catch the train.,on,in,at,by,in,MCQ,,,
+148,15,Prepositions of Time,The guests arrived exactly ___ time for dinner.,in,on,at,by,on,MCQ,,,
+149,15,Prepositions of Time,The library is open ___ 9 a.m. to 5 p.m.,between,from,until,by,from,MCQ,,,
+150,15,Prepositions of Time,Please finish your assignment ___ Monday.,until,by,for,since,by,MCQ,,,
+151,16,Prepositions of Time,The children played outside ___ sunset.,until,at,on,in,until,MCQ,,,
+152,16,Prepositions of Time,The school will remain closed ___ the summer holidays.,at,on,during,in,during,MCQ,,,
+153,16,Prepositions of Time,We have not seen him ___ last December.,for,since,during,from,since,MCQ,,,
+154,16,Prepositions of Time,The examination will begin ___ half past nine.,in,on,at,by,at,MCQ,,,
+155,16,Prepositions of Time,She prefers reading ___ the early hours of the morning.,in,on,at,by,in,MCQ,,,
+156,16,Prepositions of Time,The museum is usually crowded ___ public holidays.,in,on,at,by,on,MCQ,,,
+157,16,Prepositions of Time,He worked on the project ___ the whole night.,since,for,throughout,at,throughout,MCQ,,,
+158,16,Prepositions of Time,The deadline is ___ the end of this month.,in,on,at,by,at,MCQ,,,
+159,16,Prepositions of Time,We will discuss the results ___ the next meeting.,in,on,at,by,at,MCQ,,,
+160,16,Prepositions of Time,She has been waiting for the bus ___ 7:30 a.m.,for,since,from,until,since,MCQ,,,
+161,17,Prepositions of Time,The doctor has been working here ___ 2015.,for,since,from,during,since,MCQ,,,
+162,17,Prepositions of Time,The students must submit their projects ___ Friday afternoon.,by,until,for,since,by,MCQ,,,
+163,17,Prepositions of Time,The children stayed indoors ___ the heavy rain.,during,while,until,for,during,MCQ,,,
+164,17,Prepositions of Time,We waited ___ the bus arrived.,by,until,since,for,until,MCQ,,,
+165,17,Prepositions of Time,My brother was born ___ the first day of January.,in,on,at,by,on,MCQ,,,
+166,17,Prepositions of Time,The shop closes ___ sunset during Ramadan.,in,on,at,by,at,MCQ,,,
+167,17,Prepositions of Time,She has been learning French ___ six months.,since,for,from,by,for,MCQ,,,
+168,17,Prepositions of Time,The flight will depart ___ exactly 11:45 p.m.,in,on,at,by,at,MCQ,,,
+169,17,Prepositions of Time,We usually have a family gathering ___ New Year's Eve.,in,on,at,by,on,MCQ,,,
+170,17,Prepositions of Time,The children have been playing football ___ the afternoon.,since,for,from,by,since,MCQ,,,
+171,18,Prepositions of Time,The road was repaired ___ the night.,during,while,for,since,during,MCQ,,,
+172,18,Prepositions of Time,Please remain seated ___ the end of the performance.,by,until,for,since,until,MCQ,,,
+173,18,Prepositions of Time,The train usually arrives ___ schedule.,in,on,at,by,on,MCQ,,,
+174,18,Prepositions of Time,He completed the examination just ___ the deadline.,in,on,at,before,before,MCQ,,,
+175,18,Prepositions of Time,Our school organises a sports competition ___ the beginning of each year.,in,on,at,by,at,MCQ,,,
+176,18,Prepositions of Time,She has not visited her hometown ___ 2022.,for,since,during,from,since,MCQ,,,
+177,18,Prepositions of Time,The children were excited ___ Christmas morning.,in,on,at,by,on,MCQ,,,
+178,18,Prepositions of Time,The teacher asked us to finish the task ___ two hours.,within,for,since,until,within,MCQ,,,
+179,18,Prepositions of Time,We have a short break ___ the middle of the lesson.,in,on,at,by,in,MCQ,,,
+180,18,Prepositions of Time,The festival will continue ___ 10 December to 15 December.,between,from,until,by,from,MCQ,,,
+181,19,Prepositions of Time,"By the time we reached the station, the train had already left ___ ten minutes.",since,for,by,during,for,MCQ,,,
+182,19,Prepositions of Time,All applications must be submitted ___ 5 p.m. on Monday.,until,by,for,since,by,MCQ,,,
+183,19,Prepositions of Time,The museum will remain open ___ the entire winter season.,throughout,between,until,at,throughout,MCQ,,,
+184,19,Prepositions of Time,The manager has been working on this project ___ last January.,for,since,during,from,since,MCQ,,,
+185,19,Prepositions of Time,The students must arrive at least ten minutes ___ the examination begins.,after,before,until,by,before,MCQ,,,
+186,19,Prepositions of Time,The new rules will come into effect ___ the beginning of next month.,on,in,at,by,at,MCQ,,,
+187,19,Prepositions of Time,The company remained closed ___ the public holidays.,throughout,between,at,by,throughout,MCQ,,,
+188,19,Prepositions of Time,We have been waiting for the announcement ___ early morning.,for,since,during,until,since,MCQ,,,
+189,19,Prepositions of Time,The report must be completed ___ the end of this week.,until,by,for,since,by,MCQ,,,
+190,19,Prepositions of Time,The meeting was postponed ___ further notice.,until,by,at,for,until,MCQ,,,
+191,20,Prepositions of Time,The library is particularly quiet ___ the early hours of the morning.,on,in,at,by,in,MCQ,,,
+192,20,Prepositions of Time,The children watched the fireworks ___ midnight.,at,in,on,by,at,MCQ,,,
+193,20,Prepositions of Time,The contract must be signed no later ___ 30 November.,then,than,by,until,than,MCQ,,,
+194,20,Prepositions of Time,The company was established ___ the late 1990s.,at,on,in,by,in,MCQ,,,
+195,20,Prepositions of Time,The students worked continuously ___ the three-day workshop.,during,between,until,at,during,MCQ,,,
+196,20,Prepositions of Time,The train is scheduled to arrive ___ 6:00 and 6:15 p.m.,among,between,throughout,within,between,MCQ,,,
+197,20,Prepositions of Time,Please complete the online registration ___ 24 hours of receiving this email.,within,for,since,until,within,MCQ,,,
+198,20,Prepositions of Time,The office will reopen ___ the Eid holidays.,after,during,throughout,until,after,MCQ,,,
+199,20,Prepositions of Time,The guests had left ___ we returned home.,by the time,until,during,for,by the time,MCQ,,,
+200,20,Prepositions of Time,The teacher asked everyone to remain silent ___ the announcement.,while,during,for,since,during,MCQ,,,
+201,21,Prepositions of Time,The invitation must reach us ___ 20 December at the latest.,until,by,for,since,by,MCQ,,,
+202,21,Prepositions of Time,The workers continued repairing the road ___ the night.,throughout,between,at,by,throughout,MCQ,,,
+203,21,Prepositions of Time,The new principal will take charge ___ the start of the next academic year.,in,on,at,by,at,MCQ,,,
+204,21,Prepositions of Time,We have not received any updates ___ the beginning of the week.,for,since,during,from,since,MCQ,,,
+205,21,Prepositions of Time,The children must return home ___ dark.,by,until,for,since,by,MCQ,,,
+206,21,Prepositions of Time,The exhibition will remain open ___ 1 June and 15 June.,among,between,within,throughout,between,MCQ,,,
+207,21,Prepositions of Time,The patient should take the medicine ___ regular intervals.,in,on,at,by,at,MCQ,,,
+208,21,Prepositions of Time,The school has been closed ___ the last two weeks.,since,for,during,from,for,MCQ,,,
+209,21,Prepositions of Time,The final results will be published ___ the end of the month.,at,in,on,by,at,MCQ,,,
+210,21,Prepositions of Time,The teacher collected all the answer scripts ___ the examination.,before,while,during,until,during,MCQ,,,
+211,22,Prepositions of Time,The project must be completed ___ the agreed deadline.,until,by,for,since,by,MCQ,,,
+212,22,Prepositions of Time,The family usually gathers together ___ the turn of the year.,at,on,in,by,at,MCQ,,,
+213,22,Prepositions of Time,The shop offers special discounts ___ the festive season.,during,between,at,by,during,MCQ,,,
+214,22,Prepositions of Time,She has been preparing for the competition ___ September.,for,since,during,until,since,MCQ,,,
+215,22,Prepositions of Time,The train journey lasted ___ dawn until dusk.,between,from,by,within,from,MCQ,,,
+216,22,Prepositions of Time,Please arrive ___ time to attend the briefing before the meeting.,on,in,at,by,in,MCQ,,,
+217,22,Prepositions of Time,The company expects to finish the construction ___ six months.,within,for,since,until,within,MCQ,,,
+218,22,Prepositions of Time,The lights must be switched off ___ midnight.,by,until,for,since,by,MCQ,,,
+219,22,Prepositions of Time,The conference is scheduled to take place ___ the second week of March.,at,on,in,by,in,MCQ,,,
+220,22,Prepositions of Time,The children remained in the classroom ___ the storm had passed.,by,until,during,for,until,MCQ,,,
+221,23,Prepositions of Time,The agreement will remain valid ___ 31 December unless it is renewed.,by,until,for,since,until,MCQ,,,
+222,23,Prepositions of Time,The committee reached its final decision ___ the course of the afternoon.,at,in,on,by,in,MCQ,,,
+223,23,Prepositions of Time,The new regulations will take effect ___ 1 January 2027.,at,on,in,by,on,MCQ,,,
+224,23,Prepositions of Time,The director expects the report to be ready ___ close of business today.,at,on,in,by,by,MCQ,,,
+225,23,Prepositions of Time,The factory has been operating continuously ___ the past twenty years.,since,for,during,from,for,MCQ,,,
+226,23,Prepositions of Time,The students were instructed to submit their assignments ___ the specified time limit.,within,until,for,since,within,MCQ,,,
+227,23,Prepositions of Time,The building was renovated ___ the period between 2019 and 2021.,during,throughout,until,by,during,MCQ,,,
+228,23,Prepositions of Time,The train had departed ___ the passengers reached the platform.,before,until,during,by,before,MCQ,,,
+229,23,Prepositions of Time,The company will announce its annual results ___ the end of the financial year.,in,on,at,by,at,MCQ,,,
+230,23,Prepositions of Time,The project has been delayed ___ several months because of technical problems.,since,for,during,from,for,MCQ,,,
+231,24,Prepositions of Time,The office will remain open ___ further instructions from the management.,by,until,for,since,until,MCQ,,,
+232,24,Prepositions of Time,The researcher collected data ___ a period of six months.,over,at,on,by,over,MCQ,,,
+233,24,Prepositions of Time,The application must be received ___ 5 p.m. on the final day.,until,by,for,since,by,MCQ,,,
+234,24,Prepositions of Time,The meeting was scheduled ___ short notice.,at,in,on,by,at,MCQ,,,
+235,24,Prepositions of Time,The employees are entitled to a break ___ every four hours of work.,at,in,after,on,after,MCQ,,,
+236,24,Prepositions of Time,The professor has been researching this subject ___ the early 2000s.,for,since,during,within,since,MCQ,,,
+237,24,Prepositions of Time,The ceremony will begin immediately ___ the arrival of the chief guest.,before,after,until,during,after,MCQ,,,
+238,24,Prepositions of Time,The documents should be submitted ___ advance of the interview.,in,on,at,by,in,MCQ,,,
+239,24,Prepositions of Time,The team completed the assignment ___ the last possible moment.,at,in,on,by,at,MCQ,,,
+240,24,Prepositions of Time,The maintenance work is scheduled to take place ___ the early hours of Sunday morning.,at,on,in,by,in,MCQ,,,
+241,25,Prepositions of Time,The contract will remain in force ___ such time as either party terminates it.,until,by,for,since,until,MCQ,,,
+242,25,Prepositions of Time,The research team conducted interviews ___ the course of several months.,in,at,on,by,in,MCQ,,,
+243,25,Prepositions of Time,The revised policy will come into effect ___ the first day of the coming financial year.,at,on,in,by,on,MCQ,,,
+244,25,Prepositions of Time,The application must be submitted ___ advance to avoid delays.,at,in,on,by,in,MCQ,,,
+245,25,Prepositions of Time,The negotiations continued ___ the early hours of the morning.,into,by,at,until,into,MCQ,,,
+246,25,Prepositions of Time,The company has been facing financial difficulties ___ the beginning of the previous financial year.,for,since,during,within,since,MCQ,,,
+247,25,Prepositions of Time,The chairman requested that all members arrive ___ the appointed hour.,in,on,at,by,at,MCQ,,,
+248,25,Prepositions of Time,The new system is expected to be fully operational ___ the next six months.,within,for,since,until,within,MCQ,,,
+249,25,Prepositions of Time,The employees are entitled to annual leave ___ the end of each calendar year.,at,in,on,by,at,MCQ,,,
+250,25,Prepositions of Time,The two departments worked together ___ the transition period.,during,between,until,at,during,MCQ,,,
+251,26,Prepositions of Time,The company must settle all outstanding payments ___ the close of the financial year.,by,until,for,since,by,MCQ,,,
+252,26,Prepositions of Time,The witness was asked to describe what had happened ___ the time of the accident.,in,on,at,by,at,MCQ,,,
+253,26,Prepositions of Time,The office will be closed ___ the duration of the national holiday.,for,during,throughout,until,for,MCQ,,,
+254,26,Prepositions of Time,The project deadline was extended ___ an additional three weeks.,by,for,until,since,by,MCQ,,,
+255,26,Prepositions of Time,The company has been operating under the new management ___ April 2024.,for,since,during,from,since,MCQ,,,
+256,26,Prepositions of Time,"The guests arrived ___ the eleventh hour, just before the ceremony began.",at,in,on,by,at,MCQ,,,
+257,26,Prepositions of Time,The committee will review the proposal ___ due course.,in,on,at,by,in,MCQ,,,
+258,26,Prepositions of Time,The factory remained operational ___ the entire duration of the power outage.,throughout,between,until,at,throughout,MCQ,,,
+259,26,Prepositions of Time,The manager asked everyone to complete the task ___ the stipulated deadline.,before,until,during,for,before,MCQ,,,
+260,26,Prepositions of Time,The company has been preparing for the merger ___ several months.,since,for,within,from,for,MCQ,,,
+261,27,Prepositions of Time,The revised agreement will remain effective ___ further notice.,by,until,for,since,until,MCQ,,,
+262,27,Prepositions of Time,The board is expected to announce its decision ___ the next few days.,at,in,on,by,in,MCQ,,,
+263,27,Prepositions of Time,The negotiations continued ___ the night and concluded shortly after sunrise.,throughout,between,at,by,throughout,MCQ,,,
+264,27,Prepositions of Time,The report should be submitted ___ no circumstances later than 30 June.,under,in,at,on,under,MCQ,,,
+265,27,Prepositions of Time,The new policy will be reviewed ___ a regular basis.,in,on,at,by,on,MCQ,,,
+266,27,Prepositions of Time,The employees must complete the training ___ the first quarter of the year.,at,on,in,by,in,MCQ,,,
+267,27,Prepositions of Time,The company has been preparing for the acquisition ___ the past eighteen months.,since,for,during,within,for,MCQ,,,
+268,27,Prepositions of Time,The chairman requested that the meeting begin ___ the scheduled time.,in,on,at,by,at,MCQ,,,
+269,27,Prepositions of Time,The contract will automatically expire ___ the end of the current financial year.,at,in,on,by,at,MCQ,,,
+270,27,Prepositions of Time,The research findings were published ___ a period of three consecutive years.,over,at,on,by,over,MCQ,,,
+271,28,Prepositions of Time,The application must be received ___ close of business on the final working day.,by,until,for,since,by,MCQ,,,
+272,28,Prepositions of Time,The committee postponed its decision ___ the following week.,by,until,for,since,until,MCQ,,,
+273,28,Prepositions of Time,The manager will be available for consultation ___ normal office hours.,during,between,until,at,during,MCQ,,,
+274,28,Prepositions of Time,The company introduced several changes ___ the turn of the century.,at,on,in,by,at,MCQ,,,
+275,28,Prepositions of Time,The project was completed ___ schedule despite several unexpected difficulties.,in,on,at,by,on,MCQ,,,
+276,28,Prepositions of Time,The new employees are expected to report for duty ___ the first Monday of January.,in,on,at,by,on,MCQ,,,
+277,28,Prepositions of Time,The investigation remained open ___ several months before a conclusion was reached.,since,for,within,until,for,MCQ,,,
+278,28,Prepositions of Time,The committee must reach a decision ___ the time the annual meeting begins.,by,until,during,for,by,MCQ,,,
+279,28,Prepositions of Time,The factory operates around the clock ___ periods of high demand.,during,between,at,by,during,MCQ,,,
+280,28,Prepositions of Time,The announcement was made ___ the final minutes of the conference.,in,on,at,by,in,MCQ,,,
+281,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|brother|likes|to|play|football|.,rearrange,.|play|to|My|likes|football|brother,,Free
+282,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|sister|likes|to|draw|pictures|.,rearrange,draw|My|pictures|to|.|sister|likes,,Free
+283,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|like|to|play|with|friends|.,rearrange,I|with|.|friends|to|play|like,,Free
+284,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|like|to|read|my|books|.,rearrange,like|read|my|books|to|I|.,,Free
+285,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|like|to|play|in|the|park|.,rearrange,play|We|the|in|park|.|to|like,,Free
+286,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|like|to|walk|in|the|park|.,rearrange,like|.|park|the|We|to|walk|in,,Free
+287,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|boys|play|with|a|ball|.,rearrange,ball|with|play|boys|.|a|The,,Free
+288,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|girls|play|with|a|doll|.,rearrange,The|with|play|doll|girls|a|.,,Free
+289,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|baby|plays|with|a|toy|.,rearrange,.|baby|a|with|plays|The|toy,,Free
+290,29,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|boy|has|a|green|kite|.,rearrange,The|.|green|a|boy|has|kite,,Free
+291,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|girl|has|a|yellow|hat|.,rearrange,has|a|The|hat|.|girl|yellow,,Free
+292,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|have|a|small|red|bag|.,rearrange,small|I|.|red|have|bag|a,,Free
+293,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,She|has|a|beautiful|pink|dress|.,rearrange,.|pink|has|dress|a|She|beautiful,,Free
+294,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,He|has|a|big|blue|ball|.,rearrange,has|blue|He|a|big|ball|.,,Free
+295,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|little|boy|is|very|happy|.,rearrange,boy|little|is|.|The|very|happy,,Free
+296,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|little|girl|is|very|kind|.,rearrange,.|girl|The|kind|is|very|little,,Free
+297,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|new|shoes|are|very|nice|.,rearrange,shoes|My|very|.|are|nice|new,,Free
+298,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|new|bag|is|very|pretty|.,rearrange,very|is|bag|.|new|pretty|My,,Free
+299,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|red|apple|is|very|sweet|.,rearrange,apple|sweet|.|very|is|red|The,,Free
+300,30,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|yellow|banana|is|very|ripe|.,rearrange,banana|.|is|very|The|ripe|yellow,,Free
+301,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|eat|breakfast|in|the|morning|.,rearrange,.|in|I|morning|eat|the|breakfast,,Free
+302,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|drink|milk|every|morning|at|home|.,rearrange,I|drink|morning|home|at|.|every|milk,,Free
+303,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|eat|lunch|at|school|every|day|.,rearrange,at|We|.|eat|school|every|day|lunch,,Free
+304,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|wash|my|hands|before|I|eat|.,rearrange,wash|I|before|hands|.|I|my|eat,,Free
+305,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|brush|my|teeth|every|morning|.,rearrange,teeth|morning|brush|my|every|.|I,,Free
+306,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|brush|my|teeth|before|bed|.,rearrange,I|teeth|my|before|bed|.|brush,,Free
+307,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|go|to|school|in|the|morning|.,rearrange,go|morning|We|.|to|the|school|in,,Free
+308,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|come|home|in|the|afternoon|.,rearrange,in|the|come|home|afternoon|We|.,,Free
+309,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|sleep|at|night|in|my|bed|.,rearrange,.|in|night|at|I|bed|my|sleep,,Free
+310,31,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|sun|shines|in|the|sky|.,rearrange,The|sky|in|the|.|sun|shines,,Free
+311,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|moon|shines|at|night|.,rearrange,moon|The|at|.|shines|night,,Free
+312,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Stars|shine|in|the|night|sky|.,rearrange,shine|in|.|Stars|night|the|sky,,Free
+313,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Clouds|are|in|the|blue|sky|.,rearrange,blue|.|the|sky|are|in|Clouds,,Free
+314,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Rain|falls|from|the|dark|clouds|.,rearrange,falls|.|dark|Rain|clouds|the|from,,Free
+315,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|wind|is|very|strong|today|.,rearrange,The|wind|today|is|strong|.|very,,Free
+316,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|weather|is|nice|today|.,rearrange,is|weather|today|The|nice|.,,Free
+317,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|sky|looks|very|beautiful|today|.,rearrange,beautiful|very|The|looks|today|sky|.,,Free
+318,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|bird|is|sitting|on|the|tree|.,rearrange,bird|.|tree|the|on|sitting|The|is,,Free
+319,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|cat|is|sleeping|on|the|mat|.,rearrange,on|cat|mat|.|is|The|sleeping|the,,Free
+320,32,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|dog|is|sleeping|under|the|table|.,rearrange,The|table|under|is|the|sleeping|dog|.,,Free
+321,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|ball|is|under|the|chair|.,rearrange,.|The|is|under|the|ball|chair,,Free
+322,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|book|is|on|the|desk|.,rearrange,is|on|.|the|desk|The|book,,Free
+323,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|pencil|is|in|my|bag|.,rearrange,pencil|my|.|is|My|in|bag,,Free
+324,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|shoes|are|under|the|bed|.,rearrange,are|the|under|My|.|shoes|bed,,Free
+325,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|fish|is|in|the|water|.,rearrange,The|is|in|water|the|fish|.,,Free
+326,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|frog|is|near|the|pond|.,rearrange,The|near|pond|frog|the|.|is,,Free
+327,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|rabbit|is|behind|the|tree|.,rearrange,rabbit|The|the|is|.|tree|behind,,Free
+328,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|boy|is|running|in|the|park|.,rearrange,boy|running|park|the|.|in|is|The,,Free
+329,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|girl|is|reading|a|book|.,rearrange,book|reading|The|.|a|is|girl,,Free
+330,33,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|children|are|playing|in|the|park|.,rearrange,park|the|children|The|in|are|.|playing,,Free
+331,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|am|happy|.,rearrange,.|I|am|happy,,Free
+332,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|am|a|boy|.,rearrange,I|boy|a|.|am,,Free
+333,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|have|a|cat|.,rearrange,cat|.|have|I|a,,Free
+334,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,This|is|a|ball|.,rearrange,.|This|a|ball|is,,Free
+335,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,It|is|red|.,rearrange,.|It|is|red,,Free
+336,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|sun|is|hot|.,rearrange,The|hot|sun|is|.,,Free
+337,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|like|milk|.,rearrange,milk|I|like|.,,Free
+338,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|are|friends|.,rearrange,are|.|We|friends,,Free
+339,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,He|is|tall|.,rearrange,.|He|is|tall,,Free
+340,34,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,She|is|kind|.,rearrange,is|She|.|kind,,Free
+341,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|see|a|dog|.,rearrange,dog|see|.|I|a,,Free
+342,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|name|is|Rafi|.,rearrange,is|Rafi|.|name|My,,Free
+343,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,This|is|my|book|.,rearrange,my|.|This|is|book,,Free
+344,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|bird|can|fly|.,rearrange,can|The|.|bird|fly,,Free
+345,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|can|run|fast|.,rearrange,run|I|can|fast|.,,Free
+346,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|like|red|apples|.,rearrange,apples|red|like|.|I,,Free
+347,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|sky|is|blue|.,rearrange,blue|The|is|.|sky,,Free
+348,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,She|has|a|blue|bag|.,rearrange,bag|She|a|.|blue|has,,Free
+349,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,He|has|a|new|bike|.,rearrange,He|has|new|a|.|bike,,Free
+350,35,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|baby|is|sleeping|.,rearrange,sleeping|baby|is|The|.,,Free
+351,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|play|in|the|park|.,rearrange,We|in|play|.|park|the,,Free
+352,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|cat|is|under|the|table|.,rearrange,.|under|is|table|cat|The|the,,Free
+353,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|mother|is|a|teacher|.,rearrange,a|is|mother|teacher|My|.,,Free
+354,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|father|drives|a|car|.,rearrange,father|My|a|drives|car|.,,Free
+355,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|dog|likes|to|run|.,rearrange,likes|dog|The|run|to|.,,Free
+356,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|go|to|school|every|day|.,rearrange,to|go|school|every|day|I|.,,Free
+357,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,She|likes|to|read|books|.,rearrange,She|.|likes|books|read|to,,Free
+358,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|eat|rice|for|lunch|.,rearrange,.|We|lunch|for|rice|eat,,Free
+359,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Tom|has|two|little|dogs|.,rearrange,little|.|Tom|dogs|has|two,,Free
+360,36,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|flowers|are|very|beautiful|.,rearrange,flowers|beautiful|The|.|are|very,,Free
+361,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|brother|likes|to|read|.,rearrange,read|to|brother|.|likes|My,,Free
+362,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|children|are|playing|outside|.,rearrange,.|are|The|playing|children|outside,,Free
+363,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|little|girl|is|singing|.,rearrange,little|The|.|is|girl|singing,,Free
+364,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|best|friend|lives|nearby|.,rearrange,nearby|friend|best|My|lives|.,,Free
+365,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|went|to|the|zoo|yesterday|.,rearrange,.|the|We|to|yesterday|went|zoo,,Free
+366,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|saw|a|big|elephant|.,rearrange,saw|big|a|elephant|I|.,,Free
+367,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|boy|is|riding|a|bicycle|.,rearrange,boy|bicycle|.|a|is|The|riding,,Free
+368,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|sister|has|a|beautiful|dress|.,rearrange,sister|a|dress|.|has|My|beautiful,,Free
+369,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|birds|are|flying|in|the|sky|.,rearrange,The|are|birds|the|.|flying|in|sky,,Free
+370,37,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|children|played|football|after|school|.,rearrange,.|football|school|The|after|played|children,,Free
+371,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|brush|my|teeth|every|morning|.,rearrange,morning|I|every|my|.|teeth|brush,,Free
+372,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|visited|our|grandparents|last|week|.,rearrange,week|last|.|grandparents|We|visited|our,,Free
+373,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|rain|made|the|road|wet|.,rearrange,rain|wet|.|road|the|The|made,,Free
+374,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Sara|helped|her|mother|in|the|kitchen|.,rearrange,Sara|in|kitchen|her|helped|mother|the|.,,Free
+375,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|young|boy|opened|the|door|slowly|.,rearrange,the|door|The|opened|boy|young|slowly|.,,Free
+376,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Every|morning|I|drink|a|glass|of|milk|.,rearrange,drink|of|glass|milk|Every|morning|I|a|.,,Free
+377,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|father|reads|the|newspaper|every|morning|.,rearrange,the|reads|My|newspaper|every|father|.|morning,,Free
+378,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|teacher|gave|us|some|interesting|homework|.,rearrange,some|.|teacher|The|homework|us|gave|interesting,,Free
+379,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|should|always|help|people|in|need|.,rearrange,.|in|We|help|always|people|need|should,,Free
+380,38,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|small|rabbit|quickly|ran|into|the|garden|.,rearrange,The|the|rabbit|.|quickly|small|garden|ran|into,,Free
+381,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,I|was|very|happy|to|see|my|friend|.,rearrange,friend|happy|was|I|see|.|to|my|very,,Free
+382,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|little|girl|carefully|carried|the|glass|.,rearrange,girl|glass|the|.|carefully|little|The|carried,,Free
+383,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,After|lunch|we|went|outside|to|play|.,rearrange,After|we|lunch|went|.|outside|play|to,,Free
+384,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,My|friend|and|I|made|a|sandcastle|at|the|beach|.,rearrange,at|beach|a|made|.|I|sandcastle|friend|My|the|and,,Free
+385,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|kind|girl|shared|her|lunch|with|her|friend|.,rearrange,her|The|her|with|.|lunch|friend|girl|kind|shared,,Free
+386,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,We|cleaned|our|classroom|before|the|teacher|arrived|.,rearrange,our|teacher|We|before|cleaned|the|classroom|arrived|.,,Free
+387,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,The|bright|moon|shone|over|the|quiet|village|.,rearrange,the|over|village|bright|moon|.|The|quiet|shone,,Free
+388,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,When|it|rained|we|stayed|inside|the|house|.,rearrange,When|stayed|inside|rained|the|we|house|.|it,,Free
+389,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Although|the|bag|was|heavy|the|boy|carried|it|.,rearrange,Although|was|the|heavy|bag|the|it|boy|.|carried,,Free
+390,39,Build the Sentence 2,Arrange the words to make a   sentence.,,,,,Before|going|to|bed|I|always|read|a|story|.,rearrange,.|going|Before|always|a|read|I|story|bed|to,,Free
+391,40,Subject–Verb Agreement with Different Pronouns,I _____ a good student.,is,are,am,be,am,MCQ,,,
+392,40,Subject–Verb Agreement with Different Pronouns,She _____ my best friend.,am,is,are,be,is,MCQ,,,
+393,40,Subject–Verb Agreement with Different Pronouns,They _____ playing football.,is,am,are,be,are,MCQ,,,
+394,40,Subject–Verb Agreement with Different Pronouns,He _____ very intelligent.,are,am,is,be,is,MCQ,,,
+395,40,Subject–Verb Agreement with Different Pronouns,We _____ ready for the examination.,is,are,am,be,are,MCQ,,,
+396,40,Subject–Verb Agreement with Different Pronouns,You _____ a kind person.,is,am,are,be,are,MCQ,,,
+397,40,Subject–Verb Agreement with Different Pronouns,It _____ a beautiful flower.,are,is,am,be,is,MCQ,,,
+398,40,Subject–Verb Agreement with Different Pronouns,I _____ happy today.,are,is,am,be,am,MCQ,,,
+399,40,Subject–Verb Agreement with Different Pronouns,_____ she your sister?,Am,Are,Is,Be,Is,MCQ,,,
+400,40,Subject–Verb Agreement with Different Pronouns,_____ they your classmates?,Is,Am,Are,Be,Are,MCQ,,,
+401,41,Subject–Verb Agreement with Different Pronouns,He _____ a new bicycle.,have,has,having,haves,has,MCQ,,,
+402,41,Subject–Verb Agreement with Different Pronouns,We _____ a large garden.,has,having,have,haves,have,MCQ,,,
+403,41,Subject–Verb Agreement with Different Pronouns,She _____ a beautiful doll.,have,having,has,haves,has,MCQ,,,
+404,41,Subject–Verb Agreement with Different Pronouns,They _____ many storybooks.,has,have,having,haves,have,MCQ,,,
+405,41,Subject–Verb Agreement with Different Pronouns,It _____ four legs.,have,having,has,haves,has,MCQ,,,
+406,41,Subject–Verb Agreement with Different Pronouns,You _____ a nice schoolbag.,has,have,having,haves,have,MCQ,,,
+407,41,Subject–Verb Agreement with Different Pronouns,I _____ two pencils.,has,have,having,haves,have,MCQ,,,
+408,41,Subject–Verb Agreement with Different Pronouns,_____ he have a pet dog?,Do,Does,Is,Are,Does,MCQ,,,
+409,41,Subject–Verb Agreement with Different Pronouns,_____ you like mangoes?,Does,Is,Do,Are,Do,MCQ,,,
+410,41,Subject–Verb Agreement with Different Pronouns,_____ she speak English?,Do,Does,Is,Are,Does,MCQ,,,
+411,42,Subject–Verb Agreement with Different Pronouns,He _____ to school every day.,go,going,goes,gone,goes,MCQ,,,
+412,42,Subject–Verb Agreement with Different Pronouns,They _____ cricket every afternoon.,plays,play,playing,played,play,MCQ,,,
+413,42,Subject–Verb Agreement with Different Pronouns,She _____ delicious food.,cook,cooking,cooks,cooked,cooks,MCQ,,,
+414,42,Subject–Verb Agreement with Different Pronouns,We _____ English every day.,studies,studying,study,studied,study,MCQ,,,
+415,42,Subject–Verb Agreement with Different Pronouns,It _____ very fast.,run,running,runs,ran,runs,MCQ,,,
+416,42,Subject–Verb Agreement with Different Pronouns,I _____ television in the evening.,watches,watch,watching,watched,watch,MCQ,,,
+417,42,Subject–Verb Agreement with Different Pronouns,You _____ beautiful pictures.,draws,drawing,draw,drew,draw,MCQ,,,
+418,42,Subject–Verb Agreement with Different Pronouns,My brother says that he _____ football.,like,likes,liking,liked,likes,MCQ,,,
+419,42,Subject–Verb Agreement with Different Pronouns,She _____ not like spicy food.,do,does,is,are,does,MCQ,,,
+420,42,Subject–Verb Agreement with Different Pronouns,They _____ not eat meat.,does,do,is,am,do,MCQ,,,
+421,43,Subject–Verb Agreement with Different Pronouns,He does not _____ coffee.,likes,liking,liked,like,like,MCQ,,,
+422,43,Subject–Verb Agreement with Different Pronouns,Does she _____ to school by bus?,goes,going,go,gone,go,MCQ,,,
+423,43,Subject–Verb Agreement with Different Pronouns,I _____ tired yesterday.,were,was,am,are,was,MCQ,,,
+424,43,Subject–Verb Agreement with Different Pronouns,They _____ at the park yesterday.,was,is,were,are,were,MCQ,,,
+425,43,Subject–Verb Agreement with Different Pronouns,He _____ absent last Monday.,were,was,are,am,was,MCQ,,,
+426,43,Subject–Verb Agreement with Different Pronouns,You _____ very helpful yesterday.,was,is,were,am,were,MCQ,,,
+427,43,Subject–Verb Agreement with Different Pronouns,We _____ happy after the match.,was,were,is,am,were,MCQ,,,
+428,43,Subject–Verb Agreement with Different Pronouns,It _____ very cold last night.,were,are,was,am,was,MCQ,,,
+429,43,Subject–Verb Agreement with Different Pronouns,_____ you at home yesterday?,Was,Were,Is,Am,Were,MCQ,,,
+430,43,Subject–Verb Agreement with Different Pronouns,_____ she ill last week?,Were,Are,Was,Am,Was,MCQ,,,
+431,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,He are happy.,He is happy.,He am happy.,He be happy.,He is happy.,MCQ,,,
+432,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,They plays football.,They playing football.,They play football.,They plays footballs.,They play football.,MCQ,,,
+433,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,She have a cat.,She has a cat.,She having a cat.,She haves a cat.,She has a cat.,MCQ,,,
+434,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,Does he likes milk?,Do he like milk?,Does he like milk?,Is he like milk?,Does he like milk?,MCQ,,,
+435,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,We was tired.,We is tired.,We were tired.,We am tired.,We were tired.,MCQ,,,
+436,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,I are ready.,I is ready.,I am ready.,I be ready.,I am ready.,MCQ,,,
+437,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,You has a pencil.,You have a pencil.,You having a pencil.,You haves a pencil.,You have a pencil.,MCQ,,,
+438,44,Subject–Verb Agreement with Different Pronouns,Choose the correct sentence.,It do not work.,It does not work.,It are not work.,It does not works.,It does not work.,MCQ,,,
+439,44,Subject–Verb Agreement with Different Pronouns,Which pronoun is correctly matched with the verb 'am'?,He,They,I,She,I,MCQ,,,
+440,44,Subject–Verb Agreement with Different Pronouns,Which pronouns take 'does' in the simple present tense?,"I, You","We, They","He, She, It","You, We","He, She, It",MCQ,,,
+441,45,Subject–Verb Agreement with Different Pronouns,Which pronouns take 'have'?,"He, She, It","I, You, We, They","He, They","She, We","I, You, We, They",MCQ,,,
+442,45,Subject–Verb Agreement with Different Pronouns,Which pronouns take 'were'?,"He, She, It",I only,"You, We, They","He, It","You, We, They",MCQ,,,
+443,45,Subject–Verb Agreement with Different Pronouns,Which sentence uses the correct form of the verb 'watch'?,She watch TV.,They watches TV.,He watches TV.,I watches TV.,He watches TV.,MCQ,,,
+444,45,Subject–Verb Agreement with Different Pronouns,Which sentence is incorrect?,I am hungry.,She is happy.,They is ready.,We are students.,They is ready.,MCQ,,,
+445,45,Subject–Verb Agreement with Different Pronouns,Choose the correct question.,Does they play cricket?,Do they play cricket?,Is they play cricket?,Are they plays cricket?,Do they play cricket?,MCQ,,,
+446,45,Subject–Verb Agreement with Different Pronouns,Choose the correct negative sentence.,He do not run.,He does not runs.,He does not run.,He is not run.,He does not run.,MCQ,,,
+447,45,Subject–Verb Agreement with Different Pronouns,Which sentence is correct?,She go to school every day.,She goes to school every day.,She going to school every day.,She gone to school every day.,She goes to school every day.,MCQ,,,
+448,45,Subject–Verb Agreement with Different Pronouns,The bird _____ in the sky every morning.,fly,flies,flying,flown,flies,MCQ,,,
+449,45,Subject–Verb Agreement with Different Pronouns,My friends and I _____ together every evening.,plays,playing,play,playss,play,MCQ,,,
+450,45,Subject–Verb Agreement with Different Pronouns,Which sentence is correct?,Does she have a pencil?,Does she has a pencil?,Do she have a pencil?,Is she have a pencil?,Does she have a pencil?,MCQ,,,
+451,46,Subject–Verb Agreement with Nouns,The boy _____ football every afternoon.,play,plays,playing,played,plays,MCQ,,,
+452,46,Subject–Verb Agreement with Nouns,The girls _____ beautiful songs.,sings,singing,sing,sung,sing,MCQ,,,
+453,46,Subject–Verb Agreement with Nouns,My father _____ in a bank.,work,works,working,worked,works,MCQ,,,
+454,46,Subject–Verb Agreement with Nouns,The dogs _____ loudly at night.,barks,bark,barking,barked,bark,MCQ,,,
+455,46,Subject–Verb Agreement with Nouns,The baby _____ milk every morning.,drink,drinks,drinking,drank,drinks,MCQ,,,
+456,46,Subject–Verb Agreement with Nouns,The birds _____ in the sky.,flies,flying,fly,flown,fly,MCQ,,,
+457,46,Subject–Verb Agreement with Nouns,My teacher _____ English.,teach,teaches,teaching,taught,teaches,MCQ,,,
+458,46,Subject–Verb Agreement with Nouns,The students _____ their lessons regularly.,studies,study,studying,studied,study,MCQ,,,
+459,46,Subject–Verb Agreement with Nouns,The cat _____ on the sofa.,sleep,sleeping,sleeps,slept,sleeps,MCQ,,,
+460,46,Subject–Verb Agreement with Nouns,My brothers _____ cricket together.,plays,playing,play,played,play,MCQ,,,
+461,47,Subject–Verb Agreement with Nouns,The sun _____ in the east.,rise,rises,rising,rose,rises,MCQ,,,
+462,47,Subject–Verb Agreement with Nouns,The children _____ in the playground.,plays,playing,play,played,play,MCQ,,,
+463,47,Subject–Verb Agreement with Nouns,A monkey _____ from one tree to another.,jump,jumping,jumps,jumped,jumps,MCQ,,,
+464,47,Subject–Verb Agreement with Nouns,The farmers _____ vegetables in the field.,grows,grow,growing,grown,grow,MCQ,,,
+465,47,Subject–Verb Agreement with Nouns,The baby _____ loudly when hungry.,cry,cries,crying,cried,cries,MCQ,,,
+466,47,Subject–Verb Agreement with Nouns,The book _____ very interesting.,are,am,is,were,is,MCQ,,,
+467,47,Subject–Verb Agreement with Nouns,The flowers _____ beautiful.,is,are,am,was,are,MCQ,,,
+468,47,Subject–Verb Agreement with Nouns,My parents _____ very kind.,is,am,are,was,are,MCQ,,,
+469,47,Subject–Verb Agreement with Nouns,The classroom _____ clean and tidy.,are,is,were,have,is,MCQ,,,
+470,47,Subject–Verb Agreement with Nouns,The players _____ ready for the match.,is,am,are,was,are,MCQ,,,
+471,48,Subject–Verb Agreement with Nouns,My mother _____ a beautiful garden.,have,has,having,haves,has,MCQ,,,
+472,48,Subject–Verb Agreement with Nouns,The students _____ many books.,has,having,have,haves,have,MCQ,,,
+473,48,Subject–Verb Agreement with Nouns,The dog _____ a long tail.,have,has,having,haves,has,MCQ,,,
+474,48,Subject–Verb Agreement with Nouns,The children _____ many toys.,has,have,having,haves,have,MCQ,,,
+475,48,Subject–Verb Agreement with Nouns,The school _____ a large playground.,have,having,has,haves,has,MCQ,,,
+476,48,Subject–Verb Agreement with Nouns,Water _____ essential for life.,are,have,is,were,is,MCQ,,,
+477,48,Subject–Verb Agreement with Nouns,Milk _____ calcium.,contain,contains,containing,contained,contains,MCQ,,,
+478,48,Subject–Verb Agreement with Nouns,Rice _____ in many Asian countries.,grow,grows,growing,grown,grows,MCQ,,,
+479,48,Subject–Verb Agreement with Nouns,The furniture _____ very expensive.,are,is,have,were,is,MCQ,,,
+480,48,Subject–Verb Agreement with Nouns,The information _____ useful.,are,have,is,were,is,MCQ,,,
+481,49,Subject–Verb Agreement with Nouns,The team _____ playing well today.,are,is,have,were,is,MCQ,,,
+482,49,Subject–Verb Agreement with Nouns,The family _____ in Dhaka.,live,lives,living,lived,lives,MCQ,,,
+483,49,Subject–Verb Agreement with Nouns,The class _____ very quiet today.,are,have,is,were,is,MCQ,,,
+484,49,Subject–Verb Agreement with Nouns,The crowd _____ excited about the match.,are,is,have,were,is,MCQ,,,
+485,49,Subject–Verb Agreement with Nouns,Mathematics _____ my favourite subject.,are,have,is,were,is,MCQ,,,
+486,49,Subject–Verb Agreement with Nouns,The news _____ surprising.,are,have,is,were,is,MCQ,,,
+487,49,Subject–Verb Agreement with Nouns,The men _____ in a factory.,works,working,work,worked,work,MCQ,,,
+488,49,Subject–Verb Agreement with Nouns,The woman _____ three children.,have,has,having,haves,has,MCQ,,,
+489,49,Subject–Verb Agreement with Nouns,The children _____ happy today.,is,am,are,was,are,MCQ,,,
+490,49,Subject–Verb Agreement with Nouns,The mice _____ inside the kitchen.,runs,running,run,ran,run,MCQ,,,
+491,50,Subject–Verb Agreement with Nouns,The scissors _____ on the table.,is,are,has,was,are,MCQ,,,
+492,50,Subject–Verb Agreement with Nouns,My trousers _____ black.,is,am,are,has,are,MCQ,,,
+493,50,Subject–Verb Agreement with Nouns,The flock of birds _____ flying across the sky.,are,is,have,were,is,MCQ,,,
+494,50,Subject–Verb Agreement with Nouns,A group of students _____ visiting the museum.,are,have,is,were,is,MCQ,,,
+495,50,Subject–Verb Agreement with Nouns,The advice _____ very helpful.,are,have,is,were,is,MCQ,,,
+496,50,Subject–Verb Agreement with Nouns,The people _____ waiting outside.,is,are,has,was,are,MCQ,,,
+497,50,Subject–Verb Agreement with Nouns,The police _____ investigating the case.,is,are,has,was,are,MCQ,,,
+498,50,Subject–Verb Agreement with Nouns,The committee _____ meeting today.,are,is,have,were,is,MCQ,,,
+499,50,Subject–Verb Agreement with Nouns,The teeth of the child _____ very white.,is,has,are,was,are,MCQ,,,
+500,50,Subject–Verb Agreement with Nouns,The economics of this country _____ interesting.,are,have,is,were,is,MCQ,,,
+501,51,Subject–Verb Agreement with There Is and There Are,_____ a cat under the table.,There are,There is,There have,There were,There is,MCQ,,,
+502,51,Subject–Verb Agreement with There Is and There Are,_____ three birds in the tree.,There is,There am,There are,There has,There are,MCQ,,,
+503,51,Subject–Verb Agreement with There Is and There Are,_____ an apple in the basket.,There are,There is,There have,There were,There is,MCQ,,,
+504,51,Subject–Verb Agreement with There Is and There Are,_____ five students in the classroom.,There is,There has,There are,There am,There are,MCQ,,,
+505,51,Subject–Verb Agreement with There Is and There Are,_____ a beautiful flower in the garden.,There are,There have,There is,There were,There is,MCQ,,,
+506,51,Subject–Verb Agreement with There Is and There Are,_____ two pencils on the desk.,There is,There are,There has,There am,There are,MCQ,,,
+507,51,Subject–Verb Agreement with There Is and There Are,_____ a computer in my room.,There are,There were,There have,There is,There is,MCQ,,,
+508,51,Subject–Verb Agreement with There Is and There Are,_____ many stars in the sky.,There is,There has,There are,There am,There are,MCQ,,,
+509,51,Subject–Verb Agreement with There Is and There Are,_____ a dog near the gate.,There are,There is,There have,There were,There is,MCQ,,,
+510,51,Subject–Verb Agreement with There Is and There Are,_____ four oranges in the bowl.,There is,There has,There are,There am,There are,MCQ,,,
+511,52,Subject–Verb Agreement with There Is and There Are,_____ some water in the bottle.,There are,There is,There have,There were,There is,MCQ,,,
+512,52,Subject–Verb Agreement with There Is and There Are,_____ some milk in the glass.,There are,There have,There is,There were,There is,MCQ,,,
+513,52,Subject–Verb Agreement with There Is and There Are,_____ some rice in the bowl.,There are,There is,There have,There were,There is,MCQ,,,
+514,52,Subject–Verb Agreement with There Is and There Are,_____ some sugar in the jar.,There are,There is,There have,There were,There is,MCQ,,,
+515,52,Subject–Verb Agreement with There Is and There Are,_____ some furniture in the room.,There are,There have,There is,There were,There is,MCQ,,,
+516,52,Subject–Verb Agreement with There Is and There Are,_____ a book on the shelf.,There aren't,There isn't,There don't,There haven't,There isn't,MCQ,,,
+517,52,Subject–Verb Agreement with There Is and There Are,_____ any students in the classroom.,There isn't,There aren't,There doesn't,There hasn't,There aren't,MCQ,,,
+518,52,Subject–Verb Agreement with There Is and There Are,_____ any milk in the refrigerator.,There aren't,There don't,There isn't,There haven't,There isn't,MCQ,,,
+519,52,Subject–Verb Agreement with There Is and There Are,_____ any apples in the basket.,There isn't,There aren't,There hasn't,There doesn't,There aren't,MCQ,,,
+520,52,Subject–Verb Agreement with There Is and There Are,_____ a dog in the garden.,There aren't,There isn't,There don't,There haven't,There isn't,MCQ,,,
+521,53,Subject–Verb Agreement with There Is and There Are,_____ a library in your school?,Are there,Is there,There are,There have,Is there,MCQ,,,
+522,53,Subject–Verb Agreement with There Is and There Are,_____ five books on the table?,Is there,There is,Are there,There has,Are there,MCQ,,,
+523,53,Subject–Verb Agreement with There Is and There Are,_____ any water in the bottle?,Are there,Is there,There are,There have,Is there,MCQ,,,
+524,53,Subject–Verb Agreement with There Is and There Are,_____ two cats under the chair?,Is there,There is,Are there,There has,Are there,MCQ,,,
+525,53,Subject–Verb Agreement with There Is and There Are,_____ a hospital near your house?,Are there,Is there,There are,There have,Is there,MCQ,,,
+526,53,Subject–Verb Agreement with There Is and There Are,"Yes, _____ a park near my house.",there are,there have,there is,there were,there is,MCQ,,,
+527,53,Subject–Verb Agreement with There Is and There Are,"No, _____ any birds in the cage.",there isn't,there aren't,there doesn't,there hasn't,there aren't,MCQ,,,
+528,53,Subject–Verb Agreement with There Is and There Are,"Yes, _____ three windows in the room.",there is,there has,there are,there was,there are,MCQ,,,
+529,53,Subject–Verb Agreement with There Is and There Are,"No, _____ any juice in the glass.",there aren't,there isn't,there don't,there haven't,there isn't,MCQ,,,
+530,53,Subject–Verb Agreement with There Is and There Are,"Yes, _____ some books in my bag.",there is,there are,there has,there was,there are,MCQ,,,
+531,54,Subject–Verb Agreement with There Is and There Are,_____ a lot of furniture in the room.,There are,There have,There is,There were,There is,MCQ,,,
+532,54,Subject–Verb Agreement with There Is and There Are,_____ many children in the playground.,There is,There are,There has,There was,There are,MCQ,,,
+533,54,Subject–Verb Agreement with There Is and There Are,_____ some information about the competition.,There are,There is,There have,There were,There is,MCQ,,,
+534,54,Subject–Verb Agreement with There Is and There Are,_____ a pair of shoes beside the door.,There are,There have,There is,There were,There is,MCQ,,,
+535,54,Subject–Verb Agreement with There Is and There Are,_____ two pairs of shoes beside the door.,There is,There are,There has,There was,There are,MCQ,,,
+536,54,Subject–Verb Agreement with There Is and There Are,Which sentence is correct?,There are a boy in the room.,There is two boys in the room.,There is a boy in the room.,There have a boy in the room.,There is a boy in the room.,MCQ,,,
+537,54,Subject–Verb Agreement with There Is and There Are,Which sentence is correct?,There is three apples.,There are three apples.,There has three apples.,There am three apples.,There are three apples.,MCQ,,,
+538,54,Subject–Verb Agreement with There Is and There Are,Which sentence is correct?,There are some milk.,There have some milk.,There is some milk.,There were some milk.,There is some milk.,MCQ,,,
+539,54,Subject–Verb Agreement with There Is and There Are,Choose the correct question.,Is there any students?,Are there any students?,There are any students?,There has any students?,Are there any students?,MCQ,,,
+540,54,Subject–Verb Agreement with There Is and There Are,Choose the correct sentence.,There aren't any water in the bottle.,There isn't any water in the bottle.,There aren't a water in the bottle.,There don't any water in the bottle.,There isn't any water in the bottle.,MCQ,,,
+541,55,Subject–Verb Agreement with Compound Subjects,Rafi and Mina _____ to school together.,goes,go,going,gone,go,MCQ,,,
+542,55,Subject–Verb Agreement with Compound Subjects,My father and mother _____ very kind.,is,am,are,has,are,MCQ,,,
+543,55,Subject–Verb Agreement with Compound Subjects,A cat and a dog _____ in the garden.,plays,play,playing,playses,play,MCQ,,,
+544,55,Subject–Verb Agreement with Compound Subjects,The teacher and the students _____ happy.,is,has,are,was,are,MCQ,,,
+545,55,Subject–Verb Agreement with Compound Subjects,My brother and sister _____ cricket.,likes,like,liking,liked,like,MCQ,,,
+546,55,Subject–Verb Agreement with Compound Subjects,Apples and bananas _____ healthy fruits.,is,am,are,has,are,MCQ,,,
+547,55,Subject–Verb Agreement with Compound Subjects,Tom and Jerry _____ funny characters.,is,are,has,was,are,MCQ,,,
+548,55,Subject–Verb Agreement with Compound Subjects,A pencil and a notebook _____ on the desk.,is,has,are,was,are,MCQ,,,
+549,55,Subject–Verb Agreement with Compound Subjects,Birds and butterflies _____ in the garden.,flies,fly,flying,flown,fly,MCQ,,,
+550,55,Subject–Verb Agreement with Compound Subjects,The boys and girls _____ in the playground.,plays,playing,play,played,play,MCQ,,,
+551,56,Subject–Verb Agreement with Compound Subjects,My uncle and aunt _____ in a village.,lives,live,living,lived,live,MCQ,,,
+552,56,Subject–Verb Agreement with Compound Subjects,The sun and the moon _____ in the sky.,appears,appear,appearing,appeared,appear,MCQ,,,
+553,56,Subject–Verb Agreement with Compound Subjects,The cats and dogs _____ in the yard.,is,has,are,was,are,MCQ,,,
+554,56,Subject–Verb Agreement with Compound Subjects,Rafi and his friends _____ football every afternoon.,plays,play,playing,played,play,MCQ,,,
+555,56,Subject–Verb Agreement with Compound Subjects,My parents _____ a beautiful house.,has,having,have,haves,have,MCQ,,,
+556,56,Subject–Verb Agreement with Compound Subjects,Rafi or Mina _____ coming today.,are,is,have,were,is,MCQ,,,
+557,56,Subject–Verb Agreement with Compound Subjects,A cat or a dog _____ under the table.,are,have,is,were,is,MCQ,,,
+558,56,Subject–Verb Agreement with Compound Subjects,My brother or my sister _____ the key.,have,has,are,were,has,MCQ,,,
+559,56,Subject–Verb Agreement with Compound Subjects,The boys or the girls _____ responsible.,is,has,are,was,are,MCQ,,,
+560,56,Subject–Verb Agreement with Compound Subjects,The teachers or the students _____ ready.,is,has,are,was,are,MCQ,,,
+561,57,Subject–Verb Agreement with Compound Subjects,Rafi or his friends _____ coming today.,is,are,has,was,are,MCQ,,,
+562,57,Subject–Verb Agreement with Compound Subjects,The boys or Rafi _____ playing football.,are,have,is,were,is,MCQ,,,
+563,57,Subject–Verb Agreement with Compound Subjects,My brother or my friends _____ visiting us.,is,are,has,was,are,MCQ,,,
+564,57,Subject–Verb Agreement with Compound Subjects,My friends or my brother _____ visiting us.,are,have,is,were,is,MCQ,,,
+565,57,Subject–Verb Agreement with Compound Subjects,The girls or the teacher _____ leading the activity.,are,have,is,were,is,MCQ,,,
+566,57,Subject–Verb Agreement with Compound Subjects,Neither Rafi nor Mina _____ absent today.,are,is,have,were,is,MCQ,,,
+567,57,Subject–Verb Agreement with Compound Subjects,Neither the boys nor the girls _____ ready.,is,has,are,was,are,MCQ,,,
+568,57,Subject–Verb Agreement with Compound Subjects,Neither my brother nor my sister _____ at home.,are,have,is,were,is,MCQ,,,
+569,57,Subject–Verb Agreement with Compound Subjects,Neither the students nor the teacher _____ present.,are,have,is,were,is,MCQ,,,
+570,57,Subject–Verb Agreement with Compound Subjects,Neither the teacher nor the students _____ present.,is,has,are,was,are,MCQ,,,
+571,58,Subject–Verb Agreement with Compound Subjects,Either Rafi or Mina _____ going to the market.,are,is,have,were,is,MCQ,,,
+572,58,Subject–Verb Agreement with Compound Subjects,Either the boys or the girls _____ responsible.,is,has,are,was,are,MCQ,,,
+573,58,Subject–Verb Agreement with Compound Subjects,Either my father or my mother _____ me to school.,take,takes,taking,are taking,takes,MCQ,,,
+574,58,Subject–Verb Agreement with Compound Subjects,Either my friends or my brother _____ the answer.,know,knows,knowing,are knowing,knows,MCQ,,,
+575,58,Subject–Verb Agreement with Compound Subjects,Either my brother or my friends _____ coming.,is,has,are,was,are,MCQ,,,
+576,58,Subject–Verb Agreement with Compound Subjects,Every boy and girl _____ a school bag.,have,has,are,were,has,MCQ,,,
+577,58,Subject–Verb Agreement with Compound Subjects,Each student and teacher _____ an identity card.,have,are,has,were,has,MCQ,,,
+578,58,Subject–Verb Agreement with Compound Subjects,Every cat and dog _____ food.,need,needs,needing,are needing,needs,MCQ,,,
+579,58,Subject–Verb Agreement with Compound Subjects,Every teacher and student _____ ready.,are,have,is,were,is,MCQ,,,
+580,58,Subject–Verb Agreement with Compound Subjects,Each boy and girl _____ a chance to participate.,have,has,are,were,has,MCQ,,,
+581,59,Subject–Verb Agreement with Compound Subjects,The captain and the players _____ ready for the match.,is,has,are,was,are,MCQ,,,
+582,59,Subject–Verb Agreement with Compound Subjects,My brother and best friend _____ visiting me today. (They are two different people.),is,has,are,was,are,MCQ,,,
+583,59,Subject–Verb Agreement with Compound Subjects,The owner and the manager _____ in the office. (They are two different people.),is,has,are,was,are,MCQ,,,
+584,59,Subject–Verb Agreement with Compound Subjects,The owner and manager of the shop _____ absent. (One person has both roles.),are,have,is,were,is,MCQ,,,
+585,59,Subject–Verb Agreement with Compound Subjects,My friend and classmate _____ here. (One person.),are,have,is,were,is,MCQ,,,
+586,59,Subject–Verb Agreement with Compound Subjects,Which sentence is correct?,Rafi and Karim plays cricket.,Rafi and Karim play cricket.,Rafi and Karim is cricket.,Rafi and Karim has cricket.,Rafi and Karim play cricket.,MCQ,,,
+587,59,Subject–Verb Agreement with Compound Subjects,Which sentence is correct?,Neither Rafi nor Mina are ready.,Neither Rafi nor Mina is ready.,Neither Rafi nor Mina have ready.,Neither Rafi nor Mina were ready.,Neither Rafi nor Mina is ready.,MCQ,,,
+588,59,Subject–Verb Agreement with Compound Subjects,Which sentence is correct?,Every boy and girl are happy.,Every boy and girl have happy.,Every boy and girl is happy.,Every boy and girl were happy.,Every boy and girl is happy.,MCQ,,,
+589,59,Subject–Verb Agreement with Compound Subjects,Which sentence is correct?,Either the boys or the teacher are responsible.,Either the boys or the teacher is responsible.,Either the boys or the teacher have responsible.,Either the boys or the teacher were responsible.,Either the boys or the teacher is responsible.,MCQ,,,
+590,59,Subject–Verb Agreement with Compound Subjects,Which sentence is correct?,My father and mother has a car.,My father and mother is a car.,My father and mother have a car.,My father and mother having a car.,My father and mother have a car.,MCQ,,,
+591,60,Subject–Verb Agreement with Special Expressions,"Rafi, along with his friends, _____ football every afternoon.",play,plays,playing,played,plays,MCQ,,,
+592,60,Subject–Verb Agreement with Special Expressions,"The teacher, as well as the students, _____ happy.",are,have,is,were,is,MCQ,,,
+593,60,Subject–Verb Agreement with Special Expressions,"My father, together with my mother, _____ to work every day.",go,goes,going,gone,goes,MCQ,,,
+594,60,Subject–Verb Agreement with Special Expressions,"The captain, along with the players, _____ ready for the match.",are,is,have,were,is,MCQ,,,
+595,60,Subject–Verb Agreement with Special Expressions,"The students, as well as their teacher, _____ excited.",is,has,are,was,are,MCQ,,,
+596,60,Subject–Verb Agreement with Special Expressions,"Mina, together with her sisters, _____ in Dhaka.",live,lives,living,lived,lives,MCQ,,,
+597,60,Subject–Verb Agreement with Special Expressions,"The principal, accompanied by the teachers, _____ entering the hall.",are,have,is,were,is,MCQ,,,
+598,60,Subject–Verb Agreement with Special Expressions,"My brother, along with his classmates, _____ cricket.",enjoy,enjoys,enjoying,enjoyed,enjoys,MCQ,,,
+599,60,Subject–Verb Agreement with Special Expressions,"The boys, together with their coach, _____ practising.",is,has,are,was,are,MCQ,,,
+600,60,Subject–Verb Agreement with Special Expressions,"The girl, as well as her brothers, _____ a new bicycle.",have,has,are,were,has,MCQ,,,
+601,61,Subject–Verb Agreement with Special Expressions,"The teacher, in addition to the students, _____ attending the programme.",are,have,is,were,is,MCQ,,,
+602,61,Subject–Verb Agreement with Special Expressions,"The players, including their captain, _____ ready.",is,has,are,was,are,MCQ,,,
+603,61,Subject–Verb Agreement with Special Expressions,"The dog, along with two cats, _____ in the garden.",play,plays,playing,played,plays,MCQ,,,
+604,61,Subject–Verb Agreement with Special Expressions,"My friends, together with Rafi, _____ visiting the museum.",is,has,are,was,are,MCQ,,,
+605,61,Subject–Verb Agreement with Special Expressions,"The manager, as well as his assistants, _____ the office.",manage,manages,managing,managed,manages,MCQ,,,
+606,61,Subject–Verb Agreement with Special Expressions,A number of students _____ absent today.,is,has,are,was,are,MCQ,,,
+607,61,Subject–Verb Agreement with Special Expressions,A number of birds _____ in the sky.,flies,fly,flying,flown,fly,MCQ,,,
+608,61,Subject–Verb Agreement with Special Expressions,The number of students in our class _____ forty.,are,have,is,were,is,MCQ,,,
+609,61,Subject–Verb Agreement with Special Expressions,The number of books in the library _____ increasing.,are,is,have,were,is,MCQ,,,
+610,61,Subject–Verb Agreement with Special Expressions,A number of children _____ playing outside.,is,has,are,was,are,MCQ,,,
+611,62,Subject–Verb Agreement with Special Expressions,More than one student _____ the correct answer.,know,knows,knowing,are knowing,knows,MCQ,,,
+612,62,Subject–Verb Agreement with Special Expressions,More than one child _____ a prize.,have,has,are,were,has,MCQ,,,
+613,62,Subject–Verb Agreement with Special Expressions,More than one book _____ missing from the shelf.,are,have,is,were,is,MCQ,,,
+614,62,Subject–Verb Agreement with Special Expressions,Many a student _____ to become a doctor.,want,wants,wanting,are wanting,wants,MCQ,,,
+615,62,Subject–Verb Agreement with Special Expressions,Many a child _____ stories before bedtime.,enjoy,enjoys,enjoying,enjoyed,enjoys,MCQ,,,
+616,62,Subject–Verb Agreement with Special Expressions,Many a bird _____ in this forest.,live,lives,living,lived,lives,MCQ,,,
+617,62,Subject–Verb Agreement with Special Expressions,One or more students _____ needed for the activity.,is,are,has,was,are,MCQ,,,
+618,62,Subject–Verb Agreement with Special Expressions,One or more books _____ missing from the shelf.,is,has,are,was,are,MCQ,,,
+619,62,Subject–Verb Agreement with Special Expressions,"The boy, not his friends, _____ responsible for the mistake.",are,have,is,were,is,MCQ,,,
+620,62,Subject–Verb Agreement with Special Expressions,"The girls, not their brother, _____ responsible for the decorations.",is,has,are,was,are,MCQ,,,
+621,63,Subject–Verb Agreement with Special Expressions,Everyone except Rafi _____ present today.,are,have,is,were,is,MCQ,,,
+622,63,Subject–Verb Agreement with Special Expressions,All the students except Mina _____ completed the task.,has,have,is,was,have,MCQ,,,
+623,63,Subject–Verb Agreement with Special Expressions,"The teacher, rather than the students, _____ responsible.",are,have,is,were,is,MCQ,,,
+624,63,Subject–Verb Agreement with Special Expressions,"The students, rather than the teacher, _____ responsible.",is,has,are,was,are,MCQ,,,
+625,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,The teacher along with the students are happy.,The teacher along with the students is happy.,The teacher along with the students have happy.,The teacher along with the students were happy.,The teacher along with the students is happy.,MCQ,,,
+626,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,A number of children is playing.,A number of children are playing.,A number of children has playing.,A number of children was playing.,A number of children are playing.,MCQ,,,
+627,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,The number of players are twenty.,The number of players have twenty.,The number of players is twenty.,The number of players were twenty.,The number of players is twenty.,MCQ,,,
+628,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,More than one boy are absent.,More than one boy is absent.,More than one boy have absent.,More than one boy were absent.,More than one boy is absent.,MCQ,,,
+629,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,Everyone except the boys are ready.,Everyone except the boys have ready.,Everyone except the boys is ready.,Everyone except the boys were ready.,Everyone except the boys is ready.,MCQ,,,
+630,63,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,The girls as well as their mother is happy.,The girls as well as their mother are happy.,The girls as well as their mother has happy.,The girls as well as their mother was happy.,The girls as well as their mother are happy.,MCQ,,,
+631,64,Subject–Verb Agreement with Special Expressions,"Rina, along with her friends, _____ singing.",is,are,am,be,is,MCQ,,,
+632,64,Subject–Verb Agreement with Special Expressions,"The boys, along with Rafi, _____ playing football.",is,are,am,was,are,MCQ,,,
+633,64,Subject–Verb Agreement with Special Expressions,"My father, as well as my mother, _____ at home.",are,am,is,were,is,MCQ,,,
+634,64,Subject–Verb Agreement with Special Expressions,"The teachers, as well as the principal, _____ attending the meeting.",is,are,am,was,are,MCQ,,,
+635,64,Subject–Verb Agreement with Special Expressions,"The captain, together with his players, _____ arriving.",are,is,am,were,is,MCQ,,,
+636,64,Subject–Verb Agreement with Special Expressions,"The children, together with their parents, _____ visiting the zoo.",is,was,are,has,are,MCQ,,,
+637,64,Subject–Verb Agreement with Special Expressions,"The girl, accompanied by her mother, _____ entering the room.",are,is,have,were,is,MCQ,,,
+638,64,Subject–Verb Agreement with Special Expressions,"The players, accompanied by their coach, _____ practising.",is,are,has,was,are,MCQ,,,
+639,64,Subject–Verb Agreement with Special Expressions,"My brother, in addition to my sister, _____ invited.",are,am,is,were,is,MCQ,,,
+640,64,Subject–Verb Agreement with Special Expressions,"The students, including their class monitor, _____ ready.",is,are,was,has,are,MCQ,,,
+641,65,Subject–Verb Agreement with Special Expressions,"The dog, along with two cats, _____ sleeping.",are,is,have,were,is,MCQ,,,
+642,65,Subject–Verb Agreement with Special Expressions,"The flowers, as well as the plants, _____ beautiful.",is,am,are,was,are,MCQ,,,
+643,65,Subject–Verb Agreement with Special Expressions,"The doctor, together with the nurses, _____ working today.",are,is,have,were,is,MCQ,,,
+644,65,Subject–Verb Agreement with Special Expressions,"My friends, along with my cousin, _____ coming to my house.",is,are,was,has,are,MCQ,,,
+645,65,Subject–Verb Agreement with Special Expressions,"The principal, accompanied by the teachers, _____ speaking on the stage.",are,were,is,have,is,MCQ,,,
+646,65,Subject–Verb Agreement with Special Expressions,A number of students _____ absent today.,is,are,was,has,are,MCQ,,,
+647,65,Subject–Verb Agreement with Special Expressions,A number of birds _____ in the tree.,sits,is sitting,are sitting,was sitting,are sitting,MCQ,,,
+648,65,Subject–Verb Agreement with Special Expressions,The number of students _____ increasing every year.,are,is,have,were,is,MCQ,,,
+649,65,Subject–Verb Agreement with Special Expressions,The number of books in the library _____ very large.,are,have,is,were,is,MCQ,,,
+650,65,Subject–Verb Agreement with Special Expressions,A number of children _____ interested in science.,is,are,has,was,are,MCQ,,,
+651,66,Subject–Verb Agreement with Special Expressions,The number of players in the team _____ eleven.,are,were,is,have,is,MCQ,,,
+652,66,Subject–Verb Agreement with Special Expressions,A number of cars _____ parked outside the building.,is,was,are,has,are,MCQ,,,
+653,66,Subject–Verb Agreement with Special Expressions,The number of visitors _____ quite small today.,are,is,have,were,is,MCQ,,,
+654,66,Subject–Verb Agreement with Special Expressions,A number of teachers _____ attending the training programme.,is,has,are,was,are,MCQ,,,
+655,66,Subject–Verb Agreement with Special Expressions,The number of pages in this book _____ two hundred.,are,is,have,were,is,MCQ,,,
+656,66,Subject–Verb Agreement with Special Expressions,More than one student _____ absent today.,are,is,have,were,is,MCQ,,,
+657,66,Subject–Verb Agreement with Special Expressions,More than one book _____ missing from the shelf.,are,were,is,have,is,MCQ,,,
+658,66,Subject–Verb Agreement with Special Expressions,More than one child _____ a bicycle.,have,are having,has,were having,has,MCQ,,,
+659,66,Subject–Verb Agreement with Special Expressions,More than one player _____ injured during the match.,are,were,is,have,is,MCQ,,,
+660,66,Subject–Verb Agreement with Special Expressions,More than one bird _____ in the cage.,are,is,have,were,is,MCQ,,,
+661,67,Subject–Verb Agreement with Special Expressions,Many a student _____ to become a doctor.,want,wants,are wanting,have wanted,wants,MCQ,,,
+662,67,Subject–Verb Agreement with Special Expressions,Many a child _____ reading storybooks.,enjoy,enjoys,are enjoying,have enjoyed,enjoys,MCQ,,,
+663,67,Subject–Verb Agreement with Special Expressions,Many a bird _____ in this forest.,live,lives,are living,have lived,lives,MCQ,,,
+664,67,Subject–Verb Agreement with Special Expressions,Many a player _____ hard to win the game.,try,tries,are trying,have tried,tries,MCQ,,,
+665,67,Subject–Verb Agreement with Special Expressions,Many a teacher _____ students with kindness.,help,helps,are helping,have helped,helps,MCQ,,,
+666,67,Subject–Verb Agreement with Special Expressions,One or more students _____ waiting outside.,is,was,are,has,are,MCQ,,,
+667,67,Subject–Verb Agreement with Special Expressions,One or more books _____ missing from the library.,is,are,has,was,are,MCQ,,,
+668,67,Subject–Verb Agreement with Special Expressions,One or more players _____ injured.,is,has,are,was,are,MCQ,,,
+669,67,Subject–Verb Agreement with Special Expressions,One or more children _____ playing in the garden.,is,are,has,was,are,MCQ,,,
+670,67,Subject–Verb Agreement with Special Expressions,One or more teachers _____ needed for the programme.,is,was,are,has,are,MCQ,,,
+671,68,Subject–Verb Agreement with Special Expressions,"The teacher, not the students, _____ responsible for the classroom.",are,were,is,have,is,MCQ,,,
+672,68,Subject–Verb Agreement with Special Expressions,"The students, not the teacher, _____ responsible for cleaning the room.",is,are,has,was,are,MCQ,,,
+673,68,Subject–Verb Agreement with Special Expressions,"Rafi, not his brothers, _____ the key.",have,are having,has,were,has,MCQ,,,
+674,68,Subject–Verb Agreement with Special Expressions,"My parents, not my uncle, _____ coming today.",is,are,has,was,are,MCQ,,,
+675,68,Subject–Verb Agreement with Special Expressions,Everyone except the boys _____ ready.,are,were,is,have,is,MCQ,,,
+676,68,Subject–Verb Agreement with Special Expressions,All the children except Rina _____ present.,is,are,has,was,are,MCQ,,,
+677,68,Subject–Verb Agreement with Special Expressions,Every student except the two boys _____ a notebook.,have,are having,has,were,has,MCQ,,,
+678,68,Subject–Verb Agreement with Special Expressions,"The teacher, rather than the students, _____ speaking.",are,is,have,were,is,MCQ,,,
+679,68,Subject–Verb Agreement with Special Expressions,"The students, rather than their teacher, _____ cleaning the classroom.",is,are,has,was,are,MCQ,,,
+680,68,Subject–Verb Agreement with Special Expressions,"My sister, rather than her friends, _____ visiting the museum.",are,have,is,were,is,MCQ,,,
+681,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,"The boy, along with his friends, are playing.","The boy, along with his friends, is playing.","The boy, along with his friends, am playing.","The boy, along with his friends, be playing.","The boy, along with his friends, is playing.",MCQ,,,
+682,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,A number of children is playing.,A number of children are playing.,A number of children am playing.,A number of children plays are.,A number of children are playing.,MCQ,,,
+683,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,The number of children are increasing.,The number of children is increasing.,The number of children am increasing.,The number of children increase.,The number of children is increasing.,MCQ,,,
+684,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,More than one student are absent.,More than one student have absent.,More than one student is absent.,More than one student were absent.,More than one student is absent.,MCQ,,,
+685,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,Many a child likes reading.,Many a child like reading.,Many a child are liking reading.,Many a child have reading.,Many a child likes reading.,MCQ,,,
+686,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,One or more students is absent.,One or more students are absent.,One or more students has absent.,One or more students was absent.,One or more students are absent.,MCQ,,,
+687,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,"The captain, together with his players, are arriving.","The captain, together with his players, is arriving.","The captain, together with his players, am arriving.","The captain, together with his players, have arriving.","The captain, together with his players, is arriving.",MCQ,,,
+688,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,The number of books are twenty.,The number of books is twenty.,The number of books have twenty.,The number of books were twenty.,The number of books is twenty.,MCQ,,,
+689,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,Everyone except the girls are ready.,Everyone except the girls is ready.,Everyone except the girls have ready.,Everyone except the girls were ready.,Everyone except the girls is ready.,MCQ,,,
+690,69,Subject–Verb Agreement with Special Expressions,Which sentence is correct?,"The students, rather than the teacher, is speaking.","The students, rather than the teacher, are speaking.","The students, rather than the teacher, am speaking.","The students, rather than the teacher, has speaking.","The students, rather than the teacher, are speaking.",MCQ,,,
+691,70,Subject–Verb Agreement with Tricky Subjects,The box of chocolates _____ on the table.,are,is,have,were,is,MCQ,,,
+692,70,Subject–Verb Agreement with Tricky Subjects,The colour of these flowers _____ beautiful.,are,have,is,were,is,MCQ,,,
+693,70,Subject–Verb Agreement with Tricky Subjects,The students in the classroom _____ very quiet.,is,was,are,has,are,MCQ,,,
+694,70,Subject–Verb Agreement with Tricky Subjects,The girl with two puppies _____ very happy.,are,is,have,were,is,MCQ,,,
+695,70,Subject–Verb Agreement with Tricky Subjects,The keys to the main door _____ missing.,is,was,has,are,are,MCQ,,,
+696,70,Subject–Verb Agreement with Tricky Subjects,The sound of the bells _____ very loud.,are,is,have,were,is,MCQ,,,
+697,70,Subject–Verb Agreement with Tricky Subjects,The pictures on the wall _____ beautiful.,is,has,are,was,are,MCQ,,,
+698,70,Subject–Verb Agreement with Tricky Subjects,The basket of mangoes _____ very heavy.,are,were,is,have,is,MCQ,,,
+699,70,Subject–Verb Agreement with Tricky Subjects,The teacher near the windows _____ checking the notebooks.,are,is,have,were,is,MCQ,,,
+700,70,Subject–Verb Agreement with Tricky Subjects,The books on the shelf _____ covered with dust.,is,was,has,are,are,MCQ,,,
+701,71,Subject–Verb Agreement with Tricky Subjects,Mathematics _____ my favourite subject.,are,is,have,were,is,MCQ,,,
+702,71,Subject–Verb Agreement with Tricky Subjects,Physics _____ an interesting subject.,are,have,is,were,is,MCQ,,,
+703,71,Subject–Verb Agreement with Tricky Subjects,The news _____ very exciting today.,are,were,is,have,is,MCQ,,,
+704,71,Subject–Verb Agreement with Tricky Subjects,Economics _____ an important subject.,are,have,is,were,is,MCQ,,,
+705,71,Subject–Verb Agreement with Tricky Subjects,Statistics _____ useful in understanding data.,are,is,have,were,is,MCQ,,,
+706,71,Subject–Verb Agreement with Tricky Subjects,The children _____ playing in the garden.,is,was,are,has,are,MCQ,,,
+707,71,Subject–Verb Agreement with Tricky Subjects,The police _____ helping the people.,is,are,has,was,are,MCQ,,,
+708,71,Subject–Verb Agreement with Tricky Subjects,People _____ waiting outside the building.,is,was,are,has,are,MCQ,,,
+709,71,Subject–Verb Agreement with Tricky Subjects,The cattle _____ grazing in the field.,is,has,are,was,are,MCQ,,,
+710,71,Subject–Verb Agreement with Tricky Subjects,The furniture _____ very expensive.,are,were,is,have,is,MCQ,,,
+711,72,Subject–Verb Agreement with Tricky Subjects,The information _____ very useful.,are,is,have,were,is,MCQ,,,
+712,72,Subject–Verb Agreement with Tricky Subjects,The milk _____ fresh.,are,were,is,have,is,MCQ,,,
+713,72,Subject–Verb Agreement with Tricky Subjects,The equipment _____ ready for the experiment.,are,have,is,were,is,MCQ,,,
+714,72,Subject–Verb Agreement with Tricky Subjects,Your advice _____ helpful to me.,are,is,have,were,is,MCQ,,,
+715,72,Subject–Verb Agreement with Tricky Subjects,Two bottles of milk _____ in the refrigerator.,is,was,are,has,are,MCQ,,,
+716,72,Subject–Verb Agreement with Tricky Subjects,A glass of water _____ on the desk.,are,is,have,were,is,MCQ,,,
+717,72,Subject–Verb Agreement with Tricky Subjects,Three bags of rice _____ in the kitchen.,is,has,are,was,are,MCQ,,,
+718,72,Subject–Verb Agreement with Tricky Subjects,Ten dollars _____ enough to buy this toy.,are,were,is,have,is,MCQ,,,
+719,72,Subject–Verb Agreement with Tricky Subjects,Five kilometres _____ a long distance to walk.,are,have,is,were,is,MCQ,,,
+720,72,Subject–Verb Agreement with Tricky Subjects,Two hours _____ enough to finish the examination.,are,were,is,have,is,MCQ,,,
+721,73,Subject–Verb Agreement with Tricky Subjects,Two hours _____ passed since the class started.,has,is,have,was,have,MCQ,,,
+722,73,Subject–Verb Agreement with Tricky Subjects,Twenty years _____ a long time to wait.,are,is,have,were,is,MCQ,,,
+723,73,Subject–Verb Agreement with Tricky Subjects,The Three Little Pigs _____ a famous story.,are,have,is,were,is,MCQ,,,
+724,73,Subject–Verb Agreement with Tricky Subjects,The Adventures of Tom Sawyer _____ an interesting book.,are,is,have,were,is,MCQ,,,
+725,73,Subject–Verb Agreement with Tricky Subjects,Harry Potter and the Goblet of Fire _____ a popular book.,are,have,is,were,is,MCQ,,,
+726,73,Subject–Verb Agreement with Tricky Subjects,Each student _____ a notebook.,have,has,are,were,has,MCQ,,,
+727,73,Subject–Verb Agreement with Tricky Subjects,Every child _____ a chance to participate.,have,are having,has,were having,has,MCQ,,,
+728,73,Subject–Verb Agreement with Tricky Subjects,Each of the boys _____ ready for the competition.,are,have,is,were,is,MCQ,,,
+729,73,Subject–Verb Agreement with Tricky Subjects,Every one of the players _____ a uniform.,have,has,are,were,has,MCQ,,,
+730,73,Subject–Verb Agreement with Tricky Subjects,One of the girls _____ very well.,sing,sings,are singing,have sung,sings,MCQ,,,
+731,74,Subject–Verb Agreement with Tricky Subjects,One of my friends _____ in Dhaka.,live,lives,are living,have lived,lives,MCQ,,,
+732,74,Subject–Verb Agreement with Tricky Subjects,One of the books _____ a red cover.,have,are having,has,were having,has,MCQ,,,
+733,74,Subject–Verb Agreement with Tricky Subjects,One of the players _____ very fast.,run,runs,are running,have run,runs,MCQ,,,
+734,74,Subject–Verb Agreement with Tricky Subjects,He is the only one of the boys who _____ football regularly.,play,plays,are playing,have played,plays,MCQ,,,
+735,74,Subject–Verb Agreement with Tricky Subjects,Rina is the only one of the students who _____ a bicycle.,have,are having,has,were having,has,MCQ,,,
+736,74,Subject–Verb Agreement with Tricky Subjects,The colour of the walls _____ changed recently.,have,are,has,were,has,MCQ,,,
+737,74,Subject–Verb Agreement with Tricky Subjects,Which sentence is correct?,The box of toys are heavy.,The box of toys is heavy.,The box of toys have heavy.,The box of toys were heavy.,The box of toys is heavy.,MCQ,,,
+738,74,Subject–Verb Agreement with Tricky Subjects,Which sentence is correct?,Mathematics are interesting.,Mathematics have interesting.,Mathematics is interesting.,Mathematics be interesting.,Mathematics is interesting.,MCQ,,,
+739,74,Subject–Verb Agreement with Tricky Subjects,Which sentence is correct?,Each of the students have a pencil.,Each of the students are having a pencil.,Each of the students has a pencil.,Each of the students were having a pencil.,Each of the students has a pencil.,MCQ,,,
+740,74,Subject–Verb Agreement with Tricky Subjects,Which sentence is correct?,One of my friends live in Dhaka.,One of my friends lives in Dhaka.,One of my friends are live in Dhaka.,One of my friends have lives in Dhaka.,One of my friends lives in Dhaka.,MCQ,,,
+741,75,Subject–Verb Agreement – Special and Exceptional Cases,Half of the cake _____ already eaten.,are,is,have,were,is,MCQ,,,
+742,75,Subject–Verb Agreement – Special and Exceptional Cases,Half of the students _____ absent today.,is,was,are,has,are,MCQ,,,
+743,75,Subject–Verb Agreement – Special and Exceptional Cases,One-third of the water _____ dirty.,are,were,have,is,is,MCQ,,,
+744,75,Subject–Verb Agreement – Special and Exceptional Cases,Two-thirds of the apples _____ rotten.,is,are,was,has,are,MCQ,,,
+745,75,Subject–Verb Agreement – Special and Exceptional Cases,60% of the rice _____ cooked.,are,have,is,were,is,MCQ,,,
+746,75,Subject–Verb Agreement – Special and Exceptional Cases,75% of the players _____ ready for the match.,is,are,has,was,are,MCQ,,,
+747,75,Subject–Verb Agreement – Special and Exceptional Cases,Most of the milk _____ fresh.,are,have,is,were,is,MCQ,,,
+748,75,Subject–Verb Agreement – Special and Exceptional Cases,Most of the children _____ playing outside.,is,was,has,are,are,MCQ,,,
+749,75,Subject–Verb Agreement – Special and Exceptional Cases,Plenty of food _____ available for everyone.,are,is,have,were,is,MCQ,,,
+750,75,Subject–Verb Agreement – Special and Exceptional Cases,Plenty of books _____ available in the library.,is,was,are,has,are,MCQ,,,
+751,76,Subject–Verb Agreement – Special and Exceptional Cases,A lot of students _____ interested in science.,is,are,has,was,are,MCQ,,,
+752,76,Subject–Verb Agreement – Special and Exceptional Cases,A lot of sugar _____ needed to make the cake.,are,have,were,is,is,MCQ,,,
+753,76,Subject–Verb Agreement – Special and Exceptional Cases,The team _____ playing well today.,are,is,have,were,is,MCQ,,,
+754,76,Subject–Verb Agreement – Special and Exceptional Cases,My family _____ in Dhaka.,live,lives,living,have lived,lives,MCQ,,,
+755,76,Subject–Verb Agreement – Special and Exceptional Cases,The boy who _____ next door is my friend.,live,lives,living,are living,lives,MCQ,,,
+756,76,Subject–Verb Agreement – Special and Exceptional Cases,The girls who _____ in the choir are talented.,sings,is singing,sing,has sung,sing,MCQ,,,
+757,76,Subject–Verb Agreement – Special and Exceptional Cases,This is the book which _____ to my brother.,belong,belongs,are belonging,have belonged,belongs,MCQ,,,
+758,76,Subject–Verb Agreement – Special and Exceptional Cases,The dogs that _____ loudly belong to our neighbour.,barks,bark,is barking,has barked,bark,MCQ,,,
+759,76,Subject–Verb Agreement – Special and Exceptional Cases,The student who _____ the answer is very clever.,know,knows,knowing,are knowing,knows,MCQ,,,
+760,76,Subject–Verb Agreement – Special and Exceptional Cases,The teachers who _____ English are very helpful.,teaches,is teaching,teach,has taught,teach,MCQ,,,
+761,77,Subject–Verb Agreement – Special and Exceptional Cases,Swimming _____ good exercise.,are,were,is,have,is,MCQ,,,
+762,77,Subject–Verb Agreement – Special and Exceptional Cases,Reading books _____ our knowledge.,improve,improves,improving,are improving,improves,MCQ,,,
+763,77,Subject–Verb Agreement – Special and Exceptional Cases,Playing chess _____ an enjoyable activity.,are,were,have,is,is,MCQ,,,
+764,77,Subject–Verb Agreement – Special and Exceptional Cases,Learning new languages _____ time and patience.,require,requires,requiring,are requiring,requires,MCQ,,,
+765,77,Subject–Verb Agreement – Special and Exceptional Cases,To help others _____ a good habit.,are,have,is,were,is,MCQ,,,
+766,77,Subject–Verb Agreement – Special and Exceptional Cases,To become a doctor _____ hard work.,require,requires,requiring,are requiring,requires,MCQ,,,
+767,77,Subject–Verb Agreement – Special and Exceptional Cases,To learn new things _____ exciting.,are,have,were,is,is,MCQ,,,
+768,77,Subject–Verb Agreement – Special and Exceptional Cases,The rich _____ not always happy.,is,are,has,was,are,MCQ,,,
+769,77,Subject–Verb Agreement – Special and Exceptional Cases,The poor _____ our help and support.,needs,need,is needing,has needed,need,MCQ,,,
+770,77,Subject–Verb Agreement – Special and Exceptional Cases,The elderly _____ respect from everyone.,deserves,deserve,is deserving,has deserved,deserve,MCQ,,,
+771,78,Subject–Verb Agreement – Special and Exceptional Cases,A pair of shoes _____ under the bed.,are,have,is,were,is,MCQ,,,
+772,78,Subject–Verb Agreement – Special and Exceptional Cases,A pair of scissors _____ on the table.,are,is,have,were,is,MCQ,,,
+773,78,Subject–Verb Agreement – Special and Exceptional Cases,The trousers _____ too long for me.,is,has,are,was,are,MCQ,,,
+774,78,Subject–Verb Agreement – Special and Exceptional Cases,The scissors _____ very sharp.,is,are,has,was,are,MCQ,,,
+775,78,Subject–Verb Agreement – Special and Exceptional Cases,Each of the students _____ a notebook.,have,are having,has,were having,has,MCQ,,,
+776,78,Subject–Verb Agreement – Special and Exceptional Cases,Every one of the children _____ happy.,are,is,have,were,is,MCQ,,,
+777,78,Subject–Verb Agreement – Special and Exceptional Cases,Each of the boys _____ football after school.,play,plays,playing,are playing,plays,MCQ,,,
+778,78,Subject–Verb Agreement – Special and Exceptional Cases,Every one of the answers _____ correct.,are,have,is,were,is,MCQ,,,
+779,78,Subject–Verb Agreement – Special and Exceptional Cases,None of the water _____ left in the bottle.,are,is,have,were,is,MCQ,,,
+780,78,Subject–Verb Agreement – Special and Exceptional Cases,None of the students _____ absent today.,is,has,are,was,are,MCQ,,,
+781,79,Subject–Verb Agreement – Special and Exceptional Cases,One and a half hours _____ enough to finish the work.,are,have,were,is,is,MCQ,,,
+782,79,Subject–Verb Agreement – Special and Exceptional Cases,One and a half kilometres _____ a short distance.,are,is,have,were,is,MCQ,,,
+783,79,Subject–Verb Agreement – Special and Exceptional Cases,Many students _____ interested in mathematics.,is,has,are,was,are,MCQ,,,
+784,79,Subject–Verb Agreement – Special and Exceptional Cases,Every child _____ love and care.,need,needs,needing,are needing,needs,MCQ,,,
+785,79,Subject–Verb Agreement – Special and Exceptional Cases,One of the girls who _____ in our school _____ my sister.,studies; are,study; is,studies; is,study; are,study; is,MCQ,,,
+786,79,Subject–Verb Agreement – Special and Exceptional Cases,The only one of the players who _____ regularly is Rafi.,train,trains,training,are training,trains,MCQ,,,
+787,79,Subject–Verb Agreement – Special and Exceptional Cases,The books that _____ on the table belong to me.,is,was,are,has,are,MCQ,,,
+788,79,Subject–Verb Agreement – Special and Exceptional Cases,The colour of these flowers _____ beautiful.,are,is,have,were,is,MCQ,,,
+789,79,Subject–Verb Agreement – Special and Exceptional Cases,The number of students in our class _____ forty.,are,have,is,were,is,MCQ,,,
+790,79,Subject–Verb Agreement – Special and Exceptional Cases,Mathematics _____ an interesting subject.,are,have,were,is,is,MCQ,,,
+791,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,The little girl _____ beautifully.,sing,sings,singing,are singing,sings,MCQ,,,
+792,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,My friends _____ football every afternoon.,plays,playing,play,is playing,play,MCQ,,,
+793,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,I _____ happy to see you.,is,are,am,be,am,MCQ,,,
+794,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,She _____ a new bicycle.,have,has,having,are having,has,MCQ,,,
+795,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,_____ he like mangoes?,Do,Is,Does,Are,Does,MCQ,,,
+796,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,The children _____ very excited yesterday.,was,is,were,has,were,MCQ,,,
+797,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,The news _____ very surprising.,are,were,have,is,is,MCQ,,,
+798,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,The children _____ in the playground.,plays,play,playing,is playing,play,MCQ,,,
+799,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,Mathematics _____ my favourite subject.,are,have,is,were,is,MCQ,,,
+800,80,Subject–Verb Agreement – Comprehensive Revision and Assessment,The scissors _____ on the desk.,is,has,are,was,are,MCQ,,,
+801,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,There _____ a beautiful bird in the tree.,are,is,have,were,is,MCQ,,,
+802,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,There _____ five students in the classroom.,is,has,are,was,are,MCQ,,,
+803,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,There _____ some milk in the refrigerator.,are,were,have,is,is,MCQ,,,
+804,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,_____ there any pencils in your bag?,Is,Are,Has,Was,Are,MCQ,,,
+805,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,My brother and sister _____ good friends.,is,has,are,was,are,MCQ,,,
+806,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,Either the teacher or the students _____ responsible.,is,are,has,was,are,MCQ,,,
+807,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,Neither the students nor the teacher _____ absent.,are,were,is,have,is,MCQ,,,
+808,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,Every boy and girl _____ invited to the party.,are,have,is,were,is,MCQ,,,
+809,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,The owner and manager _____ present. (One person holds both positions.),are,is,have,were,is,MCQ,,,
+810,81,Subject–Verb Agreement – Comprehensive Revision and Assessment,The owner and the manager _____ present. (Two different people.),is,has,are,was,are,MCQ,,,
+811,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,Everybody _____ to be successful.,want,wants,wanting,are wanting,wants,MCQ,,,
+812,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,Both of the answers _____ correct.,is,has,are,was,are,MCQ,,,
+813,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,Several students _____ absent today.,is,are,has,was,are,MCQ,,,
+814,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,Some of the water _____ dirty.,are,were,is,have,is,MCQ,,,
+815,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,Some of the oranges _____ rotten.,is,has,are,was,are,MCQ,,,
+816,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,"The teacher, along with the students, _____ coming.",are,is,have,were,is,MCQ,,,
+817,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,"The students, as well as their teacher, _____ ready.",is,are,has,was,are,MCQ,,,
+818,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,A number of people _____ waiting outside.,is,are,has,was,are,MCQ,,,
+819,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,The number of visitors _____ increasing.,are,have,is,were,is,MCQ,,,
+820,82,Subject–Verb Agreement – Comprehensive Revision and Assessment,More than one student _____ absent today.,are,is,have,were,is,MCQ,,,
+821,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,Many a student _____ to win the competition.,want,wants,wanting,are wanting,wants,MCQ,,,
+822,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,One or more students _____ needed for the activity.,is,has,are,was,are,MCQ,,,
+823,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,The box of pencils _____ on the table.,are,were,is,have,is,MCQ,,,
+824,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,The quality of these products _____ excellent.,are,is,have,were,is,MCQ,,,
+825,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,The students in the classroom _____ quiet.,is,has,are,was,are,MCQ,,,
+826,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,Ten dollars _____ enough to buy this book.,are,have,is,were,is,MCQ,,,
+827,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,Two hours _____ passed since the meeting started.,has,have,is,was,have,MCQ,,,
+828,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,The Three Little Pigs _____ a famous story.,are,have,is,were,is,MCQ,,,
+829,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,Half of the cake _____ missing.,are,have,is,were,is,MCQ,,,
+830,83,Subject–Verb Agreement – Comprehensive Revision and Assessment,Half of the students _____ absent.,is,are,has,was,are,MCQ,,,
+831,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,80% of the rice _____ cooked.,are,were,have,is,is,MCQ,,,
+832,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,Most of the players _____ ready for the match.,is,are,has,was,are,MCQ,,,
+833,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,Swimming _____ good for our health.,are,have,is,were,is,MCQ,,,
+834,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,To learn a new language _____ patience.,require,requires,requiring,are requiring,requires,MCQ,,,
+835,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,The rich _____ not always happy.,is,has,are,was,are,MCQ,,,
+836,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,A pair of shoes _____ under the bed.,are,have,is,were,is,MCQ,,,
+837,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,Each of the boys _____ a schoolbag.,have,has,are,were,has,MCQ,,,
+838,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,Every one of the answers _____ correct.,are,have,is,were,is,MCQ,,,
+839,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,None of the milk _____ left in the bottle.,are,have,is,were,is,MCQ,,,
+840,84,Subject–Verb Agreement – Comprehensive Revision and Assessment,None of the students _____ absent today.,is,are,has,was,are,MCQ,,,
+841,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The boy who _____ next door is my friend.,live,lives,living,are living,lives,MCQ,,,
+842,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The girls who _____ in the choir are talented.,sings,sing,is singing,has sung,sing,MCQ,,,
+843,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,One of the boys who _____ football regularly _____ my friend.,plays; are,play; is,plays; is,play; are,play; is,MCQ,,,
+844,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The only one of the students who _____ regularly is Rafi.,study,studies,studying,are studying,studies,MCQ,,,
+845,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The police _____ investigating the incident.,is,has,are,was,are,MCQ,,,
+846,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The furniture in these rooms _____ expensive.,are,have,is,were,is,MCQ,,,
+847,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,Two-thirds of the land _____ covered with trees.,are,have,is,were,is,MCQ,,,
+848,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,Two-thirds of the trees _____ very tall.,is,are,has,was,are,MCQ,,,
+849,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The team _____ playing well as one unit.,are,is,have,were,is,MCQ,,,
+850,85,Subject–Verb Agreement – Comprehensive Revision and Assessment,The team _____ wearing different coloured shoes. (The members are considered individually.),is,are,has,was,are,MCQ,,,
